@@ -1,0 +1,176 @@
+{
+    "location": "Located at 3017 Danlig Street, cor. Tolentino Street",
+    "contact_number": ["8881-4403", "8881-4536", "8881-4951"],
+    "about": "<div>Post-War Pinagkaisahan.  After the war, Ayala y Cia turned the southeastern part of its property into the present Manila Golf Club.  Later on, the southwest rice fields were graded and became the North Forbes Park.  The national government’s “Highway 54” was completed.  This highway was later renamed Epifanio de los Santos Avenue or EDSA.  All these developments found several original families dislocated/relocated to other places in the barrio.  These developments also defined the present boundaries of Pinagkaisahan.</div> <div>True to its given name, Pinagkaisahan started to modernize mainly due to the united, bayanihan spirit among the residents where everybody knew everybody by their first names.  Associations and groups were formed for education, sports and economic purposes.  Civic organizations interacted with political forces to improve the community.</div>",
+    "population": [
+        {
+            "year": 2015,
+            "value": 5739
+        },
+        {
+            "year": 2010,
+            "value": 5804
+        }
+    ],
+    "mission": "Barangay Pinagkaisahan, in keeping up with the developments of the 21st century and our neighboring commercial and business districts, will prepare its human resources by ensuring that school children will stay in school and benefit from Makati’s free education program, and for our adults to take advantage of Makati’s free vocational-technical skills courses.  We will take advantage of our strategic location by assisting private property owners to maximize the use of their properties, and for existing businesses to grow, that taxes derived from their earnings will sustain our further growth and development.",
+    "vision": "We envision a decent community to live in, our children are in school, our adults are gainfully employed, and the once blighted areas transformed into productive properties, generating income to property owners and taxes for the government.",
+    "officials": [
+        {
+            "name": "Fernando B. Bolo",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Shyla Marie Ramos",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Editha M. Tolentino",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Ceferino V. Peralta, Jr.",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jasmine M. Magcale",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Delfin V. Lobo",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Karlo P. Poblete",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Kristine Marvi P. Reyes",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Wilfredo B. Waquiz",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Hyacinth C. Buncalan",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Justine R. Manlapig",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jeg M. Lalog",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Benjamin Christian M. Pineda",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jobielyn D. Capayas",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Marie Danielle B. Perinea",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Samantha M. Talamayan",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 12,
+            "day": 8,
+            "title": "Feast of Our Lady of Immaculate Conception & Araw ng Pinagkaisahan"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Barangay Pitogo"
+                },
+                {
+                    "name": "South",
+                    "value": "EDSA"
+                },
+                {
+                    "name": "East",
+                    "value": "Manila Golf Club and North Forbes Park"
+                },
+                {
+                    "name": "West",
+                    "value": "Forbes Park"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Pinos, Belleza"
+                },
+                {
+                    "name": "South",
+                    "value": "EDSA"
+                },
+                {
+                    "name": "East",
+                    "value": "Agutaya"
+                },
+                {
+                    "name": "West",
+                    "value": "Quingua"
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Slope Characteristics",
+                    "value": "Gradually sloping downwards from the west towards the northeast, where a creek cuts across the barangay"
+                },
+                {
+                    "name": "Physiography",
+                    "value": "Plains"
+                },
+                {
+                    "name": "Earthquake Risk",
+                    "value": "Far from any seismic or volcanic faults, but  two vehicular flyovers and several medium-rise buildings have recently been constructed and must be properly monitored"
+                },
+                {
+                    "name": "Total Land Area",
+                    "value": "160,300 sq. m."
+                },
+                {
+                    "name": "Existing Land Use",
+                    "value": "Generally residential-commercial along Harvard, Quingua and Kalayaan. Purely commercial along EDSA"
+                }
+            ]
+        }
+    ]
+}

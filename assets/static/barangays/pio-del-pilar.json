@@ -1,0 +1,176 @@
+{
+  "location": "Located at Washington Circle",
+  "contact_number": ["8400-7191 / 8550-2616 / 8556-1714"],
+  "about": "<div>Pio del Pilar, formerly known as Culi-Culi was once a vast rice field where fruit trees and vegetables abound. It was not a horse ranch but there were more than a hundred horses used to service calesas or karitelas which was the main transportation then.</div> <div>It was renamed Pio del Pilar after the hero, General Pio del Pilar, who was a resident of the place, through the effort of Atty. Ponciano Binay on June 1962.</div> <div>Formerly a red light district, Pio del Pilar was developed into one of the most prestigious and progressive barangays.</div>",
+  "population": [
+      {
+          "year": 2015,
+          "value": 30732
+      },
+      {
+          "year": 2010,
+          "value": 27035
+      }
+  ],
+  "mission":"",
+  "vision": "To achieve our vision for Barangay Pio del Pilar, we shall pursue a responsive,rational and integrated development strategy through the delivery of world class services towards the total upliftment of human and economic resources.",
+  "officials": [
+      {
+          "name": "Hazel Ann S. Lacia",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Michelle Y. Acha",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Eloisa Kathleen Nicolai M. Deferia",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Rolando G. Orca",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Ronnel M. Ortega",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Narcisa C. Reynaldo",
+          "position": "Severino L. Umandap",
+          "picture": null
+      },
+      {
+          "name": "Benedict D. Gawat",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Dennis R. Pancipane",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Mary Kates A. Chavez",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Roselyn A. Ramos",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Angelica N. Minay",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Archie R. Keller",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "John Albert B. Medina",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Charles Oliver G. Magbag",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Jayson Glenn A. Estrada",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 1,
+          "day": 23,
+          "title": "Feast of San Ildefonso"
+      },
+      {
+          "month": 1,
+          "day": 30,
+          "title": "Feast of St. John Don Bosco"
+      }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "San Isidro / San Antonio"
+              },
+              {
+                  "name": "South",
+                  "value": "Bangkal / San Lorenzo"
+              },
+              {
+                  "name": "East",
+                  "value": "San Lorenzo"
+              },
+              {
+                  "name": "West",
+                  "value": "Pasay City"
+              }
+          ]
+      },
+      {
+          "title": "Street Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Sen. Gil Puyat Ave. to west end line of South Super Highway"
+              },
+              {
+                  "name": "South",
+                  "value": "Dallas St."
+              },
+              {
+                  "name": "East",
+                  "value": "Don Chino Roces Ave."
+              },
+              {
+                  "name": "West",
+                  "value": "Tripa de Gallina Creek"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Slope Characteristics",
+                  "value": "Broad area of level to nearly level land"
+              },
+              {
+                  "name": "Physiography",
+                  "value": "Former tidal flat"
+              },
+              {
+                  "name": "Flood Intensity",
+                  "value": "High flood frequency"
+              },
+              {
+                  "name": "Land Area",
+                  "value": "880,900 sq. m."
+              },
+              {
+                  "name": "Existing Land Use",
+                  "value": "Commercial areas in Pio del Pilar are concentrated from P. Medina towards Pasong Tamo and along Washington St. South Super Highway, Evangelista and Arnaiz Ave. (formerly Pasay Road) are also commercial areas"
+              }
+          ]
+      }
+  ]
+}

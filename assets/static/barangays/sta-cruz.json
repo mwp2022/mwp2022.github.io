@@ -1,0 +1,181 @@
+{
+  "location": "Located at 4057 Gen. Del Pilar Street",
+  "contact_number": ["8728-1830 / 8728-1832 / 8728-1833"],
+  "about": "<div>Barangay Sta. Cruz was formerly a part of Brgy. Olympia and was known as Sitio Paltok (a higher place). This place was once a vast rice field that most of itsearly inhabitants were farmers. Although Paltok was a sitio of Olympia, it has its own “Tinyente del Barrio” in the person of Mr. Bayani Robles. <div>In the year 1959, The Congress approved the Barangay Charter known asRepublic Act No. 2320, following the Barangay Charter, in 1960 Barangay Olympia held its first barrio election to separate Sitio Sta Cruz. Accordingly, Mr.Bayani Robles was elected Barrio Lieutenant (Olympia) while Mr. MarceloAngeles as Vice Barrio Lieutenant (Sitio Sta. Cruz). <div>On the second term of Marcelo Angeles as Vice Barrio Lieutenant in 1962, he and some of the leaders of Sitio Sta. Cruz wrote an appeal to then Mayor Maximo Estrella to make sitio of Sta Cruz an independent barrio, because of aprovision set forth in the barrio charter act which stated that a sitio composed of at least 500 inhabitants can be recognized as a separate barrio, has been met,the appeal was recognized and was approved in 1964 by the Municipal Council of Makati and was finally approved by the Provincial Board of Rizal. Upon its recognition as independent barrio, the Sitio held their first barrio election. <div>Marcelo Angeles, who was the former Vice Barrio Lieutenant became the Barrio Captain from 1964 to 1972. He was succeeded by Morita Estrella from 1972-1976, followed by Amado Aluquin until his son Arthur, took over in 1982. Severino O. Victorino took over the Brgy. Captain post in 1986 until 2002 which made him the longest serving Barangay Captain of Barangay Sta. Cruz</div></div></div></div>",
+  "population": [
+      {
+          "year": 2015,
+          "value": 7207
+      },
+      {
+          "year": 2007,
+          "value": 6499
+      }
+  ],
+  "mission": "",
+  "vision": "",
+  "officials": [
+      {
+          "name": "Virginia V. Salenga",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Patricia Jhaye B. Jornales",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Merlito G. Tanato",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Kit H. Taguiang",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Joseph E. Panes",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Eric J. Carrianga",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Maria Katrina P. Alicando",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Enrico S. Evangelista",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Danilo M. Abalos",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Christine Joy G. Alcantara",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "John Angelo B. Capito",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Raxell P. Gomez",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jean Nicolas F. Nuguid",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Liezel Eusebio ",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Bernard Nor Nimez ",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Carlos Emmanuel A. Espiritu",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 5,
+          "day": "2nd Sunday",
+          "title": "Feast of the Finding of the Holy Cross"
+      },
+      {
+          "month": 9,
+          "day": 14,
+          "title": "Feast of Exaltation of the Holy Cross"
+      }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Olympia"
+              },
+              {
+                  "name": "South",
+                  "value": "San Antonio"
+              },
+              {
+                  "name": "East",
+                  "value": "Bel-Air"
+              },
+              {
+                  "name": "West",
+                  "value": "Tejeros"
+              }
+          ]
+      },
+      {
+          "title": "Street Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Kalayaan Avenue"
+              },
+              {
+                  "name": "South",
+                  "value": "Metropolitan Avenue"
+              },
+              {
+                  "name": "East",
+                  "value": "South Avenue"
+              },
+              {
+                  "name": "West",
+                  "value": "Pasong Tamo"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Slope Characteristics",
+                  "value": "0-10 meters / 0-3 degrees"
+              },
+              {
+                  "name": "Flood Intensity",
+                  "value": "Moderate to High"
+              },
+              {
+                  "name": "Earthquake Risk",
+                  "value": "Less vulnerable to earthquakes."
+              },
+              {
+                  "name": "Land Area",
+                  "value": "473,000 sq.m."
+              },
+              {
+                  "name": "Existing Land Use",
+                  "value": "Mix residential and commercial establishments"
+              }
+          ]
+      }
+  ]
+}

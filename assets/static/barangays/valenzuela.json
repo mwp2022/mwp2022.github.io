@@ -1,0 +1,156 @@
+{
+  "location": "Located at Hormiga cor. Pililia Street",
+  "contact_number": ["8519-9234"],
+  "about": "<div>Barangay Valenzuela was once musky, grassy and sprawling lowland with apopulation of less than 3,000 residents. It is a former Sitio of Barangay Olympia.</div> <div>In 1960, under the Republic Act No. 2370 known as the Barrio Charter Actenacted by the Philippine Congress, provided that any Sitio with 500 inhabitants or more can be a separated Barrio by way of Resolution of the residents.</div> <div>By Virtue of this act, in 1957 through the efforts of Mr. Juan Infante, Catalino Laysico, Apolonio Reyes, Mr. Ching Villareal a resolution was handed to the provincial government of Rizal then headed by Provincial Governor Isidro Rodriguez, to make Sitio Valenzuela an independent Barangay of Makati. On December 1967, the petition was granted making Sitio Valenzuela an independent Barangay of Makati. On the 3rd week of January 1968, the first regular election for Barangay Officials was held.By Virtue of this act, in 1957 through the efforts of Mr. Juan Infante, Catalino Laysico, Apolonio Reyes, Mr. Ching Villareal a resolution was handed to the provincial government of Rizal then headed by Provincial Governor Isidro Rodriguez, to make Sitio Valenzuela an independent Barangay of Makati. On December 1967, the petition was granted making Sitio Valenzuela an independent Barangay of Makati. On the 3rd week of January 1968, the first regular election for Barangay Officials was held.</div>",
+  "population": [
+      {
+          "year": 2015,
+          "value": 6310
+      },
+      {
+          "year": 2010,
+          "value": 7261
+      }
+  ],
+  "mission": "Barangay Valenzuela shall promote trade and commerce, foster environmental protection and maintain peace and order through its great leaders complemented by law abiding and responsible citizens.",
+  "vision": "We envision our barangay to be the most peaceful and cleanest community in Makati City. The Good Governance practice of its leaders will result in the positive business activities of this sector. Social and climate change compliance by its citizens will result in environment friendly community. Peace and order will prevail in the barangay.",
+  "officials": [
+      {
+          "name": "Michael A. Infante",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Lyall J. Dela Cruz",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "George Anthony V. Peña",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Carlo Daniel P. Daulat",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Rodney Tristan C. Cailles",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Dennis Rafael C. Bacod",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Susannah Patricia N. Infante",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Roberto A. Javier",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Nerine V. Sunga",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Ronald Christian M. Lopez",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jose Maria B. Tordera",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "John Christian M. Malonda",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Stephanie F. Malaque",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Caryl Alexis V. Dela ",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Jhorie D. David ",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Lancelot R. Sacro",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 5,
+          "day": 1,
+          "title": "Barangay Day andFeast of St. Joseph"
+      },
+      {
+          "month": 7,
+          "day": 25,
+          "title": "Feast Day of St. James"
+      }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Pasig River"
+              },
+              {
+                  "name": "South",
+                  "value": "Barangay Sta. Cruz"
+              },
+              {
+                  "name": "East",
+                  "value": "Barangay Poblacion"
+              },
+              {
+                  "name": "West",
+                  "value": "Barangay Olympia"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "SLOPE",
+                  "value": "0 – 3 degrees"
+              },
+              {
+                  "name": "ELEVATION",
+                  "value": "0 – 10 m"
+              },
+              {
+                  "name": "Land Area",
+                  "value": "251,400 Sq. M."
+              },
+              {
+                  "name": "Existing Land Use",
+                  "value": "Residential"
+              }
+          ]
+      }
+  ]
+}

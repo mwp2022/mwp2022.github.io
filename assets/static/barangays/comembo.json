@@ -1,0 +1,168 @@
+{
+    "location": "Located at Anahaw Street",
+    "contact_number": ["8625-5732", "8794-2079"],
+    "about": "The area now known as COMEMBO was formerly Mamancat.  Even before the coming of the Spanish colonizers, Mamancat was already a vibrant settlement teeming with various economic activities. As its names suggests, Mamancat – from Tagalog root word ancat – means import, a central place where good commodities were acquired, purchased or bartered. This activity complemented the role played by its more prosperous neighbor, Aguho (now Pateros) known also during the Spanish time as embarcadero or a place for embarkation.  It is an area where goods by foreign merchants coming from as far as India, China and the Middle East were brought and bartered for native goods and commodities.",
+    "population": [
+        {
+            "year": 2015,
+            "value": 16818
+        },
+        {
+            "year": 2010,
+            "value": 14433
+        }
+    ],
+    "mission": "The barangay shall promote a people oriented governance through education and constant interaction with all sectors of the community thus achieving a progressive and well-balanced environment suited for business and living.",
+    "vision": "We envision Comembo that is commercially progressive, family-oriented and whose residents have a sense of well-being, spiritually and morally upright, educated and with deep love to the environment and the community.",
+    "officials": [
+        {
+            "name": "Richard V. Peralta",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Roxan R. Sabile",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Ma. Meldy A. Tiamzon",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Edgardo P. Cleofas",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Dexter M. Croox",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Virgilio M. Jara",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Virgilio M. Cabagyo, Jr.",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Angelito S. De Vera",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Joven M. Gaspar",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Kimberly S. Estrada",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Khim R. Sta. Ana",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Anghelu S. De Vera",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Mhica P. Marcial",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Patricia Kyle O. Ocampo",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Prince Ernie A. Agular IV",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Franz Von Yves O. Romero",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 3,
+            "day": 15,
+            "title": "Feast of Mary Mirror of Justice"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "East Rembo"
+                },
+                {
+                    "name": "South",
+                    "value": "Municipality of Pateros"
+                },
+                {
+                    "name": "East",
+                    "value": "Municipality of Pateros"
+                },
+                {
+                    "name": "West",
+                    "value": "Pembo"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Anahaw and Chico Street"
+                },
+                {
+                    "name": "South",
+                    "value": "Langka St. and Pasig River"
+                },
+                {
+                    "name": "East",
+                    "value": "Pasig River"
+                },
+                {
+                    "name": "West",
+                    "value": "Langka II"
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Earthquake Risk",
+                    "value": "None to Low"
+                },
+                {
+                    "name": "Existing Land Use",
+                    "value": "309,000 sq.m"
+                },
+                {
+                    "name": "Patterns of Land Use",
+                    "value": "Comembo is located at the Southeastern of Makati and Northeastern of Fort Bonificio. It is generally a residential area except for strips of commercial areas along J.P. Rizal Extension, Anahaw, and Sampaguita Streets. Facilities available are Covered Court and Multi-Purpose Hall."
+                }
+            ]
+        }
+    ]
+}

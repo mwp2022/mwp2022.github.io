@@ -1,0 +1,178 @@
+{
+  "location": "Gate II Lawton Avenue",
+  "contact_number": ["8817-6381"],
+  "about": "The Military authorities first became aware of the importance of creating a barangay inside military reservation after the issuance of P.D. 86 on December 31, 1972, creating the Citizens Assemblies aim “To broaden the base of the citizens participation in democratic process and afford ample opportunities for their citizenry to express their views on important issues. Thus P.D. No. 557 dated November 6, 1974 was issued and as a result, two (2) barangays inside Fort Bonifacio came into existence: Barangay Southside Post Proper and Barangay Northside Post Proper. During that time, every barangay was being consulted to ratify a new constitution and the existence of a community composed of military personnel and their dependents had to be recognized.",
+  "population": [
+      {
+          "year": 2015,
+          "value":52428
+      },
+      {
+          "year": 2010,
+          "value":10458
+      }
+  ],
+  "mission": "Barangay Post Proper Southside will provide a venue in pursuit of excellence in governance and emerge as one of the economic equidistant and livable barangay south of Makati ; shall pursue implementing responsive, sustainable programs, projects and services such as (1) expand linkages and networking for job opportunities; (2) add more courses in livelihood to increase number of participants;  (3) strengthen the program on waste segregation and encourage all waste generators to help  promote the “Zero Waste Process”; (4) continue Tree Planting and Preservation.",
+  "vision": "",
+  "officials": [
+      {
+          "name": "Maribel F. Vitales",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Rogin S. Alquerro",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Maria M. Bautista",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Wilma V. Dava",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Rosario Q. Dela Cruz",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Gerlyn M. Pabilona",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Antonio B. Felices",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Danilo A. Tolentino",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Quirino V. Sarono",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Anna Mae V. Adamos",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jonathan M. Blanco",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Roanne S. Conception",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Elaine V. Garma",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jomar I. Carbonel",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Jeswin A. Evia",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Chenessa M. Lorejo",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 4,
+          "day": 5,
+          "title": "Feast of San Vicente Ferrer"
+      },
+      {
+          "month": 12,
+          "day": 8,
+          "title": "Feast of Immaculate Concepcion"
+      },
+      {
+        "month": 1,
+        "day": 14,
+        "title": "Feast of Santo Niño"
+    },
+    {
+      "month": 5,
+      "day": 1,
+      "title": "Feast of San Roque"
+  }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Post Proper North"
+              },
+              {
+                  "name": "South",
+                  "value": "Taguig"
+              },
+              {
+                  "name": "East",
+                  "value": "Rizal"
+              },
+              {
+                  "name": "West",
+                  "value": "Forbes Park"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Slope Characteristics",
+                  "value": "Moderately undulating & rolling land in many direction"
+              },
+              {
+                  "name": "Physiography",
+                  "value": "Undulating tuffaceous plain"
+              },
+              {
+                  "name": "Flood Intensity",
+                  "value": "Low"
+              },
+              {
+                  "name": "Earthquake Risk",
+                  "value": "None to Low"
+              },
+              {
+                  "name": "Total Land Area",
+                  "value": "243 hectares"
+              },
+              {
+                "name": "Landmark",
+                "value": "American Cemetery"
+            },
+              {
+                  "name": "Pattern of Land Use",
+                  "value": "Generally/Originally a military reservation area"
+              }
+          ]
+      }
+  ]
+}

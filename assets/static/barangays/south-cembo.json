@@ -1,0 +1,181 @@
+{
+  "location": "Located at 4057 Gen. Del Pilar Street",
+  "contact_number": ["8728-1830 / 8728-1832 / 8728-1833"],
+  "about": "<div>In early 1950’s, the Philippine Army established its permanent headquarters in Fort Bonifacio, formerly known as Fort McKinley. During the incumbency of the late Brig. General as Philippine Army Commanding General, He set aside a small portion of the sprawling military camp for the enlisted personnel’s temporary housing area. The place is located near Gate No.1 (North Gate) adjacent to Barangay Guadalupe Nuevo. The area was called then up to now as CENTRAL ENLISTED MEN’S BARRIO or CEMBO.</div> <div>Cembo proper then has an original five (5) districts. But, within a few years, the barrio had limited area for new occupants. Thus, the new occupants were given lots at the southern part of the Barangay proper or at the side of the creek. This led to the creation of another district- the 6th district or Cembo Annex, wherein, the incumbent Barangay Captain of Cembo proper was the late Lt. Alejandro Aquino.</div>",
+  "population": [
+      {
+          "year": 2015,
+          "value": 15103
+      },
+      {
+          "year": 2010,
+          "value": 14672
+      }
+  ],
+  "mission": "Barangay South Cembo aims to be the model for excellent, effective and efficient leadership and public service among all barangays.  To this end, it shall endeavor to uplift the morals and standard of living of its constituents through the delivery of basic social and economic services, the maintenance of a healthy and peaceful environment and the introduction of various livelihood programs for the benefit of the out-of-school youth and the unemployed.",
+  "vision": "<div>In pursuit of the vision of City Government of Makati, Barangay Cluster IV shall develop a livable, secured and healthy communities, non-sectarian delivery of basic services responsive to public needs with intensified linkages and networking programs.</div> <div>We commit to develop well-coordinated programs with strengthened economic-base and empowered citizenry guided by moral values and governed by the holistic approach on good governance.</div>",
+  "officials": [
+      {
+          "name": "Eva Dian M. Omar",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Carmina T. Corpuz",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Ferdinand V. Sacro",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Cesar B. Presas",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Timothy James S. Villamor",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Ma. Filipinas E. Dagdagan",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Trinidad F. Antiporda",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Noel J. Arayon",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "George G. Achacoso",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Regine Joy Lamzon",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Brian Agot",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Gleen Bravo, Jr.",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Renz Marion Soriano",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Rollins Bonifacio",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Shean Dennise Bande",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Gian Poblete",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 12,
+          "day": 9,
+          "title": "Feast of San Juan Diego"
+      },
+      {
+          "month": 5,
+          "day": 15,
+          "title": "Barangay South Cembo Foundation Day "
+      }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Cembo"
+              },
+              {
+                  "name": "South",
+                  "value": "Fort Bonifacio Global City"
+              },
+              {
+                  "name": "East",
+                  "value": "Post Proper Northside"
+              },
+              {
+                  "name": "West",
+                  "value": "Pitogo and Guadalupe Nuevo"
+              }
+          ]
+      },
+      {
+          "title": "Street Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Kalayaan Avenue"
+              },
+              {
+                  "name": "South",
+                  "value": "Lawton Avenue"
+              },
+              {
+                  "name": "East",
+                  "value": "Jacinto Street"
+              },
+              {
+                  "name": "West",
+                  "value": "Global City"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Slope Characteristics",
+                  "value": "Hilly terrain and the soil is mostly made of adobe rock formation below ground with a few meters of topsoil."
+              },
+              {
+                "name": "Earthquake Risk",
+                "value": "Less vulnerable to earthquakes."
+            },
+              {
+                  "name": "Flood Intensity",
+                  "value": "Not prone to flooding"
+              },
+              {
+                  "name": "Land Area",
+                  "value": "200,000 sq.m."
+              },
+              {
+                  "name": "Existing Land Use",
+                  "value": "0% to 95% residential use.  Very few were converted for business/commercial use during the last few years"
+              }
+          ]
+      }
+  ]
+}

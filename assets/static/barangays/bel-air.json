@@ -1,0 +1,172 @@
+{
+    "location": "Located at 40 Solar Street",
+    "contact_number": ["8895-4011", "8895-4408"],
+    "about": "Bel-Air Village is the third subdivision developed by Ayala. The Development, which started in 1957, was undertaken in four (4) phases. The village boundaries are clockwise, Estrella Street, EDSA, Jupiter Street, Nicanor Garcia (Reposo) Street, Kalayaan Avenue, Amapola Street, back to Estrella, Bangkal is a predominantly commercial area because of the business establishments along the main thorough fares like EDSA, South Superhighway and Evangelista St. where various automotives shops are situated.",
+    "population": [
+        {
+            "year": 2015,
+            "value": 23685
+        },
+        {
+            "year": 2010,
+            "value": 18280
+        }
+    ],
+    "mission": "We commit to responsible, accessible, and transparent governance, consistent with the values that are the pride of the BEL-AIR community. We embrace the diversity that enriches our community and will constantly seek consensus, partnerships and synergies that will maximize our resources, involve our residents and ultimately enhance our community. We shall continue to strengthen and build on BEL-AIR's culture of engagements, encouraging constant dialogue, active participation and mutual cooperation with other organizations within and outside of Makati City.",
+    "vision": "BEL-AIR will be a community of DISTINCTION and EXCELLENCE--- peaceful, drugfree, environmentally-friendly and progressive--- dedicated to the enrichment of the lives of its residents as well as its neighbors.",
+    "officials": [
+        {
+            "name": "Constancia Q. Lichauco",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Samantha Djoanna Vianney B. Javier",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Cynthia D. Cervantes",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Aileen T. Dionisio",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Noel J. Bautista",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Anna Michaela L. Abello",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Ma. Bella R. Oposa",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Paolo Romaldo F. Pagulayan",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Milagros S. Alora",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Isaac Philip Aguilar",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Danielle Victoria Samus",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Ma. Angela Paz",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Roberto Antonio Leviste",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Anne Therese Marie Martin",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "title": "Pasinaya Day"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Pio del Pilar"
+                },
+                {
+                    "name": "South",
+                    "value": "Magallanes Village"
+                },
+                {
+                    "name": "East",
+                    "value": "San Lorenzo Village"
+                },
+                {
+                    "name": "West",
+                    "value": "Pasay City"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Dallas St."
+                },
+                {
+                    "name": "South",
+                    "value": "EDSA"
+                },
+                {
+                    "name": "East",
+                    "value": "South Super highway"
+                },
+                {
+                    "name": "West",
+                    "value": "Tripa de Gallina"
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Slope Characteristics",
+                    "value": "Broad area of level to nearly level land"
+                },
+                {
+                    "name": "Physiography",
+                    "value": "Former tidal flat"
+                },
+                {
+                    "name": "Flood Intensity",
+                    "value": "Moderate"
+                },
+                {
+                    "name": "Earthquake Risk",
+                    "value": "Moderate to High"
+                },
+                {
+                    "name": "Water Body",
+                    "value": "Tripa de Gallina"
+                },
+                {
+                    "name": "Total Land Area",
+                    "value": "875,900 sq. m."
+                },
+                {
+                    "name": "Existing Land Use",
+                    "value": "Commercial establishments are concentrated along the main thorough fares like EDSA, South Super Highway and Evangelista. The rest are used as residential areas."
+                }
+            ]
+        }
+    ]
+}
