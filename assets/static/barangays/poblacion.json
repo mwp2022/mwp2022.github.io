@@ -1,7 +1,7 @@
 {
   "location": "Located at J.P. Rizal cor. DM Rivera Street",
   "contact_number": ["8896-4559 / 8899-7027 / 8899-1029"],
-  "about": "<div>Barangay Poblacion is the first settlement of the City of Makati. In fact, when you mentioned San Pedro Macati during the prewar period, it indicated Barangay Poblacion. Since it was the original community of the town, it became the center of the local government and has remained as such today.</div> <div>Official records show that the first Municipal President of Makati was its illustriousson who hails from Poblacion, Marcelino Magsaysay. Most of the succeeding Municipal Presidents or Mayors were likewise bonafide constituents of Poblacionnamely: Eusebio Arpilleda, Hermogenes Santos, Jose Magsaysay, Pedro Domingo, Ricardo Arpilleda, Nicanor Garcia, Jose Villena and Maximo Estrella.</div> <div>Although Poblacion has kept its old-world charm, it has also embraced modernity and economic development with the presence of a number of commercial establishments in the area, specifically along the main thorough fares of J.P. Rizal, Makati Ave., P. Burgos and Kalayaan, the Rockwell Center, the A. Venue Mall and Suites and the upcoming development by Century Properties and Picar Holdings in the old site of the International School called the Century City and Picar Place, respectively.</div>",
+  "about": "<div>Barangay Poblacion is the first settlement of the City of Makati. In fact, when you mentioned San Pedro Macati during the prewar period, it indicated Barangay Poblacion. Since it was the original community of the town, it became the center of the local government and has remained as such today.</div> <br> <div>Official records show that the first Municipal President of Makati was its illustriousson who hails from Poblacion, Marcelino Magsaysay. Most of the succeeding Municipal Presidents or Mayors were likewise bonafide constituents of Poblacionnamely: Eusebio Arpilleda, Hermogenes Santos, Jose Magsaysay, Pedro Domingo, Ricardo Arpilleda, Nicanor Garcia, Jose Villena and Maximo Estrella.</div><br>  <div>Although Poblacion has kept its old-world charm, it has also embraced modernity and economic development with the presence of a number of commercial establishments in the area, specifically along the main thorough fares of J.P. Rizal, Makati Ave., P. Burgos and Kalayaan, the Rockwell Center, the A. Venue Mall and Suites and the upcoming development by Century Properties and Picar Holdings in the old site of the International School called the Century City and Picar Place, respectively.</div>",
   "population": [
       {
           "year": 2015,
@@ -106,7 +106,7 @@
           "title": "Feast of Nuestra Señora de la Rosa"
       },
       {
-        "month": "lent",
+        "month": "Lent",
         "day": "2nd Sunday",
         "title": "Feast of Sto. Niño de Pasion"
     }
