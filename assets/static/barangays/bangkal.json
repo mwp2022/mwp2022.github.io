@@ -1,0 +1,179 @@
+{
+    "location": "Located at 3416 Gen. V. Lim Street",
+    "contact_number": ["8886-4489", "8886-4490", "8886-4491"],
+    "about": "Barangay Bangkal derived its name from the tree called 'Bangkal'. The early inhabitants gave the name because during those times, Bangkal trees were in abundance. To give more significance to the site, the residents planted the tree as its boundary marker. It used to abound with entertainment establishments catering both the locals and foreigners. The residents, however, being devout Christians and law abiding citizens, wanted to get rid of the notoriety in their place. And their efforts proved to be a success as can be seen in the improvements that had been effected in the community.",
+    "population": [
+        {
+            "year": 2015,
+            "value": 21650
+        },
+        {
+            "year": 2010,
+            "value": 23378
+        }
+    ],
+    "mission": "To achieve our vision for Barangay Bangkal, we shall pursue a responsible, rational, motivated and integrated development strategy through delivery of world class services towards the upliftment of human and economic resources.",
+    "vision": "We envision a Barangay Bangkal that is sustainable, highly developed,environmentally balanced, gender sensitive and progressive barangay whose residents have a sense of well being and are morally upright educated, disciplined, self-reliant and community oriented.",
+    "officials": [
+        {
+            "name": "Mario V. Montañez, II",
+            "position": "Punong Barangay",
+            "picture": "/assets/images/officials/mario-v-montanez.png"
+        },
+        {
+            "name": "Criselle Mhae H. Rele",
+            "position": "SK Chairperson",
+            "picture": "/assets/images/officials/crisselle-mhae-relle.png"
+        },
+        {
+            "name": "Virgilio M. Hilario, III",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Tricia Mae C. Eusebio",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Richard D. Saquilayan",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Albino G. Hildawa",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Edwin A. Paz",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Alfonso L. Policarpio, II",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Christian R. Jacinto",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Ram G. Saquilayan",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Angelo B. Borromeo  ",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Ara Faye A. Victoria",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Joyce C. Ventura",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "John Andrew T. Policarpio",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 1,
+            "day": 23,
+            "title": "Feast of San Ildefonso"
+        },
+        {
+            "month": 5,
+            "day": 13,
+            "title": "Our Lady of Fatima"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Pio del Pilar"
+                },
+                {
+                    "name": "South",
+                    "value": "Magallanes Village"
+                },
+                {
+                    "name": "East",
+                    "value": "San Lorenzo Village"
+                },
+                {
+                    "name": "West",
+                    "value": "Pasay City"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Dallas St."
+                },
+                {
+                    "name": "South",
+                    "value": "EDSA"
+                },
+                {
+                    "name": "East",
+                    "value": "South Super highway"
+                },
+                {
+                    "name": "West",
+                    "value": "Tripa de Gallina"
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Slope Characteristics",
+                    "value": "Broad area of level to nearly level land"
+                },
+                {
+                    "name": "Physiography",
+                    "value": "Former tidal flat"
+                },
+                {
+                    "name": "Flood Intensity",
+                    "value": "Moderate"
+                },
+                {
+                    "name": "Earthquake Risk",
+                    "value": "Moderate to High"
+                },
+                {
+                    "name": "Water Body",
+                    "value": "Tripa de Gallina"
+                },
+                {
+                    "name": "Total Land Area",
+                    "value": "875,900 sq. m."
+                },
+                {
+                    "name": "Existing Land Use",
+                    "value": "Commercial establishments are concentrated along the main thorough fares like EDSA, South Super Highway and Evangelista. The rest are used as residential areas."
+                }
+            ]
+        }
+    ]
+}

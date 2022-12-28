@@ -1,0 +1,164 @@
+{
+    "location": "Located at A.P.Reyes Avenue",
+    "contact_number": ["8550-1678"],
+    "about": "<div>The complete name of this Barangay is ISIDRO CARMONA. Isidro was a Filipino commander who led the revolt against the Spaniards during the Spanish regime.</div> <div>This Barangay was a former sitio of Barangay Tejeros during the 50’s until the early 60’s. The late Barrio Captains Miling Mangahas, Emiliano San Pascual, and their Barrio Councils worked it out until it was finally approved as an independent Barangay during the same period.</div>",
+    "population": [
+        {
+            "year": 2015,
+            "value": 3109
+        },
+        {
+            "year": 2010,
+            "value": 3096
+        }
+    ],
+    "mission": "The Barangay Government of Carmona will pave way in the creation of a sustainable economy; providing opportunities to its citizenry to become productive, maintain peace and order, deliver basic services and responsible civil servants attending to call of its citizenry.",
+    "vision": "To ensure and maintain a highly developed community that will carry the envision of sustainability, resiliency, and being responsive to basic services and be able to protect the constituents at all levels.",
+    "officials": [
+        {
+            "name": "Joselito M. Salvador",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Karlo Sumudlayon",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Jason S. Layug",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Andres F. Chua",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jeffrey L. Sordan",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Christopher B. Guerra",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Rosalie DL. Garcia",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Maria Andrea Paula S. Vicente",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Virgilio S. Guillermo",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Patrick Jay Sordan Punla",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Toni Rose Relacion Jorge",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Earl James Sta. Monica Lizo",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Marl Flor Ablon Enriquez",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jeanelle Nuque Tibay",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Rei Sumudlayon",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "John Paul Catigbe Soriano",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 12,
+            "day": 8,
+            "title": "Feast of the Immaculate Conception"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Pasig River"
+                },
+                {
+                    "name": "South",
+                    "value": "Sta. Cruz"
+                },
+                {
+                    "name": "East",
+                    "value": "Olympia"
+                },
+                {
+                    "name": "West",
+                    "value": "Tejeros and Kasilawan"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Hipodromo"
+                },
+                {
+                    "name": "South",
+                    "value": "South end fence of the Philippine Racing Club"
+                },
+                {
+                    "name": "East",
+                    "value": "Fortuna Street"
+                },
+                {
+                    "name": "West",
+                    "value": "Pascua Street"
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Total Land Area",
+                    "value": "352,900 sq. m."
+                },
+                {
+                    "name": "Existing Land Use",
+                    "value": "40% Residential; 50% Recreational and 10% Commercial and Educational"
+                }
+            ]
+        }
+    ]
+}

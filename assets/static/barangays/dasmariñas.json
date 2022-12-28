@@ -1,0 +1,135 @@
+{
+    "location": "1419 Kampanilla Street",
+    "contact_number": ["8812-3335", "8893-0215"],
+    "about": "Barangay Dasmariñas began as part of Barangay Forbes Park. In 1971, a group of residents spear headed the breakaway from Barangay Forbes Park because they feltthe needs of Dasmariñas were not being given priority despite the fact it had bigger population than North and South Forbes Park put together. The members of this group of leaders were Rene Tanseco, Col. Antonio Gana, Cesar J. Bautista, Atty.Eddie Hernandez, Arch. Pablo D. Panlilio, Isabel Wilson the late Atty. Alfredo Zamora and Luis Mana.",
+    "population": [
+        {
+            "year": 2015,
+            "value": 5589
+        },
+        {
+            "year": 2010,
+            "value": 5654
+        }
+    ],
+    "mission": "Barangay Dasmariñas will continually work to sustain its status as a model of exemplary local governance, constituency through efficient delivery of its basic, social, and economic services.",
+    "vision": "Barangay Dasmariñas envisions itself to continually sustain its status as a model community in the City of Makati. The vision will be accomplished by the efficient implementation of the various plans and programs which ensure the well-being of its constituency.",
+    "officials": [
+        {
+            "name": "Rossana Y. Hwang",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Jose Pio C. Guingona",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Stefano Angelo P. Lim",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Rodolfo R. Legaspi",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Lenny S. Yu",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Maria Mayda A. Tankiang",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Marco Alejandro D. Panlilio",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Francisco S. Ignacio, Jr.",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Cara Margarita E. Camara",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Corinna Victoria C. Martinez",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Antonio Julio I. Jacinto Jr.",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 1,
+            "day": "2nd Sunday",
+            "title": "Foundation Day"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Forbes Park"
+                },
+                {
+                    "name": "South",
+                    "value": "Magallanes Village"
+                },
+                {
+                    "name": "East",
+                    "value": "Portions of Forbes and Taguig"
+                },
+                {
+                    "name": "West",
+                    "value": "San Lorenzo Village"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "EDSA"
+                },
+                {
+                    "name": "South",
+                    "value": "Tamarind St."
+                },
+                {
+                    "name": "East",
+                    "value": "Banyan St."
+                },
+                {
+                    "name": "West",
+                    "value": "Amorsolo St."
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Total Land Area",
+                    "value": "1,903,300 sq. m."
+                }
+            ]
+        }
+    ]
+}

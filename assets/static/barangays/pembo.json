@@ -1,0 +1,181 @@
+{
+    "location": "Located at Blk. 204 L-1&2 Plaza Carriaga Street cor. Sampaguita Street",
+    "contact_number": ["8856-5672", "8856-5669", "8843-4292"],
+    "about": "<div>Pembo used to be a military reservation of the elite Armed Forces of the Philippines cracked unit, the First Ranger Regiment code - named \"PANTHERS\". The word \"Pembo\" is an acronym for PHANTERS ENLISTED MEN''S BARRIO. Only military dependents were allowed to reside in Pembo. As the years passed by, the military personnel and their dependents grew by the number, as they built their homes and learned to love the place and improvised structures gradually multiplied. Camp authorities, however, ordered the demolition of some of these structures in the military reservation.</div> <div>In February 1996, City Ordinance No. 96-010, an Ordinance creating a new Barangay - Barangay Rizal out of Barangay Pembo, principally authored by Hon. Councilor Astolfo C. Pimentel and co - authored by Vice Mayor Arturo S. Yabut and all member of the Sangguniang Panglungsod ng Makati, was enacted and approved.</div>",
+    "population": [
+        {
+            "year": 2015,
+            "value": 48275
+        },
+        {
+            "year": 2010,
+            "value": 44803
+        }
+    ],
+    "mission": "Barangay PEMBO’s mission is transformation, global change through adopting modernization and open sourcing, sustainably holistic, morally self-replicating. Highest of Good of All solutions founded on comprehensive and modifiable community, models duplicated globally that include sustainable solutions for infrastructure, food, education and arts, peace and order, disaster resilience, economics, fulfilled living and more.",
+    "vision": "Barangay Pembo’s vision is to facilitate the creation of a new age of cooperation, collaboration, innovation, creativity and increased happiness for the community by demonstrating what’s possible, open sourcing, free- sharing and best practices, accessible public service and making modular or total duplication easy, affordable and attractive to its constituents so that community development will spread for its own.",
+    "officials": [
+        {
+            "name": "Jeline M. Olfato",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Keith P. Diaz",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Catalina A. Balaoing",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Kim M. Abbang",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Josephine A. Bautista",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Henry L. Vera",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Dionicio L. Turingan",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Ronaldo R. Villanueva",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Marcial L. Millete",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Renzon I. Hular",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Majerie P. Librado",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Marvin Kenneth M. Tomboc",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Egie G. Cruz",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Danalyn G. Ravina",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Christina T. Cacayuan",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Nikki K. Marquez",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 5,
+            "day": 1,
+            "title": "Barangay Day & Feast of their secondary Patron St. Joseph Worker"
+        },
+        {
+            "month": 12,
+            "day": 14,
+            "title": "Feast of St.John of Cross"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "East Rembo"
+                },
+                {
+                    "name": "South",
+                    "value": "Comembo"
+                },
+                {
+                    "name": "East",
+                    "value": "C5 Road"
+                },
+                {
+                    "name": "West",
+                    "value": "Baranggay Rizal"
+                }
+            ]
+        },
+        {
+            "title": "Street Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Cadena de Amor St."
+                },
+                {
+                    "name": "South",
+                    "value": "Sen. Cadena de Amor St."
+                },
+                {
+                    "name": "East",
+                    "value": "C5 Road"
+                },
+                {
+                    "name": "West",
+                    "value": "Xyris St."
+                }
+            ]
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Slope Characteristics",
+                    "value": "Rolling Terrain"
+                },
+                {
+                    "name": "Physiography",
+                    "value": "Rough earth surface temperature climate dry and wet season"
+                },
+                {
+                    "name": "Flood Frequency",
+                    "value": "10 floods frequency per year"
+                },
+                {
+                    "name": "Total Land Area",
+                    "value": "639,800 sq. m."
+                },
+                {
+                    "name": "Existing Land Used",
+                    "value": "Residential, Government Infrastructure, Commercial"
+                }
+            ]
+        }
+    ]
+}

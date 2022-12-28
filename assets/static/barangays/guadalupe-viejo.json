@@ -1,0 +1,160 @@
+{
+    "location": "Located at Gumamela cor. Camia Street",
+    "contact_number": ["8890-1042", "8890-4198"],
+    "about": "Barangay Guadalupe Viejo has withstood the test of time within the City of Makati.  Today, it is a picture of progress as seen in the fast development of the shopping center popularly known as the Rockwell Center, the other first-class shopping center in Makati.  Rockwell features the Power Plant Mall popular with expatriates and high-class clienteles.  At the periphery of the center are many high-end residential condominium towers, the Asian Eye Institute, and a famous Ateneo Graduate School.",
+    "population": [
+        {
+            "year": 2015,
+            "value": 13415
+        },
+        {
+            "year": 2010,
+            "value": 16411
+        }
+    ],
+    "mission": "A model barangay, fast-pace in progress, highly resilient, tangible peace and order and reliable government. Eradicate drug pushers and users, minimize crime incidents, reduce unemployment by creating livelihood program, develop sports facilities, enhance waste prevention, and develop quality education and promote a healthy lifestyle.",
+    "vision": "To provide services that reaches out to Guadalupe Viejo''s constituency, build disaster resilient barangay through sustainable livelihood programs and social protection and programs that will ensure a harmonious, peaceful, health, safe, responsible, eco-friendly and progressive community.",
+    "officials": [
+        {
+            "name": "Heinrich Thaddeus M. Angeles",
+            "position": "Punong Barangay",
+            "picture": null
+        },
+        {
+            "name": "Kate Chrisline M. Cañega",
+            "position": "SK Chairperson",
+            "picture": null
+        },
+        {
+            "name": "Siegfred Jason A. Jacome",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Mikhail Sandino S. Gatchalian",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Abelardo U. Brillantes",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Luis P. Almario, Jr.",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Crisostomo B. Cunanan",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Agnes M. Agustin",
+            "position": "Barangay Kagawad",
+            "picture": null
+        },
+
+        {
+            "name": "Maria Pamela P. Mongoso",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Jonna Lou S. Enriquez",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Reema Clarisse B. Escubil",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Lowie L. Lapar",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Leanza U. Prestoza",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Emrick J. Gutierez",
+            "position": "SK Kagawad",
+            "picture": null
+        },
+        {
+            "name": "Dhenalyn May Evangelista",
+            "position": "SK Kagawad",
+            "picture": null
+        }
+    ],
+    "feast_day": [
+        {
+            "month": 2,
+            "day": "1st Sunday",
+            "title": "Barangay Day"
+        },
+        {
+            "month": 2,
+            "day": 2,
+            "title": "Nuestra Señora de Candelaria"
+        },
+        {
+            "month": 5,
+            "day": "3rd Sunday",
+            "title": "Nuestra Señora de Gracia"
+        }
+    ],
+    "physical_features": [
+        {
+            "title": "Barangay Boundaries",
+            "props": [
+                {
+                    "name": "North",
+                    "value": "Barangka Ibaba, (Mandaluyong City)"
+                },
+                {
+                    "name": "South",
+                    "value": "Pinagkaisahan"
+                },
+                {
+                    "name": "East",
+                    "value": "Guadalupe Nuevo"
+                },
+                {
+                    "name": "West",
+                    "value": "Portion of Poblacion and Bel-Air"
+                }
+            ]
+        },
+        {
+            "title": "",
+            "props": []
+        },
+        {
+            "title": "Physical Attributes",
+            "props": [
+                {
+                    "name": "Flood Intensity",
+                    "value": "Modulate"
+                },
+                {
+                    "name": "Slope Characteristics",
+                    "value": "Moderately undulating and rolling land sloping in many directions"
+                },
+                {
+                    "name": "Physiography",
+                    "value": "Undulating tuffaceous plain"
+                },
+                {
+                    "name": "Land Area",
+                    "value": "540,400 sq. m."
+                }
+            ]
+        }
+    ]
+}
