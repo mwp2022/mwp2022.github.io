@@ -1,0 +1,76 @@
+{
+  "title": "REGIONAL COURT TRIAL",
+  "tabs": ["Section", "Floor", "Contact No."],
+  "content": [
+      [
+          "Accounting",
+          "10",
+          "8870-1581"
+      ],
+      [
+          "Administrative Personnel",
+          "10",
+          "8899-8618 Loc: 1560"
+      ],
+      [
+          "Appeal",
+          "10",
+          "8870-1567"
+      ],
+      [
+          "Archives",
+          "10",
+          "8870-1571"
+      ],
+      [
+          "Cash",
+          "10",
+          "8870-1558"
+      ],
+      [
+          "Civil",
+          "10",
+          "8870-1567"
+      ],
+      [
+          "Criminal",
+          "10",
+          "8870-1557 / 8870-1537"
+      ],
+      [
+          "Library",
+          "10",
+          "8870-1531"
+      ],
+      [
+          "Mediation Room",
+          "10",
+          "8870-1577 / 8870-1570"
+      ],
+      [
+          "Notarial",
+          "10",
+          "8870-1549"
+      ],
+      [
+          "Sheriffs",
+          "10",
+          "8870-1575"
+      ],
+      [
+          "Special Proceedings / Land Registration Case (LRC)",
+          "10",
+          "8870-1505"
+      ],
+      [
+          "Social Services",
+          "10",
+          "8870-1559"
+      ],
+      [
+          "Statistics",
+          "10",
+          "8870-1559"
+      ]
+  ]
+}
