@@ -1,0 +1,43 @@
+{
+  "title": "FIRE DEPARTMENT",
+  "tabs": ["Office", "Head / Section Chief", "Contact Number"],
+  "content": [
+    [
+      "City Fire Chief",
+      "<strong>SUPT. FLOR-IAN A. GUERRERO</strong>",
+      "8813-2328"
+    ],
+    [
+      "District Superintendent Office",
+      "<strong>SUPT Jose S. Embang Jr.</strong>",
+      "8813-2341"
+    ],
+    [
+      "Chief Operations Office",
+      "<strong>SINP Xeriel P. Tamayo</strong>",
+      "8844-8663"
+    ],
+    [
+      "Administrative Officer",
+      "<strong>SINP Emilyn N. Doma</strong>",
+      "8844-3307"
+    ],
+    [
+      "Enforcement Unit (Operation)",
+      "<strong>SINSP Eric S. Derro</strong>",
+      "8813-2278"
+    ],
+    ["Arson", "<strong>SINSP Tito P. Purgatoryo</strong>", "8843-9122"],
+    ["Logistics", "<strong>INSP Rufino Y. Tañedo</strong>", "8843-4717"],
+    [
+      "Makati Fire Safety Foundation",
+      "<strong>Volter C. Villegas</strong>",
+      "8893-9977 8893-9988"
+    ],
+    [
+      "Office of City Fire Marshall",
+      "<strong>CINSP Jay Bernard C. Peña</strong>",
+      "8816-4014"
+    ]
+  ]
+}

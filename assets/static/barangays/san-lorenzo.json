@@ -1,0 +1,152 @@
+{
+  "location": "Located at 65 Amorsolo Street",
+  "contact_number": ["8519-3909 / 8519-3910 / 8893-3811 / 8553-4432"],
+  "about": "Barangay San Lorenzo (BSL) belongs to the 1st congressional district of Makati and is included under Cluster 1 or Central Cluster. It is considered as one of the richest barangays in the Philippines for embracing part of the Central Business District from where its revenue mainly comes from. BSL has a total land area of 1,734,100 square meters with a population of 12,995. The population density of Barangay San Lorenzo is 7 persons per 1,000 square meters.",
+  "population": [
+      {
+          "year": 0,
+          "value": 12995
+      }
+  ],
+  "mission": "<div>By providing management that communicates a sense of collective direction and long term vision. By guaranteeing the health and public safety of its constituents and transient population through effective and efficient peace and order and environmental policymeasures. By working in partnership with business stakeholders in promulgating guidelines and measures to facilitate business growth and development, maintain national and global competitiveness, and thereby generate employment and livelihood.</div> <div>By initiating and overseeing infrastructure development which strikes a balance between modern technology and preservation of ecological setting.</div>",
+  "vision": "We shall serve as a benchmark of excellence in the areas of good governance, peaceand order, wellness, environmental protection, competitiveness and in the optimal andequitable distribution of economic opportunities and preservation of ecological setting.",
+  "officials": [
+      {
+          "name": "Ernesto A. Moya",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Lorenzo Jose B. Escobal",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Carmina C. Ortega",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Marlene Clarissa L. Po",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Frederick R. Sibug",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jose Emmanuel A. Recto",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Carlos G. Sario",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "John Anthony L. Fernandez",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Edmond Edward M. Flaminiano",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Beatrice Dayrit",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Tellamy Gancia",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jana Hernandez",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Isabel Po",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Maxine Santiago",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Angelo Vizconde",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Ma. Allysandra Yabut",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Portions of San Antonio and Bel-Air"
+              },
+              {
+                  "name": "South",
+                  "value": "Dasmariñas"
+              },
+              {
+                  "name": "East",
+                  "value": "Urdaneta and Bel-Air"
+              },
+              {
+                  "name": "West",
+                  "value": "Pio del Pilar and Bangkal"
+              }
+          ]
+      },
+      {
+          "title": "Street Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Sen. Gil Puyat Ave."
+              },
+              {
+                  "name": "South",
+                  "value": "Pio del Pilar and Bangkal"
+              },
+              {
+                  "name": "East",
+                  "value": "Ayala Avenue"
+              },
+              {
+                  "name": "West",
+                  "value": "Pasong Tamo"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Land Area",
+                  "value": "1,734,100 sq.m."
+              }
+          ]
+      }
+  ]
+}

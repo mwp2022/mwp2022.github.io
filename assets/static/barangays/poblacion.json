@@ -1,0 +1,167 @@
+{
+  "location": "Located at J.P. Rizal cor. DM Rivera Street",
+  "contact_number": ["8896-4559 / 8899-7027 / 8899-1029"],
+  "about": "<div>Barangay Poblacion is the first settlement of the City of Makati. In fact, when you mentioned San Pedro Macati during the prewar period, it indicated Barangay Poblacion. Since it was the original community of the town, it became the center of the local government and has remained as such today.</div> <br> <div>Official records show that the first Municipal President of Makati was its illustriousson who hails from Poblacion, Marcelino Magsaysay. Most of the succeeding Municipal Presidents or Mayors were likewise bonafide constituents of Poblacionnamely: Eusebio Arpilleda, Hermogenes Santos, Jose Magsaysay, Pedro Domingo, Ricardo Arpilleda, Nicanor Garcia, Jose Villena and Maximo Estrella.</div><br>  <div>Although Poblacion has kept its old-world charm, it has also embraced modernity and economic development with the presence of a number of commercial establishments in the area, specifically along the main thorough fares of J.P. Rizal, Makati Ave., P. Burgos and Kalayaan, the Rockwell Center, the A. Venue Mall and Suites and the upcoming development by Century Properties and Picar Holdings in the old site of the International School called the Century City and Picar Place, respectively.</div>",
+  "population": [
+      {
+          "year": 2015,
+          "value": 25393
+      }
+  ],
+  "mission":
+  "<ul><li>Increase revenue from economic activities</li> <li>Reduce unemployment</li> <li>Improve physical environment which includes beautification of surroundings and conservation of heritage sites</li> <li>Minimize the incidence of crimes</li><li>Eradicate drug addiction</li> <li>Revive cultural traditions</li> <li>Increase tourist arrivals</li> <li>Increase in tourism-related establishments</li> <li>Inculcate “tourism culture” to residents</li> </ul>",
+  "vision": "We envision Barangay Poblacion to be the heritage and cultural center and an economic powerhouse of Makati, with empowered and God-loving residents who are proud of their rich past and are ready to face the challenges and developments ofthe future",
+  "officials": [
+      {
+          "name": "Benhur L. Cruz",
+          "position": "Punong Barangay",
+          "picture": null
+      },
+      {
+          "name": "Jullian Kyle G. San Mateo",
+          "position": "SK Chairperson",
+          "picture": null
+      },
+      {
+          "name": "Manuel A. Flores",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Jose Mikhail R. Villena",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Mary Margarette E. Alabastro",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Leopoldo F. Ventura",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Mark Anthony T. Gabutin",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Alexander G. Diez",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Conrado Meneleo S. Vasquez",
+          "position": "Barangay Kagawad",
+          "picture": null
+      },
+
+      {
+          "name": "Keisha Maurice D. Magno ",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Leandro A. Cruz ",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Ron Oswald G. Capco ",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "Robert Narciso S. Laurente",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+          "name": "John Paul Rupert M. Garcia",
+          "position": "SK Kagawad",
+          "picture": null
+      },
+      {
+        "name": "Diana S. Sta. Maria",
+        "position": "SK Kagawad",
+        "picture": null
+    },
+    {
+      "name": "Kirsten Adrienne Pagulayan Reyes",
+      "position": "SK Kagawad",
+      "picture": null
+  }
+  ],
+  "feast_day": [
+      {
+          "month": 6,
+          "day": 29,
+          "title": "Feast of Sts. Peter & Paul "
+      },
+      {
+          "month": 6,
+          "day": 30,
+          "title": "Feast of Nuestra Señora de la Rosa"
+      },
+      {
+        "month": "Lent",
+        "day": "2nd Sunday",
+        "title": "Feast of Sto. Niño de Pasion"
+    }
+  ],
+  "physical_features": [
+      {
+          "title": "Barangay Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Mandaluyong City"
+              },
+              {
+                  "name": "South",
+                  "value": "Bel-Air"
+              },
+              {
+                  "name": "East",
+                  "value": "Guadalupe Viejo"
+              },
+              {
+                  "name": "West",
+                  "value": "Valenzuela"
+              }
+          ]
+      },
+      {
+          "title": "Street Boundaries",
+          "props": [
+              {
+                  "name": "North",
+                  "value": "Pasig River"
+              },
+              {
+                  "name": "South",
+                  "value": "Polaris Street and Kalayaan Ave."
+              },
+              {
+                  "name": "East",
+                  "value": "Estrella St."
+              },
+              {
+                  "name": "West",
+                  "value": "Antipolo Street and Nicanor Garcia"
+              }
+          ]
+      },
+      {
+          "title": "Physical Attributes",
+          "props": [
+              {
+                  "name": "Land Area",
+                  "value": "1,034,200 sq.m."
+              }
+          ]
+      }
+  ]
+}
