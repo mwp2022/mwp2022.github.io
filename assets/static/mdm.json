@@ -1,0 +1,761 @@
+{ 
+    "department": [
+                    {
+                        "value": 1101,
+                        "label": "ASSESSMENT DEPARTMENT"
+                    },
+                    {
+                        "value": 1017,
+                        "label": "BUSINESS PERMIT OFFICE"
+                    },
+                    {
+                        "value": 1051,
+                        "label": "CITY CIVIL REGISTRATION OFFICE"
+                    },
+                    {
+                        "value": 8853,
+                        "label": "ECONOMIC ENTERPRISE MANAGEMENT OFFICE"
+                    },
+                    {
+                        "value": 3311,
+                        "label": "EDUCATION DEPARTMENT"
+                    },
+                    {
+                        "value": 1091,
+                        "label": "FINANCE DEPARTMENT"
+                    },
+                    {
+                        "value": 1061,
+                        "label": "GENERAL SERVICES DEPARTMENT"
+                    },
+                    {
+                        "value": 1131,
+                        "label": "LAW DEPARTMENT"
+                    },
+                    {
+                        "value": 1014,
+                        "label": "LIGA NG MGA BARANGAY"
+                    },
+                    {
+                        "value": 8761,
+                        "label": "MAKATI COOPERATIVE DEVELOPMENT OFFICE"
+                    },
+                    {
+                        "value": 4411,
+                        "label": "MAKATI HEALTH DEPARTMENT"
+                    },
+                    {
+                        "value": 7611,
+                        "label": "MAKATI SOCIAL WELFARE DEPARTMENT"
+                    },
+                    {
+                        "value": 8852,
+                        "label": "MUSEUM AND CULTURAL AFFAIRS OFFICE"
+                    },
+                    {
+                        "value": 1031,
+                        "label": "OFFICE OF THE CITY ADMINISTRATOR"
+                    },
+                    {
+                        "value": 4421,
+                        "label": "OSPITAL NG MAKATI"
+                    },
+                    {
+                        "value": 1013,
+                        "label": "PUBLIC SAFETY DEPARTMENT"
+                    },
+                    {
+                        "value": 3323,
+                        "label": "UNIVERSITY OF MAKATI"
+                    },
+                    {
+                        "value": 1041,
+                        "label": "URBAN DEVELOPMENT DEPARTMENT"
+                    },
+                    {
+                        "value": 8721,
+                        "label": "VETERINARY SERVICES OFFICE"
+                    }
+                ],
+
+    "purpose": [
+        {
+            "departmentid": 1101,
+            "list": [
+                {
+                    "value": 78,
+                    "label": "SECURING A COPY OF TAX DECLARATION OF REAL PROPERTY"
+                }
+            ]
+        },
+        {
+            "departmentid": 1017,
+            "list": [
+                {
+                    "value": 72,
+                    "label": "GETTING A BUSINESS PERMIT "
+                },
+                {
+                    "value": 71,
+                    "label": "SECURING AN INDIVIDUAL MAYORS PERMIT"
+                }
+            ]
+        },
+        {
+            "departmentid": 1051,
+            "list": [
+                {
+                    "value": 23,
+                    "label": "ACKNOWLEDGING/LEGITIMIZING A CHILD BY SUBSEQUENT MARRIAGE"
+                },
+                {
+                    "value": 21,
+                    "label": "ALLOWING AN ILLEGITIMATE CHILD TO USE HIS FATHER?S SURNAME"
+                },
+                {
+                    "value": 108,
+                    "label": "AMENDING CIVIL REGISTRY ENTRIES (ADOPTION, ANNULMENT, LEGAL SEPARATION, PRESUMPTIVE DEATH AND OTHER MISCELLANEOUS DOCUMENTS THAT NEED COURT DECREES)"
+                },
+                {
+                    "value": 25,
+                    "label": "APPLYING FOR A MARRIAGE LICENSE"
+                },
+                {
+                    "value": 27,
+                    "label": "APPLYING FOR A MARRIAGE LICENSE UNDER ARTICLE 34"
+                },
+                {
+                    "value": 30,
+                    "label": "APPLYING FOR A PRE-MARRIAGE COUNSELING CERTIFICATE"
+                },
+                {
+                    "value": 20,
+                    "label": "APPLYING FOR CHANGE OF FIRST NAME/ NICKNAME UNDER REPUBLIC ACT. NO. 9048"
+                },
+                {
+                    "value": 15,
+                    "label": "APPLYING FOR DELAYED REGISTRATION OF BIRTH"
+                },
+                {
+                    "value": 33,
+                    "label": "APPLYING FOR DELAYED REGISTRATION OF DEATH CERTIFICATE"
+                },
+                {
+                    "value": 26,
+                    "label": "APPLYING FOR DELAYED REGISTRATION OF MARRIAGE CERTIFICATES"
+                },
+                {
+                    "value": 32,
+                    "label": "APPLYING FOR OUT-OF-TOWN REPORTING OF DEATH CERTIFICATE"
+                },
+                {
+                    "value": 19,
+                    "label": "CORRECTING CLERICAL OR TYPOGRAPHICAL ERROR UNDER REPUBLIC ACT NO 9048"
+                },
+                {
+                    "value": 24,
+                    "label": "CORRECTING OMITTED ENTRIES IN THE CIVIL REGISTRY"
+                },
+                {
+                    "value": 31,
+                    "label": "ELECTING CITIZENSHIP/REPATRIATION"
+                },
+                {
+                    "value": 22,
+                    "label": "FILING APPLICATION FOR FOUNDLING"
+                },
+                {
+                    "value": 18,
+                    "label": "GETTING SECURITY PAPERS (SECPA)"
+                },
+                {
+                    "value": 17,
+                    "label": "PROCESSING AN OUT-OF-TOWN REPORT OF BIRTH CERTIFICATE"
+                },
+                {
+                    "value": 14,
+                    "label": "REGISTERING A BIRTH CERTIFICATE ON TIME"
+                },
+                {
+                    "value": 29,
+                    "label": "REGISTERING A PRE-NUPTIAL AGREEMENT"
+                },
+                {
+                    "value": 16,
+                    "label": "REGISTERING BIRTH OF CHILDREN IN NEED OF SPECIAL PROTECTION"
+                },
+                {
+                    "value": 28,
+                    "label": "REGISTERING MARRIAGE CONTRACT ON TIME"
+                },
+                {
+                    "value": 34,
+                    "label": "REGISTERING OF DEATH CERTIFICATES"
+                },
+                {
+                    "value": 109,
+                    "label": "SECURING CERTIFIED TRUE COPY (CTC) OF CIVIL REGISTRY DOCUMENTS (BIRTH, MARRIAGE AND DEATH CERTIFICATES) AND MISCELLANEOUS DOCUMENTS"
+                }
+            ]
+        },
+        {
+            "departmentid": 8853,
+            "list": [
+                {
+                    "value": 75,
+                    "label": "APPLYING FOR A UNIT AT THE MAKATI HOME 1 AND MAKATI HOMES 2"
+                },
+                {
+                    "value": 74,
+                    "label": "MARKET AND SLAUGHTERHOUSE RULES"
+                }
+            ]
+        },
+        {
+            "departmentid": 3311,
+            "list": [
+                {
+                    "value": 43,
+                    "label": "ENROLING AT THE MAKATI SCIENCE HIGH SCHOOL"
+                },
+                {
+                    "value": 41,
+                    "label": "ENROLING IN CLASSES FOR SPECIAL CHILDREN   "
+                },
+                {
+                    "value": 39,
+                    "label": "ENROLING IN MAKATI PUBLIC SCHOOLS "
+                },
+                {
+                    "value": 42,
+                    "label": "ENROLING IN THE OPEN HIGH SCHOOL SYSTEM   "
+                },
+                {
+                    "value": 45,
+                    "label": "GETTING A MAKATI CITY LIBRARY CARD "
+                },
+                {
+                    "value": 40,
+                    "label": "RECEIVING FREE WORKBOOKS, SCHOOL SUPPLIES "
+                }
+            ]
+        },
+        {
+            "departmentid": 1091,
+            "list": [
+                {
+                    "value": 112,
+                    "label": "CEMETERY LOTS"
+                },
+                {
+                    "value" :77,
+                    "label": "ELECTRONIC TAX PAYMENT IN  BARANGAYS"
+                },
+                {
+                    "value" :79,
+                    "label": "PAYING AMUSEMENT TAX"
+                },
+                {
+                    "value" :81,
+                    "label": "PAYING CATTLE/HORSE REGISTRATION"
+                },
+                {
+                    "value" :83,
+                    "label": "PAYING COMMUNITY TAX CERTIFICATE (CORPORATION"
+                },
+                {
+                    "value" :84,
+                    "label": "PAYING COMMUNITY TAX CERTIFICATE (INDIVIDUAL"
+                },
+                {
+                    "value" :80,
+                    "label": "PAYING DELIVERY TRUCKS OR VANS"
+                },
+                {
+                    "value" :86,
+                    "label": "PAYING FRANCHISE AND OTHER FEES ON TRICYCLE OPERATION"
+                },
+                {
+                    "value" :85,
+                    "label": "PAYING FRANCHISE TAX"
+                },
+                {
+                    "value" :87,
+                    "label": "PAYING GASOLINE STATION DISPENSING PUMPS"
+                },
+                {
+                    "value" :88,
+                    "label": "PAYING HEALTH CERTIFICATE FEES"
+                },
+                {
+                    "value" :89,
+                    "label": "PAYING INFORMATION TECHNOLOGY (IT) PEZA"
+                },
+                {
+                    "value" :90,
+                    "label": "PAYING MAKATI PARK AND GARDEN USE"
+                },
+                {
+                    "value" :91,
+                    "label": "PAYING MARKET FEES"
+                },
+                {
+                    "value" :92,
+                    "label": "PAYING PARKING FEE"
+                },
+                {
+                    "value" :93,
+                    "label": "PAYING PEDDLERS TAX"
+                },
+                {
+                    "value" :94,
+                    "label": "PAYING PERMIT FEE FOR COCKFIGHTING"
+                },
+                {
+                    "value" :95,
+                    "label": "PAYING PERMIT FEE FOR COCKPIT OWNERS/OPERATORS/LICENSES AND COCKPIT PERSONNEL "
+                },
+                {
+                    "value" :96,
+                    "label": "PAYING PERMIT FEE FOR PARADES"
+                },
+                {
+                    "value" :97,
+                    "label": "PAYING POLICE CLEARANCE FEES"
+                },
+                {
+                    "value" :98,
+                    "label": "PAYING PRINTERS AND PUBLISHERS TAX"
+                },
+                {
+                    "value" :99,
+                    "label": "PAYING PROFESSIONAL TAX (PTR"
+                },
+                {
+                    "value" :76,
+                    "label": "PAYING REAL PROPERTY TAXES "
+                },
+                {
+                    "value": 100,
+                    "label": "PAYING REGISTRATION FEES ON BICYCLES AND TRICYCLES"
+                },
+                {
+                    "value": 101,
+                    "label": "PAYING SEALING AND LICENSING OF WEIGHTS AND MEASURES"
+                },
+                {
+                    "value": 102,
+                    "label": "PAYING SLAUGHTER AND CORRAL FEES"
+                },
+                {
+                    "value": 103,
+                    "label": "PAYING TRANSFER FEE FOR ISSUANCE OF NEW TAX DECLARATION NUMBER"
+                },
+                {
+                    "value": 104,
+                    "label": "PAYING TRANSFER OF REAL PROPERTY OWNERSHIP"
+                }
+            ]
+        },
+        {
+            "departmentid": 1061,
+            "list": [
+                {
+                    "value": 73,
+                    "label": "REGISTRATION OF PROSPECTIVE SUPPLIERS/ BIDDERS"
+                }
+            ]
+        },
+        {
+            "departmentid": 1131,
+            "list": [
+                {
+                    "value": 69,
+                    "label": "FILING ADMINISTRATIVE CASES AGAINST ERRING OFFICERS AND EMPLOYEES OF MAKATI CITY HALL"
+                },
+                {
+                    "value": 106,
+                    "label": "GETTING A MAYOR¿S CLEARANCE"
+                },
+                {
+                    "value": 67,
+                    "label": "GETTING FREE LEGAL COUNSELING "
+                },
+                {
+                    "value": 111,
+                    "label": "OBTAINING AND NOTARIZING AFFIDAVITS AND OTHER LEGAL DOCUMENTS FOR SECURING A YELLOW CARD (MAKATI HEALTH PLUS CARD), BLU CARD, WHITE CARD OR THE NATIONAL SENIOR CITIZEN¿S CARD"
+                },
+                {
+                    "value": 68,
+                    "label": "REQUESTING FOR A LEGAL OPINION "
+                }
+            ]
+        },
+        {
+            "departmentid": 1014,
+            "list": [
+                {
+                    "value": 66,
+                    "label": "FILING OF COMPLAINTS AGAINST BARANGAY OFFICIALS"
+                }
+            ]
+        },
+        {
+            "departmentid": 8761,
+            "list": [
+                {
+                    "value": 50,
+                    "label": "ORGANIZING AND DEVELOPING COOPERATIVES"
+                }
+            ]
+        },
+        {
+            "departmentid": 4411,
+            "list": [
+                {
+                    "value": 59,
+                    "label": "APPLYING FOR A SANITARY PERMIT FOR WATER REFILLING STATIONS"
+                },
+                {
+                    "value": 51,
+                    "label": "AVAILING OF HEALTH CARE SERVICES AT THE BARANGAY HEALTH CENTERS"
+                },
+                {
+                    "value": 58,
+                    "label": "AVAILING OF LABORATORY SERVICES (DISTRICT HEALTH LABORATORY)"
+                },
+                {
+                    "value": 52,
+                    "label": "CARDIOVASCULAR HEALTH PACKAGE"
+                },
+                {
+                    "value": 54,
+                    "label": "EMPLOYEES CLINIC, EPIDEMIOLOGY AND DISEASE SURVEILLANCE, DRUG TESTING FOR PRE-EMPLOYMENT"
+                },
+                {
+                    "value": 53,
+                    "label": "FOOD SANITATION, INSECT AND VERMIN CONTROL, AMBULANCE SERVICES"
+                },
+                {
+                    "value": 110,
+                    "label": "GUIDELINES IN PROPER COLLECTION OF WATER SAMPLE FOR LABORATORY ANALYSIS (FOR ALL KINDS OF SOURCES, INCLUDING MANILA WATER, MAYNILAD, HAND PUMP, ETC.)"
+                },
+                {
+                    "value": 55,
+                    "label": "SECURING A HEALTH CERTIFICATE FOR FOOD HANDLERS"
+                },
+                {
+                    "value": 56,
+                    "label": "SECURING A HEALTH CERTIFICATE FOR NON-FOOD HANDLERS"
+                },
+                {
+                    "value": 57,
+                    "label": "SECURING A HEALTH CERTIFICATE FOR WORKERS IN ENTERTAINMENT ESTABLISHMENTS"
+                },
+                {
+                    "value": 60,
+                    "label": "SECURING A PERMIT FOR DESIGNATED SMOKING AREAS"
+                },
+                {
+                    "value": 1,
+                    "label": "SECURING A YELLOW CARD"
+                }
+            ]
+        },
+        {
+            "departmentid": 7611,
+            "list": [
+                {
+                    "value": 2,
+                    "label": "APPLYING FOR A BLU CARD I.D"
+                },
+                {
+                    "value": 3,
+                    "label": "APPLYING FOR A SOLO PARENT I.D"
+                },
+                {
+                    "value": 8,
+                    "label": "AVAILING OF THE BALIK-PROBINSYA PROGRAM"
+                },
+                {
+                    "value": 11,
+                    "label": "CASE MANAGEMENT FOR CHILDREN IN NEED OF SPECIAL PROTECTION DUE TO ABUSE, NEGLECT, OR ABANDONMENT"
+                },
+                {
+                    "value": 4,
+                    "label": "ENROLING YOUR CHILD IN A DAY CARE CENTER"
+                },
+                {
+                    "value": 12,
+                    "label": "GETTING BURIAL ASSISTANCE UNDER THE BLU CARD PROGRAM"
+                },
+                {
+                    "value": 13,
+                    "label": "GETTING BURIAL ASSISTANCE UNDER THE EMERGENCY ASSISTANCE PROGRAM"
+                },
+                {
+                    "value": 10,
+                    "label": "GETTING CASH GIFT UNDER THE BLU CARD PROGRAM"
+                },
+                {
+                    "value": 6,
+                    "label": "GETTING MOBILITY AIDS FOR PERSONS WITH DISABILITY (PWD"
+                },
+                {
+                    "value": 7,
+                    "label": "SECURING SOCIAL SERVICES FOR WOMEN IN ESPECIALLY DIFFICULT CIRCUMSTANCES"
+                },
+                {
+                    "value": 9,
+                    "label": "SECURING SOCIAL SERVICES FOR YOUTH OFFENDER AND JUVENILE DELINQUENTS"
+                },
+                {
+                    "value": 5,
+                    "label": "SELF-EMPLOYMENT AND THE MAKATI TULONG PANGKABUHAYAN"
+                }
+            ]
+        },
+        {
+            "departmentid": 8852,
+            "list": [
+                {
+                    "value": 37,
+                    "label": "CULTURAL SHOWS"
+                },
+                {
+                    "value": 35,
+                    "label": "IN-HOUSE EXHIBIT"
+                },
+                {
+                    "value": 38,
+                    "label": "KASALAN NG BAYAN"
+                },
+                {
+                    "value": 36,
+                    "label": "SEEKING ASSISTANCE FOR AMATEUR AND PROFESSIONAL ARTISTS"
+                }
+            ]
+        },
+        {
+            "departmentid": 1031,
+            "list": [
+                {
+                    "value": 105,
+                    "label": "SPECIAL PERMITS, APPLICATION AND APPROVAL"
+                }
+            ]
+        },
+        {
+            "departmentid": 4421,
+            "list": [
+                {
+                    "value":65,
+                    "label": "AVAILING OF MEDICAL SERVICES USING THE YELLOW CARD"
+                }
+            ]
+        },
+        {
+            "departmentid": 1013,
+            "list": [
+                {
+                    "value":49,
+                    "label": "INTERMENT AT MAKATI CEMETERY"
+                },
+                {
+                    "value":47,
+                    "label": "REDEEMING CONFISCATED CAR PLATE"
+                },
+                {
+                    "value":46,
+                    "label": "REDEEMING TOWED VEHICLE"
+                },
+                {
+                    "value":48,
+                    "label": "RETRIEVAL OF IMPOUNDED DOGS"
+                }
+            ]
+        },
+        {
+            "departmentid": 3323,
+            "list": [
+                {
+                    "value":44,
+                    "label": "ENROLING AT UNIVERSITY OF MAKATI (UMAK) "
+                },
+                {
+                    "value":107,
+                    "label": "SECURING TRAININGS FOR EMPLOYMENT AND ENTREPRENEURIAL DEVELOPMENT"
+                }
+            ]
+        },
+        {
+            "departmentid": 1041,
+            "list": [
+                {
+                    "value": 70,
+                    "label": "PROCESSING AND ISSUANCE OF LOCATIONAL CLEARANCE"
+                }
+            ]
+        },
+        {
+            "departmentid": 8721,
+            "list": [
+                {
+                    "value": 63,
+                    "label": "NEUTERING/SPAYING OF DOGS/CATS "
+                },
+                {
+                    "value": 62,
+                    "label": "PET CONSULTATION "
+                },
+                {
+                    "value": 61,
+                    "label": "PET VACCINATION"
+                },
+                {
+                    "value": 64,
+                    "label": "REGISTRATION OF MEAT HANDLERS "
+                }
+            ]
+        }
+    ],
+
+    "baranggay": [
+                    {
+                        "value": "000",
+                        "label": "NON MAKATI"
+                    },
+                    {
+                        "value": "001",
+                        "label": "BANGKAL"
+                    },
+                    {
+                        "value": "002",
+                        "label": "BEL-AIR "
+                    },
+                    {
+                        "value": "003",
+                        "label": "CARMONA"
+                    },
+                    {
+                        "value": "006",
+                        "label": "CEMBO"
+                    },
+                    {
+                        "value": "008",
+                        "label": "COMEMBO"
+                    },
+                    {
+                        "value": "004",
+                        "label": "DASMARINAS "
+                    },
+                    {
+                        "value": "011",
+                        "label": "EAST REMBO"
+                    },
+                    {
+                        "value": "005",
+                        "label": "FORBES PARK "
+                    },
+                    {
+                        "value": "015",
+                        "label": "GUADALUPE NUEVO"
+                    },
+                    {
+                        "value": "016",
+                        "label": "GUADALUPE VIEJO"
+                    },
+                    {
+                        "value": "017",
+                        "label": "KASILAWAN"
+                    },
+                    {
+                        "value": "018",
+                        "label": "LA PAZ"
+                    },
+                    {
+                        "value": "019",
+                        "label": "MAGALLANES "
+                    },
+                    {
+                        "value": "020",
+                        "label": "OLYMPIA"
+                    },
+                    {
+                        "value": "021",
+                        "label": "PALANAN"
+                    },
+                    {
+                        "value": "009",
+                        "label": "PEMBO"
+                    },
+                    {
+                        "value": "022",
+                        "label": "PINAGKAISAHAN"
+                    },
+                    {
+                        "value": "023",
+                        "label": "PIO DEL PILAR"
+                    },
+                    {
+                        "value": "010",
+                        "label": "PITOGO"
+                    },
+                    {
+                        "value": "024",
+                        "label": "POBLACION"
+                    },
+                    {
+                        "value": "013",
+                        "label": "POST PROPER NORTHSIDE"
+                    },
+                    {
+                        "value": "014",
+                        "label": "POST PROPER SOUTHSIDE"
+                    },
+                    {
+                        "value": "033",
+                        "label": "RIZAL"
+                    },
+                    {
+                        "value": "025",
+                        "label": "SAN ANTONIO"
+                    },
+                    {
+                        "value": "026",
+                        "label": "SAN ISIDRO"
+                    },
+                    {
+                        "value": "027",
+                        "label": "SAN LORENZO "
+                    },
+                    {
+                        "value": "028",
+                        "label": "SINGKAMAS"
+                    },
+                    {
+                        "value": "007",
+                        "label": "SOUTH CEMBO"
+                    },
+                    {
+                        "value": "029",
+                        "label": "STA. CRUZ"
+                    },
+                    {
+                        "value": "030",
+                        "label": "TEJEROS"
+                    },
+                    {
+                        "value": "031",
+                        "label": "URDANETA "
+                    },
+                    {
+                        "value": "032",
+                        "label": "VALENZUELA"
+                    },
+                    {
+                        "value": "012",
+                        "label": "WEST REMBO"
+                    }
+    ]
+}
