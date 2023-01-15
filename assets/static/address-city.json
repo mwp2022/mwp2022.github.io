@@ -1,0 +1,9788 @@
+[
+    {
+      "Provinceid": 26,
+      "Cityname": "Aborlan",
+      "Id": 538,
+      "Zipcode": "5302"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Abra de Ilog",
+      "Id": 512,
+      "Zipcode": "5108"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Abucay",
+      "Id": 244,
+      "Zipcode": "2114"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Abulug",
+      "Id": 149,
+      "Zipcode": "3517"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Abuyog",
+      "Id": 989,
+      "Zipcode": "6510"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Adams",
+      "Id": 18,
+      "Zipcode": "2922"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Agdangan",
+      "Id": 451,
+      "Zipcode": "4304"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Aglipay",
+      "Id": 230,
+      "Zipcode": "3403"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Agno",
+      "Id": 95,
+      "Zipcode": "2408"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Agoncillo",
+      "Id": 365,
+      "Zipcode": "4211"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Agoo",
+      "Id": 75,
+      "Zipcode": "2504"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Aguilar",
+      "Id": 96,
+      "Zipcode": "2415"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Aguinaldo",
+      "Id": 1601,
+      "Zipcode": "3606"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Agutaya",
+      "Id": 539,
+      "Zipcode": "5320"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Ajuy",
+      "Id": 750,
+      "Zipcode": "5012"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Akbar",
+      "Id": 1434,
+      "Zipcode": "7306"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Al-Barka",
+      "Id": 1435,
+      "Zipcode": "7304"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Alabat",
+      "Id": 452,
+      "Zipcode": "4333"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Alabel",
+      "Id": 1330,
+      "Zipcode": "9501"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Alamada",
+      "Id": 1312,
+      "Zipcode": "9413"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Alaminos",
+      "Id": 422,
+      "Zipcode": "4001"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Alaminos City",
+      "Id": 97,
+      "Zipcode": "2404"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Alangalang",
+      "Id": 990,
+      "Zipcode": "6517"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Albuera",
+      "Id": 991,
+      "Zipcode": "6542"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Albuquerque",
+      "Id": 826,
+      "Zipcode": "6302"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Alcala",
+      "Id": 150,
+      "Zipcode": "3507"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Alcala",
+      "Id": 98,
+      "Zipcode": "2425"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Alcantara",
+      "Id": 874,
+      "Zipcode": "6033"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Alcantara",
+      "Id": 562,
+      "Zipcode": "5509"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Alcoy",
+      "Id": 875,
+      "Zipcode": "6023"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Alegria",
+      "Id": 876,
+      "Zipcode": "6030"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Alegria",
+      "Id": 1394,
+      "Zipcode": "8425"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Aleosan",
+      "Id": 1313,
+      "Zipcode": "9415"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Alfonso",
+      "Id": 399,
+      "Zipcode": "4123"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Alfonso Castaneda",
+      "Id": 215,
+      "Zipcode": "3714"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Alfonso Lista",
+      "Id": 1602,
+      "Zipcode": "3608"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Aliaga",
+      "Id": 280,
+      "Zipcode": "3111"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Alicia",
+      "Id": 827,
+      "Zipcode": "6314"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Alicia",
+      "Id": 178,
+      "Zipcode": "3306"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Alicia",
+      "Id": 1156,
+      "Zipcode": "7040"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Alilem",
+      "Id": 41,
+      "Zipcode": "2716"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Alimodian",
+      "Id": 751,
+      "Zipcode": "5028"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Alitagtag",
+      "Id": 366,
+      "Zipcode": "4205"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Allacapan",
+      "Id": 151,
+      "Zipcode": "3523"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Allen",
+      "Id": 1032,
+      "Zipcode": "6405"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Almagro",
+      "Id": 1056,
+      "Zipcode": "6724"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Almeria",
+      "Id": 958,
+      "Zipcode": "6544"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Aloguinsan",
+      "Id": 877,
+      "Zipcode": "6040"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Aloran",
+      "Id": 1222,
+      "Zipcode": "7206"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Altavas",
+      "Id": 693,
+      "Zipcode": "5616"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Alubijid",
+      "Id": 1239,
+      "Zipcode": "9018"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Amadeo",
+      "Id": 400,
+      "Zipcode": "4119"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Ambaguio",
+      "Id": 216,
+      "Zipcode": "3701"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Amlan",
+      "Id": 927,
+      "Zipcode": "6203"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Ampatuan",
+      "Id": 1487,
+      "Zipcode": "9609"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Amulung",
+      "Id": 152,
+      "Zipcode": "3505"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Anahawan",
+      "Id": 1082,
+      "Zipcode": "6610"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Anao",
+      "Id": 334,
+      "Zipcode": "2310"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Anda",
+      "Id": 828,
+      "Zipcode": "6311"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Anda",
+      "Id": 99,
+      "Zipcode": "2405"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Angadanan",
+      "Id": 179,
+      "Zipcode": "3307"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Angat",
+      "Id": 256,
+      "Zipcode": "3012"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Angeles City",
+      "Id": 312,
+      "Zipcode": "2009"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Angono",
+      "Id": 492,
+      "Zipcode": "1930"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Anilao",
+      "Id": 752,
+      "Zipcode": "5009"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Anini-y",
+      "Id": 710,
+      "Zipcode": "5717"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Antipas",
+      "Id": 1314,
+      "Zipcode": "9414"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Antipolo City",
+      "Id": 493,
+      "Zipcode": "1870"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Antiquera",
+      "Id": 829,
+      "Zipcode": "6335"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Apalit",
+      "Id": 313,
+      "Zipcode": "2016"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Aparri",
+      "Id": 153,
+      "Zipcode": "3515"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Araceli",
+      "Id": 540,
+      "Zipcode": "5311"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Arakan",
+      "Id": 1315,
+      "Zipcode": "9417"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Arayat",
+      "Id": 314,
+      "Zipcode": "2012"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Argao",
+      "Id": 878,
+      "Zipcode": "6021"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Aringay",
+      "Id": 76,
+      "Zipcode": "2503"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Aritao",
+      "Id": 217,
+      "Zipcode": "3704"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Aroroy",
+      "Id": 657,
+      "Zipcode": "5414"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Arteche",
+      "Id": 966,
+      "Zipcode": "6822"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Asingan",
+      "Id": 100,
+      "Zipcode": "2439"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Asipulo",
+      "Id": 1603,
+      "Zipcode": "3610"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Asturias",
+      "Id": 879,
+      "Zipcode": "6042"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Asuncion",
+      "Id": 1276,
+      "Zipcode": "8102"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Atimonan",
+      "Id": 453,
+      "Zipcode": "4331"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Atok",
+      "Id": 1587,
+      "Zipcode": "2612"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Aurora",
+      "Id": 1128,
+      "Zipcode": "7020"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Aurora",
+      "Id": 180,
+      "Zipcode": "3316"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Ayungon",
+      "Id": 928,
+      "Zipcode": "6210"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Baao",
+      "Id": 609,
+      "Zipcode": "4432"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Babatngon",
+      "Id": 992,
+      "Zipcode": "6520"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Bacacay",
+      "Id": 579,
+      "Zipcode": "4509"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Bacarra",
+      "Id": 19,
+      "Zipcode": "2916"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Baclayon",
+      "Id": 830,
+      "Zipcode": "6301"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Bacnotan",
+      "Id": 77,
+      "Zipcode": "2515"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Baco",
+      "Id": 523,
+      "Zipcode": "5201"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Bacolod",
+      "Id": 1199,
+      "Zipcode": "9205"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Bacolod City",
+      "Id": 794,
+      "Zipcode": "6100"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Bacolod-Kalawi",
+      "Id": 1447,
+      "Zipcode": "9316"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Bacolor",
+      "Id": 315,
+      "Zipcode": "2001"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Bacong",
+      "Id": 929,
+      "Zipcode": "6216"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Bacoor City",
+      "Id": 401,
+      "Zipcode": "4102"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Bacuag",
+      "Id": 1395,
+      "Zipcode": "8408"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Badian",
+      "Id": 880,
+      "Zipcode": "6031"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Badiangan",
+      "Id": 753,
+      "Zipcode": "5033"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Badoc",
+      "Id": 20,
+      "Zipcode": "2904"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Bagabag",
+      "Id": 218,
+      "Zipcode": "3711"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Bagac",
+      "Id": 245,
+      "Zipcode": "2107"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Bagamanoc",
+      "Id": 646,
+      "Zipcode": "4807"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Baganga",
+      "Id": 1301,
+      "Zipcode": "8204"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Baggao",
+      "Id": 154,
+      "Zipcode": "3506"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Bago City",
+      "Id": 795,
+      "Zipcode": "6101"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Baguio City",
+      "Id": 1588,
+      "Zipcode": "2600"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Bagulin",
+      "Id": 78,
+      "Zipcode": "2512"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Bagumbayan",
+      "Id": 1349,
+      "Zipcode": "9810"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Bais City",
+      "Id": 930,
+      "Zipcode": "6206"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Bakun",
+      "Id": 1589,
+      "Zipcode": "2610"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Balabac",
+      "Id": 541,
+      "Zipcode": "5307"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Balabagan",
+      "Id": 1448,
+      "Zipcode": "9302"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Balagtas",
+      "Id": 257,
+      "Zipcode": "3016"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Balamban",
+      "Id": 881,
+      "Zipcode": "6041"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Balanga City",
+      "Id": 246,
+      "Zipcode": "2100"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Balangiga",
+      "Id": 967,
+      "Zipcode": "6812"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Balangkayan",
+      "Id": 968,
+      "Zipcode": "6801"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Balaoan",
+      "Id": 79,
+      "Zipcode": "2517"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Balasan",
+      "Id": 754,
+      "Zipcode": "5018"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Balatan",
+      "Id": 610,
+      "Zipcode": "4436"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Balayan",
+      "Id": 367,
+      "Zipcode": "4213"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Balbalan",
+      "Id": 1612,
+      "Zipcode": "3801"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Baleno",
+      "Id": 658,
+      "Zipcode": "5413"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Baler",
+      "Id": 236,
+      "Zipcode": "3200"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Balete",
+      "Id": 694,
+      "Zipcode": "5614"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Balete",
+      "Id": 368,
+      "Zipcode": "4219"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Baliangao",
+      "Id": 1223,
+      "Zipcode": "7211"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Baliguian",
+      "Id": 1101,
+      "Zipcode": "7123"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Balilihan",
+      "Id": 831,
+      "Zipcode": "6342"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Balindong",
+      "Id": 1449,
+      "Zipcode": "9318"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Balingasag",
+      "Id": 1240,
+      "Zipcode": "9005"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Balingoan",
+      "Id": 1241,
+      "Zipcode": "9011"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Baliuag",
+      "Id": 258,
+      "Zipcode": "3006"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Ballesteros",
+      "Id": 155,
+      "Zipcode": "3516"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Baloi",
+      "Id": 1200,
+      "Zipcode": "9217"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Balud",
+      "Id": 659,
+      "Zipcode": "5412"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Balungao",
+      "Id": 101,
+      "Zipcode": "2442"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Bamban",
+      "Id": 335,
+      "Zipcode": "2317"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Bambang",
+      "Id": 219,
+      "Zipcode": "3702"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Banate",
+      "Id": 755,
+      "Zipcode": "5010"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Banaue",
+      "Id": 1604,
+      "Zipcode": "3601"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Banaybanay",
+      "Id": 1302,
+      "Zipcode": "8208"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Banayoyo",
+      "Id": 42,
+      "Zipcode": "2708"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Banga",
+      "Id": 695,
+      "Zipcode": "5601"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Banga",
+      "Id": 1337,
+      "Zipcode": "9511"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Bangar",
+      "Id": 80,
+      "Zipcode": "2519"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Bangued",
+      "Id": 1553,
+      "Zipcode": "2800"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Bangui",
+      "Id": 21,
+      "Zipcode": "2920"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Banguingui",
+      "Id": 1524,
+      "Zipcode": "7406"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Bani",
+      "Id": 102,
+      "Zipcode": "2407"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Banisilan",
+      "Id": 1316,
+      "Zipcode": "9416"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Banna",
+      "Id": 22,
+      "Zipcode": "2908"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Bansalan",
+      "Id": 1285,
+      "Zipcode": "8005"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Bansud",
+      "Id": 524,
+      "Zipcode": "5210"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Bantay",
+      "Id": 43,
+      "Zipcode": "2727"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Bantayan",
+      "Id": 882,
+      "Zipcode": "6052"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Banton",
+      "Id": 563,
+      "Zipcode": "5515"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Baras",
+      "Id": 647,
+      "Zipcode": "4803"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Baras",
+      "Id": 494,
+      "Zipcode": "1970"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Barbaza",
+      "Id": 711,
+      "Zipcode": "5706"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Barcelona",
+      "Id": 678,
+      "Zipcode": "4712"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Barili",
+      "Id": 883,
+      "Zipcode": "6036"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Barira",
+      "Id": 1488,
+      "Zipcode": "9614"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Barlig",
+      "Id": 1620,
+      "Zipcode": "2623"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Barobo",
+      "Id": 1415,
+      "Zipcode": "8309"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Barotac Nuevo",
+      "Id": 756,
+      "Zipcode": "5007"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Barotac Viejo",
+      "Id": 757,
+      "Zipcode": "5011"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Baroy",
+      "Id": 1201,
+      "Zipcode": "9210"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Barugo",
+      "Id": 993,
+      "Zipcode": "6519"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Basay",
+      "Id": 931,
+      "Zipcode": "6222"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Basco",
+      "Id": 143,
+      "Zipcode": "3900"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Basey",
+      "Id": 1057,
+      "Zipcode": "6720"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Basilisa",
+      "Id": 1387,
+      "Zipcode": "8413"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Basista",
+      "Id": 103,
+      "Zipcode": "2422"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Basud",
+      "Id": 597,
+      "Zipcode": "4608"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Batac City",
+      "Id": 23,
+      "Zipcode": "2906"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Batad",
+      "Id": 758,
+      "Zipcode": "5016"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Batan",
+      "Id": 696,
+      "Zipcode": "5615"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Batangas City",
+      "Id": 369,
+      "Zipcode": "4200"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Bataraza",
+      "Id": 542,
+      "Zipcode": "5306"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Bato",
+      "Id": 648,
+      "Zipcode": "4801"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Bato",
+      "Id": 994,
+      "Zipcode": "6525"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Bato",
+      "Id": 611,
+      "Zipcode": "4435"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Batuan",
+      "Id": 832,
+      "Zipcode": "6318"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Batuan",
+      "Id": 660,
+      "Zipcode": "5415"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Bauan",
+      "Id": 370,
+      "Zipcode": "4201"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Bauang",
+      "Id": 81,
+      "Zipcode": "2501"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Bauko",
+      "Id": 1621,
+      "Zipcode": "2621"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Baungon",
+      "Id": 1172,
+      "Zipcode": "8707"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Bautista",
+      "Id": 104,
+      "Zipcode": "2424"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Bay",
+      "Id": 423,
+      "Zipcode": "4033"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Bayabas",
+      "Id": 1416,
+      "Zipcode": "8303"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Bayambang",
+      "Id": 105,
+      "Zipcode": "2423"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Bayang",
+      "Id": 1450,
+      "Zipcode": "9309"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Bayawan City",
+      "Id": 932,
+      "Zipcode": "6221"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Baybay City",
+      "Id": 995,
+      "Zipcode": "6521"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Bayog",
+      "Id": 1129,
+      "Zipcode": "7011"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Bayombong",
+      "Id": 220,
+      "Zipcode": "3700"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Bayugan",
+      "Id": 1631,
+      "Zipcode": "8502"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Belison",
+      "Id": 712,
+      "Zipcode": "5701"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Benito Soliven",
+      "Id": 181,
+      "Zipcode": "3331"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Besao",
+      "Id": 1622,
+      "Zipcode": "2618"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Bien Unido",
+      "Id": 833,
+      "Zipcode": "6326"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Bilar",
+      "Id": 834,
+      "Zipcode": "6317"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Biliran",
+      "Id": 959,
+      "Zipcode": "6549"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Binalbagan",
+      "Id": 796,
+      "Zipcode": "6107"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Binalonan",
+      "Id": 106,
+      "Zipcode": "2436"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Binan City",
+      "Id": 424,
+      "Zipcode": "4024"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Binangonan",
+      "Id": 495,
+      "Zipcode": "1940"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Bindoy",
+      "Id": 933,
+      "Zipcode": "6209"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Bingawan",
+      "Id": 759,
+      "Zipcode": "5041"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Binidayan",
+      "Id": 1451,
+      "Zipcode": "9310"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Binmaley",
+      "Id": 107,
+      "Zipcode": "2417"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Binuangan",
+      "Id": 1242,
+      "Zipcode": "9008"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Biri",
+      "Id": 1033,
+      "Zipcode": "6410"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Bislig City",
+      "Id": 1417,
+      "Zipcode": "8311"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Boac",
+      "Id": 506,
+      "Zipcode": "4900"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Bobon",
+      "Id": 1034,
+      "Zipcode": "6401"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Bocaue",
+      "Id": 259,
+      "Zipcode": "3018"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Bogo City",
+      "Id": 884,
+      "Zipcode": "6010"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Bokod",
+      "Id": 1590,
+      "Zipcode": "2605"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Bolinao",
+      "Id": 108,
+      "Zipcode": "2406"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Boliney",
+      "Id": 1554,
+      "Zipcode": "2815"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Boljoon",
+      "Id": 885,
+      "Zipcode": "6024"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Bombon",
+      "Id": 612,
+      "Zipcode": "4404"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Bongabon",
+      "Id": 281,
+      "Zipcode": "3128"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Bongabong",
+      "Id": 525,
+      "Zipcode": "5211"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Bongao",
+      "Id": 1543,
+      "Zipcode": "7500"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Bonifacio",
+      "Id": 1224,
+      "Zipcode": "7215"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Bontoc",
+      "Id": 1083,
+      "Zipcode": "6604"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Bontoc",
+      "Id": 1623,
+      "Zipcode": "2616"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Borbon",
+      "Id": 886,
+      "Zipcode": "6008"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Borongan City",
+      "Id": 969,
+      "Zipcode": "6800"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Boston",
+      "Id": 1303,
+      "Zipcode": "8206"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Botolan",
+      "Id": 351,
+      "Zipcode": "2202"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Braulio E. Dujali",
+      "Id": 1277,
+      "Zipcode": "8100"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Brooke's Point",
+      "Id": 543,
+      "Zipcode": "5305"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Buadiposo-Buntong",
+      "Id": 1452,
+      "Zipcode": "9714"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Bubong",
+      "Id": 1453,
+      "Zipcode": "9708"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Bucay",
+      "Id": 1555,
+      "Zipcode": "2805"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Bucloc",
+      "Id": 1556,
+      "Zipcode": "2817"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Buenavista",
+      "Id": 1362,
+      "Zipcode": "8601"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Buenavista",
+      "Id": 454,
+      "Zipcode": "4320"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Buenavista",
+      "Id": 835,
+      "Zipcode": "6333"
+    },
+    {
+      "Provinceid": 37,
+      "Cityname": "Buenavista",
+      "Id": 745,
+      "Zipcode": "5044"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Buenavista",
+      "Id": 507,
+      "Zipcode": "4904"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Bugallon",
+      "Id": 109,
+      "Zipcode": "2416"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Bugasong",
+      "Id": 713,
+      "Zipcode": "5704"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Buguey",
+      "Id": 156,
+      "Zipcode": "3511"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Buguias",
+      "Id": 1591,
+      "Zipcode": "2607"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Buhi",
+      "Id": 613,
+      "Zipcode": "4433"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Bula",
+      "Id": 614,
+      "Zipcode": "4430"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Bulakan",
+      "Id": 260,
+      "Zipcode": "3017"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Bulalacao",
+      "Id": 526,
+      "Zipcode": "5214"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Bulan",
+      "Id": 679,
+      "Zipcode": "4706"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Buldon",
+      "Id": 1489,
+      "Zipcode": "9615"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Buluan",
+      "Id": 1490,
+      "Zipcode": "9616"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Bulusan",
+      "Id": 680,
+      "Zipcode": "4704"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Bumbaran",
+      "Id": 1454,
+      "Zipcode": "9320"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Bunawan",
+      "Id": 1374,
+      "Zipcode": "8506"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Burauen",
+      "Id": 996,
+      "Zipcode": "6516"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Burdeos",
+      "Id": 455,
+      "Zipcode": "4340"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Burgos",
+      "Id": 110,
+      "Zipcode": "2410"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Burgos",
+      "Id": 1396,
+      "Zipcode": "8424"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Burgos",
+      "Id": 82,
+      "Zipcode": "2510"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Burgos",
+      "Id": 44,
+      "Zipcode": "2724"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Burgos",
+      "Id": 24,
+      "Zipcode": "2918"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Burgos",
+      "Id": 182,
+      "Zipcode": "3322"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Buruanga",
+      "Id": 697,
+      "Zipcode": "5609"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Bustos",
+      "Id": 261,
+      "Zipcode": "3007"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Busuanga",
+      "Id": 544,
+      "Zipcode": "5317"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Butig",
+      "Id": 1455,
+      "Zipcode": "9305"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Butuan City",
+      "Id": 1363,
+      "Zipcode": "8600"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Buug",
+      "Id": 1157,
+      "Zipcode": "7009"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Caba",
+      "Id": 83,
+      "Zipcode": "2502"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Cabadbaran City",
+      "Id": 1364,
+      "Zipcode": "8605"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Cabagan",
+      "Id": 183,
+      "Zipcode": "3328"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Cabanatuan City",
+      "Id": 282,
+      "Zipcode": "3100"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Cabangan",
+      "Id": 352,
+      "Zipcode": "2203"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Cabanglasan",
+      "Id": 1173,
+      "Zipcode": "8723"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Cabarroquis",
+      "Id": 231,
+      "Zipcode": "3400"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Cabatuan",
+      "Id": 184,
+      "Zipcode": "3315"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Cabatuan",
+      "Id": 760,
+      "Zipcode": "5031"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Cabiao",
+      "Id": 283,
+      "Zipcode": "3107"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Cabucgayan",
+      "Id": 960,
+      "Zipcode": "6550"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Cabugao",
+      "Id": 45,
+      "Zipcode": "2732"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Cabusao",
+      "Id": 615,
+      "Zipcode": "4406"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Cabuyao City",
+      "Id": 425,
+      "Zipcode": "4025"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Cadiz City",
+      "Id": 797,
+      "Zipcode": "6121"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Cagayan De Oro City",
+      "Id": 1243,
+      "Zipcode": "9000"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Cagayancillo",
+      "Id": 545,
+      "Zipcode": "5321"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Cagdianao",
+      "Id": 1388,
+      "Zipcode": "8411"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Cagwait",
+      "Id": 1418,
+      "Zipcode": "8304"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Caibiran",
+      "Id": 961,
+      "Zipcode": "6548"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Cainta",
+      "Id": 496,
+      "Zipcode": "1900"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Cajidiocan",
+      "Id": 564,
+      "Zipcode": "5512"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Calabanga",
+      "Id": 616,
+      "Zipcode": "4405"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Calaca",
+      "Id": 371,
+      "Zipcode": "4212"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Calamba",
+      "Id": 1225,
+      "Zipcode": "7210"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Calamba City",
+      "Id": 426,
+      "Zipcode": "4027"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Calanasan",
+      "Id": 1580,
+      "Zipcode": "3814"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Calanogas",
+      "Id": 1456,
+      "Zipcode": "9319"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Calapan City",
+      "Id": 527,
+      "Zipcode": "5200"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Calape",
+      "Id": 836,
+      "Zipcode": "6328"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Calasiao",
+      "Id": 111,
+      "Zipcode": "2418"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Calatagan",
+      "Id": 372,
+      "Zipcode": "4215"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Calatrava",
+      "Id": 798,
+      "Zipcode": "6126"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Calatrava",
+      "Id": 565,
+      "Zipcode": "5503"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Calauag",
+      "Id": 456,
+      "Zipcode": "4318"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Calauan",
+      "Id": 427,
+      "Zipcode": "4012"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Calayan",
+      "Id": 157,
+      "Zipcode": "3520"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Calbayog City",
+      "Id": 1058,
+      "Zipcode": "6710"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Calbiga",
+      "Id": 1059,
+      "Zipcode": "6715"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Calinog",
+      "Id": 761,
+      "Zipcode": "5040"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Calintaan",
+      "Id": 513,
+      "Zipcode": "5102"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Caloocan City",
+      "Id": 1,
+      "Zipcode": "1400"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Calubian",
+      "Id": 997,
+      "Zipcode": "6534"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Calumpit",
+      "Id": 262,
+      "Zipcode": "3003"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Caluya",
+      "Id": 714,
+      "Zipcode": "5711"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Camalaniugan",
+      "Id": 158,
+      "Zipcode": "3510"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Camalig",
+      "Id": 580,
+      "Zipcode": "4502"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Camaligan",
+      "Id": 617,
+      "Zipcode": "4401"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Camiling",
+      "Id": 336,
+      "Zipcode": "2306"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Can-avid",
+      "Id": 970,
+      "Zipcode": "6806"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Canaman",
+      "Id": 618,
+      "Zipcode": "4402"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Candaba",
+      "Id": 316,
+      "Zipcode": "2013"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Candelaria",
+      "Id": 353,
+      "Zipcode": "2212"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Candelaria",
+      "Id": 457,
+      "Zipcode": "4323"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Candijay",
+      "Id": 837,
+      "Zipcode": "6312"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Candon City",
+      "Id": 46,
+      "Zipcode": "2710"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Candoni",
+      "Id": 799,
+      "Zipcode": "6110"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Canlaon City",
+      "Id": 934,
+      "Zipcode": "6223"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Cantillan",
+      "Id": 1419,
+      "Zipcode": "8317"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Caoayan",
+      "Id": 47,
+      "Zipcode": "2702"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Capalonga",
+      "Id": 598,
+      "Zipcode": "4607"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Capas",
+      "Id": 337,
+      "Zipcode": "2315"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Capoocan",
+      "Id": 998,
+      "Zipcode": "6530"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Capul",
+      "Id": 1035,
+      "Zipcode": "6408"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Caraga",
+      "Id": 1304,
+      "Zipcode": "8203"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Caramoan",
+      "Id": 619,
+      "Zipcode": "4429"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Caramoran",
+      "Id": 649,
+      "Zipcode": "4808"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Carasi",
+      "Id": 25,
+      "Zipcode": "2911"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Carcar City",
+      "Id": 887,
+      "Zipcode": "6019"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Cardona",
+      "Id": 497,
+      "Zipcode": "1950"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Carigara",
+      "Id": 999,
+      "Zipcode": "6529"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Carles",
+      "Id": 762,
+      "Zipcode": "5019"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Carmen",
+      "Id": 1420,
+      "Zipcode": "8315"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Carmen",
+      "Id": 1365,
+      "Zipcode": "8603"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Carmen",
+      "Id": 1278,
+      "Zipcode": "8101"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Carmen",
+      "Id": 838,
+      "Zipcode": "6319"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Carmen",
+      "Id": 1317,
+      "Zipcode": "9408"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Carmen",
+      "Id": 888,
+      "Zipcode": "6005"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Carmona",
+      "Id": 402,
+      "Zipcode": "4116"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Carranglan",
+      "Id": 284,
+      "Zipcode": "3123"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Carrascal",
+      "Id": 1421,
+      "Zipcode": "8318"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Casiguran",
+      "Id": 237,
+      "Zipcode": "3204"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Casiguran",
+      "Id": 681,
+      "Zipcode": "4702"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Castilla",
+      "Id": 682,
+      "Zipcode": "4713"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Castillejos",
+      "Id": 354,
+      "Zipcode": "2208"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Cataingan",
+      "Id": 661,
+      "Zipcode": "5405"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Catanauan",
+      "Id": 458,
+      "Zipcode": "4311"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Catarman",
+      "Id": 1036,
+      "Zipcode": "6400"
+    },
+    {
+      "Provinceid": 54,
+      "Cityname": "Catarman",
+      "Id": 1194,
+      "Zipcode": "9104"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Catbalogan City",
+      "Id": 1060,
+      "Zipcode": "6700"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Cateel",
+      "Id": 1305,
+      "Zipcode": "8205"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Catigbian",
+      "Id": 839,
+      "Zipcode": "6343"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Catmon",
+      "Id": 889,
+      "Zipcode": "6006"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Catubig",
+      "Id": 1037,
+      "Zipcode": "6418"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Cauayan",
+      "Id": 800,
+      "Zipcode": "6112"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Cauayan City",
+      "Id": 185,
+      "Zipcode": "3305"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Cavinti",
+      "Id": 428,
+      "Zipcode": "4013"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Cavite City",
+      "Id": 403,
+      "Zipcode": "4100"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Cawayan",
+      "Id": 662,
+      "Zipcode": "5409"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Cebu City",
+      "Id": 890,
+      "Zipcode": "6000"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Cervantes",
+      "Id": 48,
+      "Zipcode": "2718"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Clarin",
+      "Id": 840,
+      "Zipcode": "6330"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Clarin",
+      "Id": 1226,
+      "Zipcode": "7201"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Claver",
+      "Id": 1397,
+      "Zipcode": "8410"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Claveria",
+      "Id": 159,
+      "Zipcode": "3519"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Claveria",
+      "Id": 663,
+      "Zipcode": "5419"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Claveria",
+      "Id": 1244,
+      "Zipcode": "9004"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Columbio",
+      "Id": 1350,
+      "Zipcode": "9801"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Compostela",
+      "Id": 1265,
+      "Zipcode": "8109"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Compostela",
+      "Id": 891,
+      "Zipcode": "6003"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Concepcion",
+      "Id": 338,
+      "Zipcode": "2316"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Concepcion",
+      "Id": 763,
+      "Zipcode": "5013"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Concepcion",
+      "Id": 566,
+      "Zipcode": "5516"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Concepcion",
+      "Id": 1227,
+      "Zipcode": "7213"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Conner",
+      "Id": 1581,
+      "Zipcode": "3807"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Consolacion",
+      "Id": 892,
+      "Zipcode": "6001"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Corcuera",
+      "Id": 567,
+      "Zipcode": "5514"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Cordoba",
+      "Id": 893,
+      "Zipcode": "6017"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Cordon",
+      "Id": 186,
+      "Zipcode": "3312"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Corella",
+      "Id": 841,
+      "Zipcode": "6337"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Coron",
+      "Id": 546,
+      "Zipcode": "5316"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Cortes",
+      "Id": 1422,
+      "Zipcode": "8313"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Cortes",
+      "Id": 842,
+      "Zipcode": "6341"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Cotabato City",
+      "Id": 1491,
+      "Zipcode": "9600"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Cuartero",
+      "Id": 728,
+      "Zipcode": "5811"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Cuenca",
+      "Id": 373,
+      "Zipcode": "4222"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Culaba",
+      "Id": 962,
+      "Zipcode": "6547"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Culasi",
+      "Id": 715,
+      "Zipcode": "5708"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Culion",
+      "Id": 547,
+      "Zipcode": "5315"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Currimao",
+      "Id": 26,
+      "Zipcode": "2903"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Cuyapo",
+      "Id": 285,
+      "Zipcode": "3117"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Cuyo",
+      "Id": 548,
+      "Zipcode": "5318"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Daanbantayan",
+      "Id": 894,
+      "Zipcode": "6013"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Daet",
+      "Id": 599,
+      "Zipcode": "4600"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Dagami",
+      "Id": 1000,
+      "Zipcode": "6515"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Dagohoy",
+      "Id": 843,
+      "Zipcode": "6322"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Daguioman",
+      "Id": 1557,
+      "Zipcode": "2816"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Dagupan City",
+      "Id": 112,
+      "Zipcode": "2400"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Dalaguete",
+      "Id": 895,
+      "Zipcode": "6022"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Damulog",
+      "Id": 1174,
+      "Zipcode": "8721"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Danao",
+      "Id": 844,
+      "Zipcode": "6344"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Danao City",
+      "Id": 896,
+      "Zipcode": "6004"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Dangcagan",
+      "Id": 1175,
+      "Zipcode": "8719"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Danglas",
+      "Id": 1558,
+      "Zipcode": "2825"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Dao",
+      "Id": 729,
+      "Zipcode": "5810"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Dapa",
+      "Id": 1398,
+      "Zipcode": "8417"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Dapitan City",
+      "Id": 1102,
+      "Zipcode": "7101"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Daraga",
+      "Id": 581,
+      "Zipcode": "5401"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Daram",
+      "Id": 1061,
+      "Zipcode": "6722"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Dasmarinas City",
+      "Id": 404,
+      "Zipcode": "4114"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Dasol",
+      "Id": 113,
+      "Zipcode": "2411"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Abdullah Sangki",
+      "Id": 1492,
+      "Zipcode": "9609"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Anggal Midtimbang",
+      "Id": 1493,
+      "Zipcode": "9612"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Blah T. Sinsuat",
+      "Id": 1494,
+      "Zipcode": "9602"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Hoffer Ampatuan",
+      "Id": 1495,
+      "Zipcode": "9608"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Montawal",
+      "Id": 1496,
+      "Zipcode": "9610"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Odin Sinsuat",
+      "Id": 1497,
+      "Zipcode": "9601"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Paglas",
+      "Id": 1498,
+      "Zipcode": "9617"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Piang",
+      "Id": 1499,
+      "Zipcode": "9607"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Salibo",
+      "Id": 1500,
+      "Zipcode": "9607"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Saudi-Ampatuan",
+      "Id": 1501,
+      "Zipcode": "9607"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Datu Unsay",
+      "Id": 1502,
+      "Zipcode": "9608"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Dauin",
+      "Id": 935,
+      "Zipcode": "6217"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Dauis",
+      "Id": 845,
+      "Zipcode": "6339"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Davao City",
+      "Id": 1286,
+      "Zipcode": "8000"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Del Carmen",
+      "Id": 1399,
+      "Zipcode": "8418"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Del Gallego",
+      "Id": 620,
+      "Zipcode": "4411"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Delfin Albano",
+      "Id": 187,
+      "Zipcode": "3326"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Diadi",
+      "Id": 221,
+      "Zipcode": "3712"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Diffun",
+      "Id": 232,
+      "Zipcode": "3401"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Digos City",
+      "Id": 1287,
+      "Zipcode": "8002"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Dilasag",
+      "Id": 238,
+      "Zipcode": "3205"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Dimasalang",
+      "Id": 664,
+      "Zipcode": "5403"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Dimataling",
+      "Id": 1130,
+      "Zipcode": "7032"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Dimiao",
+      "Id": 846,
+      "Zipcode": "6305"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Dinagat",
+      "Id": 1389,
+      "Zipcode": "8412"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Dinalungan",
+      "Id": 239,
+      "Zipcode": "3206"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Dinalupihan",
+      "Id": 247,
+      "Zipcode": "2110"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Dinapigue",
+      "Id": 188,
+      "Zipcode": "3336"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Dinas",
+      "Id": 1131,
+      "Zipcode": "7030"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Dingalan",
+      "Id": 240,
+      "Zipcode": "3207"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Dingle",
+      "Id": 764,
+      "Zipcode": "5035"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Dingras",
+      "Id": 27,
+      "Zipcode": "2913"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Dipaculao",
+      "Id": 241,
+      "Zipcode": "3203"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Diplahan",
+      "Id": 1158,
+      "Zipcode": "7039"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Dipolog City",
+      "Id": 1103,
+      "Zipcode": "7100"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Ditsaan-Ramain",
+      "Id": 1457,
+      "Zipcode": "9713"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Divilacan",
+      "Id": 189,
+      "Zipcode": "3335"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Dolores",
+      "Id": 1559,
+      "Zipcode": "2801"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Dolores",
+      "Id": 971,
+      "Zipcode": "6817"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Dolores",
+      "Id": 459,
+      "Zipcode": "4326"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Don Carlos",
+      "Id": 1176,
+      "Zipcode": "8712"
+    },
+    {
+      "Provinceid": 61,
+      "Cityname": "Don Marcelino",
+      "Id": 1296,
+      "Zipcode": "8013"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Don Victoriano Chiongbian",
+      "Id": 1228,
+      "Zipcode": "7200"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Dona Remedios Trinidad",
+      "Id": 263,
+      "Zipcode": "3009"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Donsol",
+      "Id": 683,
+      "Zipcode": "4715"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Duenas",
+      "Id": 765,
+      "Zipcode": "5038"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Duero",
+      "Id": 847,
+      "Zipcode": "6309"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Dulag",
+      "Id": 1001,
+      "Zipcode": "6505"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Dumaguete City",
+      "Id": 936,
+      "Zipcode": "6200"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Dumalag",
+      "Id": 730,
+      "Zipcode": "5813"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Dumalinao",
+      "Id": 1132,
+      "Zipcode": "7015"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Dumalneg",
+      "Id": 28,
+      "Zipcode": "2921"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Dumangas",
+      "Id": 766,
+      "Zipcode": "5006"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Dumanjug",
+      "Id": 897,
+      "Zipcode": "6035"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Dumaran",
+      "Id": 549,
+      "Zipcode": "5310"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Dumarao",
+      "Id": 731,
+      "Zipcode": "5812"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Dumingag",
+      "Id": 1133,
+      "Zipcode": "7028"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Dupax Del Norte",
+      "Id": 222,
+      "Zipcode": "3706"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Dupax Del Sur",
+      "Id": 223,
+      "Zipcode": "3707"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Echague",
+      "Id": 190,
+      "Zipcode": "3309"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "El Nido",
+      "Id": 550,
+      "Zipcode": "5313"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "El Salvador City",
+      "Id": 1245,
+      "Zipcode": "9017"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Enrile",
+      "Id": 160,
+      "Zipcode": "3501"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Enrique B. Magalona",
+      "Id": 801,
+      "Zipcode": "6118"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "Enrique Villanueva",
+      "Id": 952,
+      "Zipcode": "6230"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Escalante City",
+      "Id": 802,
+      "Zipcode": "6124"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Esperanza",
+      "Id": 1375,
+      "Zipcode": "8513"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Esperanza",
+      "Id": 665,
+      "Zipcode": "5407"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Esperanza",
+      "Id": 1351,
+      "Zipcode": "9806"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Estancia",
+      "Id": 767,
+      "Zipcode": "5017"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Famy",
+      "Id": 429,
+      "Zipcode": "4021"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Ferrol",
+      "Id": 568,
+      "Zipcode": "5506"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Flora",
+      "Id": 1582,
+      "Zipcode": "3810"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Floridablanca",
+      "Id": 317,
+      "Zipcode": "2006"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Gabaldon",
+      "Id": 286,
+      "Zipcode": "3131"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Gainza",
+      "Id": 621,
+      "Zipcode": "4412"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Galimuyod",
+      "Id": 49,
+      "Zipcode": "2709"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Gamay",
+      "Id": 1038,
+      "Zipcode": "6422"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Gamu",
+      "Id": 191,
+      "Zipcode": "3301"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Ganassi",
+      "Id": 1458,
+      "Zipcode": "9311"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Gandara",
+      "Id": 1062,
+      "Zipcode": "6706"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Gapan City",
+      "Id": 287,
+      "Zipcode": "3105"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Garchitorena",
+      "Id": 622,
+      "Zipcode": "4428"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Garcia Hernandez",
+      "Id": 848,
+      "Zipcode": "6307"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Gasan",
+      "Id": 508,
+      "Zipcode": "4905"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Gattaran",
+      "Id": 161,
+      "Zipcode": "3508"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Gen. Emilio Aguinaldo",
+      "Id": 405,
+      "Zipcode": "4124"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Gen. Luna",
+      "Id": 1400,
+      "Zipcode": "8419"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Gen. Luna",
+      "Id": 460,
+      "Zipcode": "4310"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Gen. Macarthur",
+      "Id": 972,
+      "Zipcode": "6805"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Gen. Mamerto Natividad",
+      "Id": 288,
+      "Zipcode": "3125"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Gen. Mariano Alvarez",
+      "Id": 406,
+      "Zipcode": "4117"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Gen. Nakar",
+      "Id": 461,
+      "Zipcode": "4338"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Gen. Salipada K. Pendatun",
+      "Id": 1503,
+      "Zipcode": "9618"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Gen. Tinio",
+      "Id": 289,
+      "Zipcode": "3104"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "General Santos City",
+      "Id": 1338,
+      "Zipcode": "9500"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "General Trias",
+      "Id": 407,
+      "Zipcode": "4107"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Gerona",
+      "Id": 339,
+      "Zipcode": "2302"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Getafe",
+      "Id": 849,
+      "Zipcode": "6334"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Gigaquit",
+      "Id": 1401,
+      "Zipcode": "8409"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Gigmoto",
+      "Id": 650,
+      "Zipcode": "4804"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Ginatilan",
+      "Id": 898,
+      "Zipcode": "6028"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Gingoog City",
+      "Id": 1246,
+      "Zipcode": "9014"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Giporlos",
+      "Id": 973,
+      "Zipcode": "6811"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Gitagum",
+      "Id": 1247,
+      "Zipcode": "9020"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Glan",
+      "Id": 1331,
+      "Zipcode": "9517"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Gloria",
+      "Id": 528,
+      "Zipcode": "5209"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Goa",
+      "Id": 623,
+      "Zipcode": "4422"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Godod",
+      "Id": 1104,
+      "Zipcode": "7100"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Gonzaga",
+      "Id": 162,
+      "Zipcode": "3513"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Gov. Generoso",
+      "Id": 1306,
+      "Zipcode": "8210"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Gregorio Del Pilar",
+      "Id": 50,
+      "Zipcode": "2720"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Guagua",
+      "Id": 318,
+      "Zipcode": "2003"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Gubat",
+      "Id": 684,
+      "Zipcode": "4710"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Guiguinto",
+      "Id": 264,
+      "Zipcode": "3015"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Guihulngan City",
+      "Id": 937,
+      "Zipcode": "6214"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Guimba",
+      "Id": 290,
+      "Zipcode": "3115"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Guimbal",
+      "Id": 768,
+      "Zipcode": "5022"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Guinayangan",
+      "Id": 462,
+      "Zipcode": "4319"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Guindulman",
+      "Id": 850,
+      "Zipcode": "6210"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Guindulungan",
+      "Id": 1504,
+      "Zipcode": "9612"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Guinobatan",
+      "Id": 582,
+      "Zipcode": "4503"
+    },
+    {
+      "Provinceid": 54,
+      "Cityname": "Guinsiliban",
+      "Id": 1195,
+      "Zipcode": "9102"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Guipos",
+      "Id": 1134,
+      "Zipcode": "7042"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Guiuan",
+      "Id": 974,
+      "Zipcode": "6809"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Gumaca",
+      "Id": 463,
+      "Zipcode": "4307"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Gutalac",
+      "Id": 1105,
+      "Zipcode": "7118"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Hadji Mohammad Ajul",
+      "Id": 1436,
+      "Zipcode": "7306"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Hadji Muhtamad",
+      "Id": 1437,
+      "Zipcode": "7301"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Hadji Panglima Tahil",
+      "Id": 1525,
+      "Zipcode": "7413"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Hagonoy",
+      "Id": 1288,
+      "Zipcode": "8006"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Hagonoy",
+      "Id": 265,
+      "Zipcode": "3002"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Hamtic",
+      "Id": 716,
+      "Zipcode": "5715"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Hermosa",
+      "Id": 248,
+      "Zipcode": "2111"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Hernani",
+      "Id": 975,
+      "Zipcode": "6804"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Hilongos",
+      "Id": 1002,
+      "Zipcode": "6524"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Himamaylan City",
+      "Id": 803,
+      "Zipcode": "6108"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Hinabangan",
+      "Id": 1063,
+      "Zipcode": "6713"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Hinatuan",
+      "Id": 1423,
+      "Zipcode": "8310"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Hindang",
+      "Id": 1003,
+      "Zipcode": "6523"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Hingyon",
+      "Id": 1605,
+      "Zipcode": "3607"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Hinigaran",
+      "Id": 804,
+      "Zipcode": "6106"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Hinoba-an",
+      "Id": 805,
+      "Zipcode": "6114"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Hinunangan",
+      "Id": 1084,
+      "Zipcode": "6608"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Hinundayan",
+      "Id": 1085,
+      "Zipcode": "6609"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Hungduan",
+      "Id": 1606,
+      "Zipcode": "3603"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Iba",
+      "Id": 355,
+      "Zipcode": "2201"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Ibaan",
+      "Id": 374,
+      "Zipcode": "4230"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Ibajay",
+      "Id": 698,
+      "Zipcode": "5613"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Igbaras",
+      "Id": 769,
+      "Zipcode": "5029"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Iguig",
+      "Id": 163,
+      "Zipcode": "3504"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Ilagan City",
+      "Id": 192,
+      "Zipcode": "3300"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Iligan City",
+      "Id": 1202,
+      "Zipcode": "9200"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Ilog",
+      "Id": 806,
+      "Zipcode": "6109"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Iloilo City",
+      "Id": 770,
+      "Zipcode": "5000"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Imelda",
+      "Id": 1159,
+      "Zipcode": "7007"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Impasugong",
+      "Id": 1177,
+      "Zipcode": "8702"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Imus City",
+      "Id": 408,
+      "Zipcode": "4103"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Inabanga",
+      "Id": 851,
+      "Zipcode": "6332"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Indanan",
+      "Id": 1526,
+      "Zipcode": "7407"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Indang",
+      "Id": 409,
+      "Zipcode": "4122"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Infanta",
+      "Id": 114,
+      "Zipcode": "2412"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Infanta",
+      "Id": 464,
+      "Zipcode": "4336"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Initao",
+      "Id": 1248,
+      "Zipcode": "9022"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Inopacan",
+      "Id": 1004,
+      "Zipcode": "6522"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Ipil",
+      "Id": 1160,
+      "Zipcode": "7001"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Iriga City",
+      "Id": 624,
+      "Zipcode": "4431"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Irosin",
+      "Id": 685,
+      "Zipcode": "4707"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Isabel",
+      "Id": 1005,
+      "Zipcode": "6539"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Isabela",
+      "Id": 807,
+      "Zipcode": "6128"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Isabela City",
+      "Id": 1438,
+      "Zipcode": "7300"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Isulan",
+      "Id": 1352,
+      "Zipcode": "9805"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Itbayat",
+      "Id": 144,
+      "Zipcode": "3905"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Itogon",
+      "Id": 1592,
+      "Zipcode": "2604"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Ivana",
+      "Id": 145,
+      "Zipcode": "3902"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Ivisan",
+      "Id": 732,
+      "Zipcode": "5805"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Jabonga",
+      "Id": 1366,
+      "Zipcode": "8607"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Jaen",
+      "Id": 291,
+      "Zipcode": "3109"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Jagna",
+      "Id": 852,
+      "Zipcode": "6308"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Jalajala",
+      "Id": 498,
+      "Zipcode": "1990"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Jamindan",
+      "Id": 733,
+      "Zipcode": "5808"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Janiuay",
+      "Id": 771,
+      "Zipcode": "5034"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Jaro",
+      "Id": 1006,
+      "Zipcode": "6527"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Jasaan",
+      "Id": 1249,
+      "Zipcode": "9003"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Javier",
+      "Id": 1007,
+      "Zipcode": "6511"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Jiabong",
+      "Id": 1064,
+      "Zipcode": "6701"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Jimalalud",
+      "Id": 938,
+      "Zipcode": "6212"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Jimenez",
+      "Id": 1229,
+      "Zipcode": "7204"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Jipapad",
+      "Id": 976,
+      "Zipcode": "6819"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Jolo",
+      "Id": 1527,
+      "Zipcode": "7400"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Jomalig",
+      "Id": 465,
+      "Zipcode": "4342"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Jones",
+      "Id": 193,
+      "Zipcode": "3313"
+    },
+    {
+      "Provinceid": 37,
+      "Cityname": "Jordan",
+      "Id": 746,
+      "Zipcode": "5045"
+    },
+    {
+      "Provinceid": 61,
+      "Cityname": "Jose Abad Santos",
+      "Id": 1297,
+      "Zipcode": "8014"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Jose Dalman",
+      "Id": 1106,
+      "Zipcode": "7111"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Jose Panganiban",
+      "Id": 600,
+      "Zipcode": "4606"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Josefina",
+      "Id": 1135,
+      "Zipcode": "7027"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Jovellar",
+      "Id": 583,
+      "Zipcode": "4515"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Juban",
+      "Id": 686,
+      "Zipcode": "4703"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Julita",
+      "Id": 1008,
+      "Zipcode": "6506"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Kabacan",
+      "Id": 1318,
+      "Zipcode": "9407"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Kabangkalan City",
+      "Id": 808,
+      "Zipcode": "6111"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Kabasalan",
+      "Id": 1161,
+      "Zipcode": "7005"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Kabayan",
+      "Id": 1593,
+      "Zipcode": "2606"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Kabugao",
+      "Id": 1583,
+      "Zipcode": "3809"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Kabuntalan",
+      "Id": 1505,
+      "Zipcode": "9606"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Kadingilan",
+      "Id": 1178,
+      "Zipcode": "8713"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Kalamansig",
+      "Id": 1353,
+      "Zipcode": "9808"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Kalawit",
+      "Id": 1107,
+      "Zipcode": "7124"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Kalayaan",
+      "Id": 551,
+      "Zipcode": "5322"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Kalayaan",
+      "Id": 1630,
+      "Zipcode": "4015"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Kalibo",
+      "Id": 699,
+      "Zipcode": "5600"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Kalilangan",
+      "Id": 1179,
+      "Zipcode": "8718"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Kalingalan Caluang",
+      "Id": 1528,
+      "Zipcode": "7416"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Kananga",
+      "Id": 1009,
+      "Zipcode": "6531"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Kapai",
+      "Id": 1459,
+      "Zipcode": "9709"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Kapalong",
+      "Id": 1279,
+      "Zipcode": "8113"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Kapangan",
+      "Id": 1594,
+      "Zipcode": "2613"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Kapatagan",
+      "Id": 1460,
+      "Zipcode": "9700"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Kapatagan",
+      "Id": 1203,
+      "Zipcode": "9214"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Kasibu",
+      "Id": 224,
+      "Zipcode": "3703"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Katipunan",
+      "Id": 1108,
+      "Zipcode": "7109"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Kauswagan",
+      "Id": 1204,
+      "Zipcode": "9202"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Kawayan",
+      "Id": 963,
+      "Zipcode": "6545"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Kawit",
+      "Id": 410,
+      "Zipcode": "4104"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Kayapa",
+      "Id": 225,
+      "Zipcode": "3708"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Kiamba",
+      "Id": 1332,
+      "Zipcode": "9514"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Kiangan",
+      "Id": 1607,
+      "Zipcode": "3604"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Kibawe",
+      "Id": 1180,
+      "Zipcode": "8720"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Kiblawan",
+      "Id": 1289,
+      "Zipcode": "8008"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Kibungan",
+      "Id": 1595,
+      "Zipcode": "2611"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Kidapawan City",
+      "Id": 1319,
+      "Zipcode": "9400"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Kinoguitan",
+      "Id": 1250,
+      "Zipcode": "9010"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Kitaotao",
+      "Id": 1181,
+      "Zipcode": "8716"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Kitcharao",
+      "Id": 1367,
+      "Zipcode": "8609"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Kolambugan",
+      "Id": 1205,
+      "Zipcode": "9207"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Koronadal City",
+      "Id": 1339,
+      "Zipcode": "9506"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Kumaralang",
+      "Id": 1136,
+      "Zipcode": "7013"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "La Carlota City",
+      "Id": 809,
+      "Zipcode": "6130"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "La Castellana",
+      "Id": 810,
+      "Zipcode": "6131"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "La Libertad",
+      "Id": 1109,
+      "Zipcode": "7119"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "La Libertad",
+      "Id": 939,
+      "Zipcode": "6213"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "La Paz",
+      "Id": 1010,
+      "Zipcode": "6508"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "La Paz",
+      "Id": 1376,
+      "Zipcode": "8508"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "La Paz",
+      "Id": 1560,
+      "Zipcode": "2826"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "La Paz",
+      "Id": 340,
+      "Zipcode": "2314"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "La Trinidad",
+      "Id": 1596,
+      "Zipcode": "2601"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Laak",
+      "Id": 1266,
+      "Zipcode": "8103"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Labangan",
+      "Id": 1137,
+      "Zipcode": "7017"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Labason",
+      "Id": 1110,
+      "Zipcode": "7117"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Labo",
+      "Id": 601,
+      "Zipcode": "4604"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Labrador",
+      "Id": 115,
+      "Zipcode": "2402"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Lacub",
+      "Id": 1561,
+      "Zipcode": "2821"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Lagangilang",
+      "Id": 1562,
+      "Zipcode": "2802"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Lagawe",
+      "Id": 1608,
+      "Zipcode": "3600"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Lagayan",
+      "Id": 1563,
+      "Zipcode": "2824"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Lagonglong",
+      "Id": 1251,
+      "Zipcode": "9006"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Lagonoy",
+      "Id": 625,
+      "Zipcode": "4425"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Laguindingan",
+      "Id": 1252,
+      "Zipcode": "9019"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Lake Sebu",
+      "Id": 1340,
+      "Zipcode": "9512"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Lakewood",
+      "Id": 1138,
+      "Zipcode": "7014"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Lal-lo",
+      "Id": 164,
+      "Zipcode": "3509"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Lala",
+      "Id": 1206,
+      "Zipcode": "9211"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Lambayong",
+      "Id": 1354,
+      "Zipcode": "9802"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Lambunao",
+      "Id": 772,
+      "Zipcode": "5042"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Lamitan City",
+      "Id": 1439,
+      "Zipcode": "7302"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Lamut",
+      "Id": 1609,
+      "Zipcode": "3605"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Langiden",
+      "Id": 1564,
+      "Zipcode": "2807"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Languyan",
+      "Id": 1544,
+      "Zipcode": "7509"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Lantapan",
+      "Id": 1182,
+      "Zipcode": "8722"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Lantawan",
+      "Id": 1440,
+      "Zipcode": "7301"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Lanuza",
+      "Id": 1424,
+      "Zipcode": "8314"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Laoac",
+      "Id": 116,
+      "Zipcode": "2437"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Laoag City",
+      "Id": 29,
+      "Zipcode": "2900"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Laoang",
+      "Id": 1039,
+      "Zipcode": "6411"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Lapinig",
+      "Id": 1040,
+      "Zipcode": "6423"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Lapu-Lapu City",
+      "Id": 899,
+      "Zipcode": "6015"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Lapuyan",
+      "Id": 1139,
+      "Zipcode": "7037"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "Larena",
+      "Id": 953,
+      "Zipcode": "6226"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Las Navas",
+      "Id": 1041,
+      "Zipcode": "6420"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Las Nieves",
+      "Id": 1368,
+      "Zipcode": "8610"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Las Pinas City",
+      "Id": 2,
+      "Zipcode": "1740"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Lasam",
+      "Id": 165,
+      "Zipcode": "3524"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Laua-an",
+      "Id": 717,
+      "Zipcode": "5705"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Laur",
+      "Id": 292,
+      "Zipcode": "3129"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Laurel",
+      "Id": 375,
+      "Zipcode": "4221"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Lavezares",
+      "Id": 1042,
+      "Zipcode": "6404"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Lawaan",
+      "Id": 977,
+      "Zipcode": "6813"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "Lazi",
+      "Id": 954,
+      "Zipcode": "6228"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Lebak",
+      "Id": 1355,
+      "Zipcode": "9807"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Leganes",
+      "Id": 773,
+      "Zipcode": "5003"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Legazpi City",
+      "Id": 584,
+      "Zipcode": "4500"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Lemery",
+      "Id": 774,
+      "Zipcode": "5043"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Lemery",
+      "Id": 376,
+      "Zipcode": "4209"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Leon",
+      "Id": 775,
+      "Zipcode": "5026"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Leon B. Postigo",
+      "Id": 1111,
+      "Zipcode": "7112"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Leyte",
+      "Id": 1011,
+      "Zipcode": "6533"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Lezo",
+      "Id": 700,
+      "Zipcode": "5605"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Lian",
+      "Id": 377,
+      "Zipcode": "4216"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Lianga",
+      "Id": 1425,
+      "Zipcode": "8307"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Libacao",
+      "Id": 701,
+      "Zipcode": "5602"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Libagon",
+      "Id": 1086,
+      "Zipcode": "6615"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Libertad",
+      "Id": 718,
+      "Zipcode": "5710"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Libertad",
+      "Id": 1253,
+      "Zipcode": "9021"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Libjo",
+      "Id": 1390,
+      "Zipcode": "8414"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Libmanan",
+      "Id": 626,
+      "Zipcode": "4407"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Libon",
+      "Id": 585,
+      "Zipcode": "4507"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Libona",
+      "Id": 1183,
+      "Zipcode": "8706"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Libungan",
+      "Id": 1320,
+      "Zipcode": "9411"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Licab",
+      "Id": 293,
+      "Zipcode": "3112"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Licuan-Baay",
+      "Id": 1565,
+      "Zipcode": "2819"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Lidlida",
+      "Id": 51,
+      "Zipcode": "2723"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Ligao City",
+      "Id": 586,
+      "Zipcode": "4504"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Lila",
+      "Id": 853,
+      "Zipcode": "6304"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Liliw",
+      "Id": 430,
+      "Zipcode": "4004"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Liloan",
+      "Id": 900,
+      "Zipcode": "6002"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Liloan",
+      "Id": 1087,
+      "Zipcode": "6612"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Liloy",
+      "Id": 1112,
+      "Zipcode": "7115"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Limawasa",
+      "Id": 1088,
+      "Zipcode": "6618"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Limay",
+      "Id": 249,
+      "Zipcode": "2103"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Linamon",
+      "Id": 1207,
+      "Zipcode": "9201"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Linapacan",
+      "Id": 552,
+      "Zipcode": "5314"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Lingayen",
+      "Id": 117,
+      "Zipcode": "2401"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Lingig",
+      "Id": 1426,
+      "Zipcode": "8312"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Lipa City",
+      "Id": 378,
+      "Zipcode": "4217"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Llanera",
+      "Id": 294,
+      "Zipcode": "3126"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Llorente",
+      "Id": 978,
+      "Zipcode": "6803"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Loay",
+      "Id": 854,
+      "Zipcode": "6303"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Lobo",
+      "Id": 379,
+      "Zipcode": "4229"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Loboc",
+      "Id": 855,
+      "Zipcode": "6316"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Looc",
+      "Id": 514,
+      "Zipcode": "5111"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Looc",
+      "Id": 569,
+      "Zipcode": "5507"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Loon",
+      "Id": 856,
+      "Zipcode": "6327"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Lope De Vega",
+      "Id": 1043,
+      "Zipcode": "6403"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Lopez",
+      "Id": 466,
+      "Zipcode": "4316"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Lopez Jaena",
+      "Id": 1230,
+      "Zipcode": "7208"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Lopon",
+      "Id": 1307,
+      "Zipcode": "8207"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Loreto",
+      "Id": 1391,
+      "Zipcode": "8415"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Loreto",
+      "Id": 1377,
+      "Zipcode": "8507"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Los Banos",
+      "Id": 431,
+      "Zipcode": "4030"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Luba",
+      "Id": 1566,
+      "Zipcode": "2813"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Lubang",
+      "Id": 515,
+      "Zipcode": "5109"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Lubao",
+      "Id": 319,
+      "Zipcode": "2005"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Lubuagan",
+      "Id": 1613,
+      "Zipcode": "3802"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Lucban",
+      "Id": 467,
+      "Zipcode": "4328"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Lucena City",
+      "Id": 468,
+      "Zipcode": "4301"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Lugait",
+      "Id": 1254,
+      "Zipcode": "9025"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Lugus",
+      "Id": 1529,
+      "Zipcode": "7411"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Luisiana",
+      "Id": 432,
+      "Zipcode": "4032"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Lumba-Bayabao",
+      "Id": 1461,
+      "Zipcode": "9703"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Lumbaca-Unayan",
+      "Id": 1462,
+      "Zipcode": "9308"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Lumban",
+      "Id": 433,
+      "Zipcode": "4014"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Lumbatan",
+      "Id": 1463,
+      "Zipcode": "9307"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Lumbayanague",
+      "Id": 1464,
+      "Zipcode": "9306"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Luna",
+      "Id": 194,
+      "Zipcode": "3304"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Luna",
+      "Id": 84,
+      "Zipcode": "2518"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Luna",
+      "Id": 1584,
+      "Zipcode": "3813"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Lupao",
+      "Id": 295,
+      "Zipcode": "3122"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Lupi",
+      "Id": 627,
+      "Zipcode": "4409"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Lutayan",
+      "Id": 1356,
+      "Zipcode": "9803"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Luuk",
+      "Id": 1530,
+      "Zipcode": "7404"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "M' Lang",
+      "Id": 1321,
+      "Zipcode": "9402"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Maasin",
+      "Id": 776,
+      "Zipcode": "5030"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Maasin",
+      "Id": 1333,
+      "Zipcode": "9502"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Maasin City",
+      "Id": 1089,
+      "Zipcode": "6600"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Maayon",
+      "Id": 734,
+      "Zipcode": "5809"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Mabalacat City",
+      "Id": 320,
+      "Zipcode": "2010"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Mabinay",
+      "Id": 940,
+      "Zipcode": "6207"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Mabini",
+      "Id": 1267,
+      "Zipcode": "8115"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Mabini",
+      "Id": 380,
+      "Zipcode": "4202"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Mabini",
+      "Id": 118,
+      "Zipcode": "2409"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Mabini",
+      "Id": 857,
+      "Zipcode": "6313"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Mabitac",
+      "Id": 434,
+      "Zipcode": "4020"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Mabuhay",
+      "Id": 1162,
+      "Zipcode": "7010"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "MacArthur",
+      "Id": 1012,
+      "Zipcode": "6509"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Macabebe",
+      "Id": 321,
+      "Zipcode": "2018"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Macalelon",
+      "Id": 469,
+      "Zipcode": "4309"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Maco",
+      "Id": 1268,
+      "Zipcode": "8114"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Maconacon",
+      "Id": 195,
+      "Zipcode": "3333"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Macrohon",
+      "Id": 1090,
+      "Zipcode": "6601"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Madalag",
+      "Id": 702,
+      "Zipcode": "5603"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Madalum",
+      "Id": 1465,
+      "Zipcode": "9315"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Madamba",
+      "Id": 1466,
+      "Zipcode": "9314"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Maddela",
+      "Id": 233,
+      "Zipcode": "3404"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Madrid",
+      "Id": 1427,
+      "Zipcode": "8316"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Madridejos",
+      "Id": 901,
+      "Zipcode": "6053"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Magalang",
+      "Id": 322,
+      "Zipcode": "2011"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Magallanes",
+      "Id": 411,
+      "Zipcode": "4113"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Magallanes",
+      "Id": 687,
+      "Zipcode": "4705"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Magallanes",
+      "Id": 1369,
+      "Zipcode": "8604"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Magarao",
+      "Id": 628,
+      "Zipcode": "4403"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Magdalena",
+      "Id": 435,
+      "Zipcode": "4007"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Magdiwang",
+      "Id": 570,
+      "Zipcode": "5511"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Magpet",
+      "Id": 1322,
+      "Zipcode": "9404"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Magsaysay",
+      "Id": 516,
+      "Zipcode": "5101"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Magsaysay",
+      "Id": 553,
+      "Zipcode": "5319"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Magsaysay",
+      "Id": 1290,
+      "Zipcode": "8004"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Magsaysay",
+      "Id": 1255,
+      "Zipcode": "9015"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Magsaysay",
+      "Id": 1208,
+      "Zipcode": "9221"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Magsingal",
+      "Id": 52,
+      "Zipcode": "2730"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Maguing",
+      "Id": 1467,
+      "Zipcode": "9715"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Mahaplag",
+      "Id": 1013,
+      "Zipcode": "6512"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Mahatao",
+      "Id": 146,
+      "Zipcode": "3901"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Mahayag",
+      "Id": 1140,
+      "Zipcode": "7026"
+    },
+    {
+      "Provinceid": 54,
+      "Cityname": "Mahinog",
+      "Id": 1196,
+      "Zipcode": "9101"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Maigo",
+      "Id": 1209,
+      "Zipcode": "9206"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Maimbung",
+      "Id": 1531,
+      "Zipcode": "7409"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Mainit",
+      "Id": 1402,
+      "Zipcode": "8407"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Maitum",
+      "Id": 1334,
+      "Zipcode": "9515"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Majayjay",
+      "Id": 436,
+      "Zipcode": "4005"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Majuyod",
+      "Id": 941,
+      "Zipcode": "6208"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Makati City",
+      "Id": 3,
+      "Zipcode": "1200"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Makato",
+      "Id": 703,
+      "Zipcode": "5611"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Makilala",
+      "Id": 1323,
+      "Zipcode": "9401"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Malabang",
+      "Id": 1468,
+      "Zipcode": "9300"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Malabon City",
+      "Id": 4,
+      "Zipcode": "1409"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Malabuyoc",
+      "Id": 902,
+      "Zipcode": "6029"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Malalag",
+      "Id": 1291,
+      "Zipcode": "8010"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Malangas",
+      "Id": 1163,
+      "Zipcode": "7038"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Malapatan",
+      "Id": 1335,
+      "Zipcode": "9516"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Malasigui",
+      "Id": 119,
+      "Zipcode": "2421"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Malay",
+      "Id": 704,
+      "Zipcode": "5608"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Malaybalay City",
+      "Id": 1184,
+      "Zipcode": "8700"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Malibcong",
+      "Id": 1567,
+      "Zipcode": "2820"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Malilipot",
+      "Id": 587,
+      "Zipcode": "4510"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Malimono",
+      "Id": 1403,
+      "Zipcode": "8402"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Malinao",
+      "Id": 588,
+      "Zipcode": "4512"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Malinao",
+      "Id": 705,
+      "Zipcode": "5606"
+    },
+    {
+      "Provinceid": 61,
+      "Cityname": "Malita Davao",
+      "Id": 1298,
+      "Zipcode": "8012"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Malitbog",
+      "Id": 1185,
+      "Zipcode": "8704"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Malitbog",
+      "Id": 1091,
+      "Zipcode": "6603"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Mallig",
+      "Id": 196,
+      "Zipcode": "3323"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Malolos City",
+      "Id": 266,
+      "Zipcode": "3000"
+    },
+    {
+      "Provinceid": 64,
+      "Cityname": "Malungon",
+      "Id": 1336,
+      "Zipcode": "9503"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Maluso",
+      "Id": 1441,
+      "Zipcode": "7303"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Malvar",
+      "Id": 381,
+      "Zipcode": "4233"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Mamasapano",
+      "Id": 1506,
+      "Zipcode": "9608"
+    },
+    {
+      "Provinceid": 54,
+      "Cityname": "Mambajao",
+      "Id": 1197,
+      "Zipcode": "9100"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Mamburao",
+      "Id": 517,
+      "Zipcode": "5106"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Mambusao",
+      "Id": 735,
+      "Zipcode": "5807"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Manabo",
+      "Id": 1568,
+      "Zipcode": "2810"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Manaoag",
+      "Id": 120,
+      "Zipcode": "2430"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Manapla",
+      "Id": 811,
+      "Zipcode": "6120"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Manay",
+      "Id": 1308,
+      "Zipcode": "8202"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Mandaluyong City",
+      "Id": 5,
+      "Zipcode": "1550"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Mandaon",
+      "Id": 666,
+      "Zipcode": "5411"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Mandaue City",
+      "Id": 903,
+      "Zipcode": "6014"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Mangaldan",
+      "Id": 121,
+      "Zipcode": "2432"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Mangatarem",
+      "Id": 122,
+      "Zipcode": "2413"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Mangudadatu",
+      "Id": 1507,
+      "Zipcode": "9616"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Manila City",
+      "Id": 6,
+      "Zipcode": "900"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Manito",
+      "Id": 589,
+      "Zipcode": "4514"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Mankayan",
+      "Id": 1597,
+      "Zipcode": "2608"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Manolo Fortich",
+      "Id": 1186,
+      "Zipcode": "8703"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Mansalay",
+      "Id": 529,
+      "Zipcode": "5213"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Manticao",
+      "Id": 1256,
+      "Zipcode": "9024"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Manukan",
+      "Id": 1113,
+      "Zipcode": "7110"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Mapanas",
+      "Id": 1044,
+      "Zipcode": "6412"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Mapandan",
+      "Id": 123,
+      "Zipcode": "2429"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Mapun",
+      "Id": 1545,
+      "Zipcode": "7508"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Marabut",
+      "Id": 1065,
+      "Zipcode": "6721"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Maragondon",
+      "Id": 412,
+      "Zipcode": "4112"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Maragusan",
+      "Id": 1269,
+      "Zipcode": "8116"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Maramag",
+      "Id": 1187,
+      "Zipcode": "8714"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Marantao",
+      "Id": 1469,
+      "Zipcode": "9711"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Marawi City",
+      "Id": 1470,
+      "Zipcode": "9700"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Marcos",
+      "Id": 30,
+      "Zipcode": "2907"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Margosatubig",
+      "Id": 1141,
+      "Zipcode": "7035"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "Maria",
+      "Id": 955,
+      "Zipcode": "6229"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "Maria Aurora",
+      "Id": 242,
+      "Zipcode": "3202"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Mariano Marcos",
+      "Id": 1357,
+      "Zipcode": "9802"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Maribojoc",
+      "Id": 858,
+      "Zipcode": "6336"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Marihatag",
+      "Id": 1428,
+      "Zipcode": "8306"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Marikina City",
+      "Id": 7,
+      "Zipcode": "1800"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Marilao",
+      "Id": 267,
+      "Zipcode": "3019"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Maripipi",
+      "Id": 964,
+      "Zipcode": "6546"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Mariveles",
+      "Id": 250,
+      "Zipcode": "2105"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Marogong",
+      "Id": 1471,
+      "Zipcode": "9303"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Masantol",
+      "Id": 323,
+      "Zipcode": "2017"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Masbate City",
+      "Id": 667,
+      "Zipcode": "5400"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Masinloc",
+      "Id": 356,
+      "Zipcode": "2211"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Masiu",
+      "Id": 1472,
+      "Zipcode": "9706"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Maslog",
+      "Id": 979,
+      "Zipcode": "6820"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Mataasnakahoy",
+      "Id": 382,
+      "Zipcode": "4223"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Matag-ob",
+      "Id": 1014,
+      "Zipcode": "6532"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Matalam",
+      "Id": 1324,
+      "Zipcode": "9406"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Matalom",
+      "Id": 1015,
+      "Zipcode": "6526"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Matanao",
+      "Id": 1292,
+      "Zipcode": "8003"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Matanog",
+      "Id": 1508,
+      "Zipcode": "9613"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Mati City",
+      "Id": 1309,
+      "Zipcode": "8200"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Matnog",
+      "Id": 688,
+      "Zipcode": "4708"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Matuguinao",
+      "Id": 1066,
+      "Zipcode": "6708"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Matungao",
+      "Id": 1210,
+      "Zipcode": "9203"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Mauban",
+      "Id": 470,
+      "Zipcode": "4330"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Mawab",
+      "Id": 1270,
+      "Zipcode": "8108"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Mayantoc",
+      "Id": 341,
+      "Zipcode": "2304"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Maydolong",
+      "Id": 980,
+      "Zipcode": "6802"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Mayorga",
+      "Id": 1016,
+      "Zipcode": "6507"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Mayoyao",
+      "Id": 1610,
+      "Zipcode": "3602"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Medellin",
+      "Id": 904,
+      "Zipcode": "6012"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Medina",
+      "Id": 1257,
+      "Zipcode": "9013"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Mendez",
+      "Id": 413,
+      "Zipcode": "4121"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Mercedes",
+      "Id": 981,
+      "Zipcode": "6808"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Mercedez",
+      "Id": 602,
+      "Zipcode": "4601"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Merida",
+      "Id": 1017,
+      "Zipcode": "6540"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Mexico",
+      "Id": 324,
+      "Zipcode": "2021"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Meycauayan City",
+      "Id": 268,
+      "Zipcode": "3020"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Miagao",
+      "Id": 777,
+      "Zipcode": "5023"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Midsalip",
+      "Id": 1142,
+      "Zipcode": "7021"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Midsayap",
+      "Id": 1325,
+      "Zipcode": "9410"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Milagros",
+      "Id": 668,
+      "Zipcode": "5410"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Milaor",
+      "Id": 629,
+      "Zipcode": "4413"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Mina",
+      "Id": 778,
+      "Zipcode": "5032"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Minalabac",
+      "Id": 630,
+      "Zipcode": "4414"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Minalin",
+      "Id": 325,
+      "Zipcode": "2019"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Minglanilla",
+      "Id": 905,
+      "Zipcode": "6046"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Moalboal",
+      "Id": 906,
+      "Zipcode": "6032"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Mobo",
+      "Id": 669,
+      "Zipcode": "5401"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Mogpog",
+      "Id": 509,
+      "Zipcode": "4901"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Moises Padilla",
+      "Id": 812,
+      "Zipcode": "6132"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Molave",
+      "Id": 1143,
+      "Zipcode": "7023"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Moncada",
+      "Id": 342,
+      "Zipcode": "2308"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Mondragon",
+      "Id": 1045,
+      "Zipcode": "6417"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Monkayo",
+      "Id": 1271,
+      "Zipcode": "8111"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Monreal",
+      "Id": 670,
+      "Zipcode": "5418"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Montevista",
+      "Id": 1272,
+      "Zipcode": "8107"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Morong",
+      "Id": 251,
+      "Zipcode": "2108"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Morong",
+      "Id": 499,
+      "Zipcode": "1960"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Motiong",
+      "Id": 1067,
+      "Zipcode": "6702"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Mulanay",
+      "Id": 471,
+      "Zipcode": "4312"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Mulondo",
+      "Id": 1473,
+      "Zipcode": "9702"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Munai",
+      "Id": 1211,
+      "Zipcode": "9219"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Munoz City",
+      "Id": 296,
+      "Zipcode": "3119"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Muntinlupa City",
+      "Id": 8,
+      "Zipcode": "1771"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Murcia",
+      "Id": 813,
+      "Zipcode": "6129"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Mutia",
+      "Id": 1114,
+      "Zipcode": "7107"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Naawan",
+      "Id": 1258,
+      "Zipcode": "9023"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Nabas",
+      "Id": 706,
+      "Zipcode": "5607"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Nabua",
+      "Id": 631,
+      "Zipcode": "4434"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Nabunturan",
+      "Id": 1273,
+      "Zipcode": "8106"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Naga",
+      "Id": 1164,
+      "Zipcode": "7004"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Naga City",
+      "Id": 907,
+      "Zipcode": "6037"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Naga City",
+      "Id": 632,
+      "Zipcode": "4400"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Nagbukel",
+      "Id": 53,
+      "Zipcode": "2725"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Nagcarlan",
+      "Id": 437,
+      "Zipcode": "4002"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Nagtipunan",
+      "Id": 234,
+      "Zipcode": "3405"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Naguilian",
+      "Id": 197,
+      "Zipcode": "3302"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Naguillan",
+      "Id": 85,
+      "Zipcode": "2511"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Naic",
+      "Id": 414,
+      "Zipcode": "4110"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Nampicuan",
+      "Id": 297,
+      "Zipcode": "3116"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Narra",
+      "Id": 554,
+      "Zipcode": "5303"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Narvacan",
+      "Id": 54,
+      "Zipcode": "2704"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Nasipit",
+      "Id": 1370,
+      "Zipcode": "8602"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Nasugbu",
+      "Id": 383,
+      "Zipcode": "4231"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Natividad",
+      "Id": 124,
+      "Zipcode": "2446"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Naujan",
+      "Id": 530,
+      "Zipcode": "5204"
+    },
+    {
+      "Provinceid": 44,
+      "Cityname": "Naval",
+      "Id": 965,
+      "Zipcode": "6543"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Navotas City",
+      "Id": 9,
+      "Zipcode": "1411"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "New Bataan",
+      "Id": 1274,
+      "Zipcode": "8110"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "New Corella",
+      "Id": 1280,
+      "Zipcode": "8104"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "New Lucena",
+      "Id": 779,
+      "Zipcode": "5005"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "New Washington",
+      "Id": 707,
+      "Zipcode": "5610"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Norala",
+      "Id": 1341,
+      "Zipcode": "9508"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Northern Kabuntalan",
+      "Id": 1509,
+      "Zipcode": "9606"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Norzagaray",
+      "Id": 269,
+      "Zipcode": "3013"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Noveleta",
+      "Id": 415,
+      "Zipcode": "4105"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Nueva Era",
+      "Id": 31,
+      "Zipcode": "2909"
+    },
+    {
+      "Provinceid": 37,
+      "Cityname": "Nueva Valencia",
+      "Id": 747,
+      "Zipcode": "5046"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Numancia",
+      "Id": 708,
+      "Zipcode": "5604"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Nunungan",
+      "Id": 1212,
+      "Zipcode": "9216"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Oas",
+      "Id": 590,
+      "Zipcode": "4504"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Obando",
+      "Id": 270,
+      "Zipcode": "3021"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Ocampo",
+      "Id": 633,
+      "Zipcode": "4419"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Odiongan",
+      "Id": 571,
+      "Zipcode": "5505"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Old Panamao",
+      "Id": 1532,
+      "Zipcode": "7402"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Olongapo City",
+      "Id": 357,
+      "Zipcode": "2200"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Olutanga",
+      "Id": 1165,
+      "Zipcode": "7041"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Omar",
+      "Id": 1533,
+      "Zipcode": "7404"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Opol",
+      "Id": 1259,
+      "Zipcode": "9016"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Orani",
+      "Id": 252,
+      "Zipcode": "2112"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Oras",
+      "Id": 982,
+      "Zipcode": "6818"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Orion",
+      "Id": 253,
+      "Zipcode": "2102"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Ormo City",
+      "Id": 1018,
+      "Zipcode": "6541"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Oroquieta City",
+      "Id": 1231,
+      "Zipcode": "7207"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Oslob",
+      "Id": 908,
+      "Zipcode": "6025"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Oton",
+      "Id": 780,
+      "Zipcode": "5020"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Ozamis City",
+      "Id": 1232,
+      "Zipcode": "7200"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Padada",
+      "Id": 1293,
+      "Zipcode": "8007"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Padre Burgos",
+      "Id": 1092,
+      "Zipcode": "6602"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Padre Burgos",
+      "Id": 472,
+      "Zipcode": "4303"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Padre Garcia",
+      "Id": 384,
+      "Zipcode": "4224"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Paete",
+      "Id": 438,
+      "Zipcode": "4016"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Pagadian City",
+      "Id": 1144,
+      "Zipcode": "7016"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Pagalungan",
+      "Id": 1510,
+      "Zipcode": "9610"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Pagayawan",
+      "Id": 1474,
+      "Zipcode": "9312"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Pagbilao",
+      "Id": 473,
+      "Zipcode": "4302"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Paglat",
+      "Id": 1511,
+      "Zipcode": "9618"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Pagsanghan",
+      "Id": 1068,
+      "Zipcode": "6705"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Pagsanjan",
+      "Id": 439,
+      "Zipcode": "4008"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Pagudpud",
+      "Id": 32,
+      "Zipcode": "2919"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Pakil",
+      "Id": 440,
+      "Zipcode": "4017"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Palanan",
+      "Id": 198,
+      "Zipcode": "3334"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Palanas",
+      "Id": 671,
+      "Zipcode": "5404"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Palapag",
+      "Id": 1046,
+      "Zipcode": "6421"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Palauig",
+      "Id": 358,
+      "Zipcode": "2210"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Palayan City",
+      "Id": 298,
+      "Zipcode": "3132"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Palimbang",
+      "Id": 1358,
+      "Zipcode": "9809"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Palo",
+      "Id": 1019,
+      "Zipcode": "6501"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Palompon",
+      "Id": 1020,
+      "Zipcode": "6538"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Paluan",
+      "Id": 518,
+      "Zipcode": "5107"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Pambujan",
+      "Id": 1047,
+      "Zipcode": "6413"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Pamplona",
+      "Id": 942,
+      "Zipcode": "6205"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Pamplona",
+      "Id": 166,
+      "Zipcode": "3522"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Pamplona",
+      "Id": 634,
+      "Zipcode": "4416"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Panabo City",
+      "Id": 1281,
+      "Zipcode": "8105"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Panaon",
+      "Id": 1233,
+      "Zipcode": "7205"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Panay",
+      "Id": 736,
+      "Zipcode": "5801"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Pandag",
+      "Id": 1512,
+      "Zipcode": "9616"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Pandami",
+      "Id": 1534,
+      "Zipcode": "7400"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Pandan",
+      "Id": 719,
+      "Zipcode": "5712"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Pandan",
+      "Id": 651,
+      "Zipcode": "4809"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Pandi",
+      "Id": 271,
+      "Zipcode": "3014"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Panganiban",
+      "Id": 652,
+      "Zipcode": "4806"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Pangantucan",
+      "Id": 1188,
+      "Zipcode": "8717"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Pangil",
+      "Id": 441,
+      "Zipcode": "4018"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Panglao",
+      "Id": 859,
+      "Zipcode": "6340"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Panglima Estino",
+      "Id": 1535,
+      "Zipcode": "7415"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Panglima Sugala",
+      "Id": 1546,
+      "Zipcode": "7501"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Panguntaran",
+      "Id": 1536,
+      "Zipcode": "7414"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Paniqui",
+      "Id": 343,
+      "Zipcode": "2307"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Panitan",
+      "Id": 737,
+      "Zipcode": "5815"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Pantabangan",
+      "Id": 299,
+      "Zipcode": "3124"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Pantao Ragat",
+      "Id": 1213,
+      "Zipcode": "9208"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Pantar",
+      "Id": 1214,
+      "Zipcode": "9218"
+    },
+    {
+      "Provinceid": 58,
+      "Cityname": "Pantukan",
+      "Id": 1275,
+      "Zipcode": "8117"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Panukulan",
+      "Id": 474,
+      "Zipcode": "4337"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Paoay",
+      "Id": 33,
+      "Zipcode": "2902"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Paombong",
+      "Id": 272,
+      "Zipcode": "3001"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Paracale",
+      "Id": 603,
+      "Zipcode": "4605"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Paracelis",
+      "Id": 1625,
+      "Zipcode": "2625"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Paranaque City",
+      "Id": 10,
+      "Zipcode": "1700"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Paranas",
+      "Id": 1069,
+      "Zipcode": "6703"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Parang",
+      "Id": 1513,
+      "Zipcode": "9604"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Parang",
+      "Id": 1537,
+      "Zipcode": "7408"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Pasacao",
+      "Id": 635,
+      "Zipcode": "4417"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Pasay City",
+      "Id": 11,
+      "Zipcode": "1300"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Pasig City",
+      "Id": 12,
+      "Zipcode": "1600"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Pasil",
+      "Id": 1614,
+      "Zipcode": "3803"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Passi City",
+      "Id": 781,
+      "Zipcode": "5037"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Pastrana",
+      "Id": 1021,
+      "Zipcode": "6514"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Pasuquin",
+      "Id": 34,
+      "Zipcode": "2917"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Pata",
+      "Id": 1538,
+      "Zipcode": "7405"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Pateros",
+      "Id": 13,
+      "Zipcode": "1620"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Patikul",
+      "Id": 1539,
+      "Zipcode": "7401"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Patnanungan",
+      "Id": 475,
+      "Zipcode": "4341"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Patnongon",
+      "Id": 720,
+      "Zipcode": "5702"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Pavia",
+      "Id": 782,
+      "Zipcode": "5001"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Payao",
+      "Id": 1166,
+      "Zipcode": "7008"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Penablanca",
+      "Id": 167,
+      "Zipcode": "3502"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Penaranda",
+      "Id": 300,
+      "Zipcode": "3103"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Penarrubia",
+      "Id": 1569,
+      "Zipcode": "2804"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Perez",
+      "Id": 476,
+      "Zipcode": "4334"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Piagapo",
+      "Id": 1475,
+      "Zipcode": "9710"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Piat",
+      "Id": 168,
+      "Zipcode": "3527"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Picong",
+      "Id": 1476,
+      "Zipcode": "9301"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Piddig",
+      "Id": 35,
+      "Zipcode": "2912"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Pidigan",
+      "Id": 1570,
+      "Zipcode": "2806"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Pigkawayan",
+      "Id": 1326,
+      "Zipcode": "9412"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Pikit",
+      "Id": 1327,
+      "Zipcode": "9409"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Pila",
+      "Id": 442,
+      "Zipcode": "4010"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Pilar",
+      "Id": 1571,
+      "Zipcode": "2812"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Pilar",
+      "Id": 1404,
+      "Zipcode": "8420"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Pilar",
+      "Id": 254,
+      "Zipcode": "2101"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Pilar",
+      "Id": 860,
+      "Zipcode": "6321"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Pilar",
+      "Id": 909,
+      "Zipcode": "6048"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Pilar",
+      "Id": 738,
+      "Zipcode": "5804"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Pilar",
+      "Id": 689,
+      "Zipcode": "4714"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Pili",
+      "Id": 636,
+      "Zipcode": "4418"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Pililla",
+      "Id": 500,
+      "Zipcode": "1910"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Pinabacdao",
+      "Id": 1070,
+      "Zipcode": "6716"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Pinamalyan",
+      "Id": 531,
+      "Zipcode": "5208"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Pinamungajan",
+      "Id": 910,
+      "Zipcode": "6039"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Pinan",
+      "Id": 1115,
+      "Zipcode": "7105"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Pinili",
+      "Id": 36,
+      "Zipcode": "2905"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Pintuyan",
+      "Id": 1093,
+      "Zipcode": "6614"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Pinukpuk",
+      "Id": 1615,
+      "Zipcode": "3806"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Pio Duran",
+      "Id": 591,
+      "Zipcode": "4516"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Pio V. Corpuz",
+      "Id": 672,
+      "Zipcode": "5406"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Pitogo",
+      "Id": 477,
+      "Zipcode": "4308"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Pitogo",
+      "Id": 1145,
+      "Zipcode": "7033"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Placer",
+      "Id": 1405,
+      "Zipcode": "8405"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Placer",
+      "Id": 673,
+      "Zipcode": "5408"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Plaridel",
+      "Id": 478,
+      "Zipcode": "4306"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Plaridel",
+      "Id": 273,
+      "Zipcode": "3004"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Plaridel",
+      "Id": 1234,
+      "Zipcode": "7209"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Pola",
+      "Id": 532,
+      "Zipcode": "5206"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Polanco",
+      "Id": 1116,
+      "Zipcode": "7106"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Polangui",
+      "Id": 592,
+      "Zipcode": "4506"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Polillo",
+      "Id": 479,
+      "Zipcode": "4339"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Polomolok",
+      "Id": 1342,
+      "Zipcode": "9504"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Pontevedra",
+      "Id": 814,
+      "Zipcode": "6105"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Pontevedra",
+      "Id": 739,
+      "Zipcode": "5802"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Poona Bayabao",
+      "Id": 1477,
+      "Zipcode": "9705"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Poona Piagapo",
+      "Id": 1215,
+      "Zipcode": "9204"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Porac",
+      "Id": 326,
+      "Zipcode": "2008"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Poro",
+      "Id": 911,
+      "Zipcode": "6049"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Pototan",
+      "Id": 783,
+      "Zipcode": "5008"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Pozzorubio",
+      "Id": 125,
+      "Zipcode": "2435"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Pres. Carlos P. Garcia",
+      "Id": 861,
+      "Zipcode": "6346"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Pres. Manuel Roxas",
+      "Id": 1117,
+      "Zipcode": "7102"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Pres. Quirino",
+      "Id": 1359,
+      "Zipcode": "9804"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Pres. Roxas",
+      "Id": 1328,
+      "Zipcode": "9405"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Presentacion",
+      "Id": 637,
+      "Zipcode": "4424"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "President Roxas",
+      "Id": 740,
+      "Zipcode": "5803"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Prieto Diaz",
+      "Id": 690,
+      "Zipcode": "4711"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Prosperidad",
+      "Id": 1378,
+      "Zipcode": "8500"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Pualas",
+      "Id": 1478,
+      "Zipcode": "9313"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Pudtol",
+      "Id": 1585,
+      "Zipcode": "3812"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Puerto Galera",
+      "Id": 533,
+      "Zipcode": "5203"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Puerto Princesa City",
+      "Id": 555,
+      "Zipcode": "5300"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Pugo",
+      "Id": 86,
+      "Zipcode": "2508"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Pulilan",
+      "Id": 274,
+      "Zipcode": "3005"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Pulupandan",
+      "Id": 815,
+      "Zipcode": "6102"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Pura",
+      "Id": 344,
+      "Zipcode": "2312"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Quezon",
+      "Id": 226,
+      "Zipcode": "3713"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Quezon",
+      "Id": 556,
+      "Zipcode": "5304"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Quezon",
+      "Id": 480,
+      "Zipcode": "4332"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Quezon",
+      "Id": 301,
+      "Zipcode": "3113"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Quezon",
+      "Id": 199,
+      "Zipcode": "3324"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Quezon",
+      "Id": 1189,
+      "Zipcode": "8715"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Quezon City",
+      "Id": 14,
+      "Zipcode": "1100"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Quinapondan",
+      "Id": 983,
+      "Zipcode": "6810"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Quirino",
+      "Id": 200,
+      "Zipcode": "3321"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Quirino",
+      "Id": 55,
+      "Zipcode": "2721"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Ragay",
+      "Id": 638,
+      "Zipcode": "4410"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Rajah Buayan",
+      "Id": 1514,
+      "Zipcode": "9611"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Ramon",
+      "Id": 201,
+      "Zipcode": "3319"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Ramon Magsaysay",
+      "Id": 1146,
+      "Zipcode": "7024"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Ramos",
+      "Id": 345,
+      "Zipcode": "2311"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Rapu-Rapu",
+      "Id": 593,
+      "Zipcode": "4517"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Real",
+      "Id": 481,
+      "Zipcode": "4335"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Reina Mercedes",
+      "Id": 202,
+      "Zipcode": "3303"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Rizal",
+      "Id": 443,
+      "Zipcode": "4003"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Rizal",
+      "Id": 302,
+      "Zipcode": "3127"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Rizal",
+      "Id": 1118,
+      "Zipcode": "7104"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Rizal",
+      "Id": 169,
+      "Zipcode": "3526"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Rizal",
+      "Id": 557,
+      "Zipcode": "5300"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Rizal",
+      "Id": 1616,
+      "Zipcode": "3808"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Rizal",
+      "Id": 519,
+      "Zipcode": "5103"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Rodriguez",
+      "Id": 501,
+      "Zipcode": "1860"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Romblon",
+      "Id": 572,
+      "Zipcode": "5500"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Romualdez",
+      "Id": 1371,
+      "Zipcode": "8611"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Ronda",
+      "Id": 912,
+      "Zipcode": "6034"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Rosales",
+      "Id": 126,
+      "Zipcode": "2441"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Rosario",
+      "Id": 385,
+      "Zipcode": "4225"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Rosario",
+      "Id": 1379,
+      "Zipcode": "8504"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Rosario",
+      "Id": 1048,
+      "Zipcode": "6416"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Rosario",
+      "Id": 416,
+      "Zipcode": "4106"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Rosario",
+      "Id": 87,
+      "Zipcode": "2506"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Roseller Lim",
+      "Id": 1167,
+      "Zipcode": "7002"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Roxas",
+      "Id": 558,
+      "Zipcode": "5308"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Roxas",
+      "Id": 534,
+      "Zipcode": "5212"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Roxas",
+      "Id": 203,
+      "Zipcode": "3320"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Roxas City",
+      "Id": 741,
+      "Zipcode": "5800"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Sabangan",
+      "Id": 1626,
+      "Zipcode": "2622"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Sablan",
+      "Id": 1598,
+      "Zipcode": "2614"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Sablayan",
+      "Id": 520,
+      "Zipcode": "5104"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Sabtang",
+      "Id": 147,
+      "Zipcode": "3904"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Sadanga",
+      "Id": 1627,
+      "Zipcode": "2617"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Sagada",
+      "Id": 1628,
+      "Zipcode": "2619"
+    },
+    {
+      "Provinceid": 54,
+      "Cityname": "Sagay",
+      "Id": 1198,
+      "Zipcode": "9103"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Sagay City",
+      "Id": 816,
+      "Zipcode": "6122"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Sagbayan",
+      "Id": 862,
+      "Zipcode": "6331"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Sagnay",
+      "Id": 639,
+      "Zipcode": "4421"
+    },
+    {
+      "Provinceid": 10,
+      "Cityname": "Saguday",
+      "Id": 235,
+      "Zipcode": "3402"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Saguiaran",
+      "Id": 1479,
+      "Zipcode": "9701"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Saint Bernard",
+      "Id": 1094,
+      "Zipcode": "6616"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Salay",
+      "Id": 1260,
+      "Zipcode": "9007"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Salcedo",
+      "Id": 56,
+      "Zipcode": "2711"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Salcedo",
+      "Id": 984,
+      "Zipcode": "6807"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Sallapadan",
+      "Id": 1572,
+      "Zipcode": "2818"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Salug",
+      "Id": 1119,
+      "Zipcode": "7114"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Salvador",
+      "Id": 1216,
+      "Zipcode": "9212"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Salvador Benedicto",
+      "Id": 817,
+      "Zipcode": "6117"
+    },
+    {
+      "Provinceid": 12,
+      "Cityname": "Samal",
+      "Id": 255,
+      "Zipcode": "2113"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Samal City",
+      "Id": 1282,
+      "Zipcode": "8119"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Samboan",
+      "Id": 913,
+      "Zipcode": "6027"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Sampaloc",
+      "Id": 482,
+      "Zipcode": "4329"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "San Agustin",
+      "Id": 1429,
+      "Zipcode": "8305"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "San Agustin",
+      "Id": 573,
+      "Zipcode": "5501"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Agustin",
+      "Id": 204,
+      "Zipcode": "3314"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "San Andres",
+      "Id": 653,
+      "Zipcode": "4810"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "San Andres",
+      "Id": 483,
+      "Zipcode": "4314"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "San Andres",
+      "Id": 574,
+      "Zipcode": "5504"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "San Antonio",
+      "Id": 359,
+      "Zipcode": "2206"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "San Antonio",
+      "Id": 484,
+      "Zipcode": "4324"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "San Antonio",
+      "Id": 303,
+      "Zipcode": "3108"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "San Antonio",
+      "Id": 1049,
+      "Zipcode": "6407"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "San Benito",
+      "Id": 1406,
+      "Zipcode": "8423"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Carlos City",
+      "Id": 127,
+      "Zipcode": "2420"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "San Carlos City",
+      "Id": 818,
+      "Zipcode": "6127"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "San Clemente",
+      "Id": 346,
+      "Zipcode": "2305"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "San Dionisio",
+      "Id": 784,
+      "Zipcode": "5015"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "San Emilio",
+      "Id": 57,
+      "Zipcode": "2722"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "San Enrique",
+      "Id": 819,
+      "Zipcode": "6104"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "San Enrique",
+      "Id": 785,
+      "Zipcode": "5036"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "San Esteban",
+      "Id": 58,
+      "Zipcode": "2706"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Fabian",
+      "Id": 128,
+      "Zipcode": "2433"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "San Felipe",
+      "Id": 360,
+      "Zipcode": "2204"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "San Fernando",
+      "Id": 1190,
+      "Zipcode": "8711"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "San Fernando",
+      "Id": 327,
+      "Zipcode": "2000"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "San Fernando",
+      "Id": 674,
+      "Zipcode": "5416"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "San Fernando",
+      "Id": 575,
+      "Zipcode": "5513"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "San Fernando",
+      "Id": 640,
+      "Zipcode": "4415"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "San Fernando",
+      "Id": 914,
+      "Zipcode": "6018"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "San Fernando City",
+      "Id": 88,
+      "Zipcode": "2500"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "San Francisco",
+      "Id": 485,
+      "Zipcode": "4315"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "San Francisco",
+      "Id": 1095,
+      "Zipcode": "6613"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "San Francisco",
+      "Id": 1407,
+      "Zipcode": "8401"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "San Francisco",
+      "Id": 915,
+      "Zipcode": "6050"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "San Francisco",
+      "Id": 1380,
+      "Zipcode": "8501"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "San Gabriel",
+      "Id": 89,
+      "Zipcode": "2513"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Guillermo",
+      "Id": 205,
+      "Zipcode": "3308"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "San Ildefonso",
+      "Id": 59,
+      "Zipcode": "2728"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "San Ildefonso",
+      "Id": 275,
+      "Zipcode": "3010"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "San Isidro",
+      "Id": 1022,
+      "Zipcode": "6535"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "San Isidro",
+      "Id": 863,
+      "Zipcode": "6345"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "San Isidro",
+      "Id": 1408,
+      "Zipcode": "8421"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "San Isidro",
+      "Id": 1573,
+      "Zipcode": "2809"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "San Isidro",
+      "Id": 1310,
+      "Zipcode": "8209"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Isidro",
+      "Id": 206,
+      "Zipcode": "3310"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "San Isidro",
+      "Id": 1050,
+      "Zipcode": "6409"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "San Isidro",
+      "Id": 304,
+      "Zipcode": "3106"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "San Jacinto",
+      "Id": 675,
+      "Zipcode": "5417"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Jacinto",
+      "Id": 129,
+      "Zipcode": "2431"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "San Joaquin",
+      "Id": 786,
+      "Zipcode": "5024"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "San Jorge",
+      "Id": 1071,
+      "Zipcode": "6707"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "San Jose",
+      "Id": 721,
+      "Zipcode": "5700"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "San Jose",
+      "Id": 386,
+      "Zipcode": "4227"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "San Jose",
+      "Id": 943,
+      "Zipcode": "6202"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "San Jose",
+      "Id": 1392,
+      "Zipcode": "8427"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "San Jose",
+      "Id": 521,
+      "Zipcode": "5100"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "San Jose",
+      "Id": 576,
+      "Zipcode": "5510"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "San Jose",
+      "Id": 641,
+      "Zipcode": "4423"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "San Jose",
+      "Id": 1051,
+      "Zipcode": "6402"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "San Jose City",
+      "Id": 305,
+      "Zipcode": "3121"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "San Jose De Buan",
+      "Id": 1072,
+      "Zipcode": "6723"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "San Jose Del Monte City",
+      "Id": 276,
+      "Zipcode": "3023"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "San Juan",
+      "Id": 1574,
+      "Zipcode": "2823"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "San Juan",
+      "Id": 1096,
+      "Zipcode": "6611"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "San Juan",
+      "Id": 387,
+      "Zipcode": "4226"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "San Juan",
+      "Id": 90,
+      "Zipcode": "2514"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "San Juan",
+      "Id": 60,
+      "Zipcode": "2731"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "San Juan",
+      "Id": 956,
+      "Zipcode": "6227"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "San Juan City",
+      "Id": 15,
+      "Zipcode": "1500"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "San Julian",
+      "Id": 985,
+      "Zipcode": "6814"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "San Leonardo",
+      "Id": 306,
+      "Zipcode": "3102"
+    },
+    {
+      "Provinceid": 37,
+      "Cityname": "San Lorenzo",
+      "Id": 748,
+      "Zipcode": "5047"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "San Lorenzo Ruis",
+      "Id": 604,
+      "Zipcode": "4610"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "San Luis",
+      "Id": 1381,
+      "Zipcode": "8511"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "San Luis",
+      "Id": 328,
+      "Zipcode": "2014"
+    },
+    {
+      "Provinceid": 11,
+      "Cityname": "San Luis",
+      "Id": 243,
+      "Zipcode": "3201"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "San Luis",
+      "Id": 388,
+      "Zipcode": "4210"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Manuel",
+      "Id": 207,
+      "Zipcode": "3317"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "San Manuel",
+      "Id": 347,
+      "Zipcode": "2309"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "San Marcelino",
+      "Id": 361,
+      "Zipcode": "2207"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Mariano",
+      "Id": 208,
+      "Zipcode": "3332"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Mateo",
+      "Id": 209,
+      "Zipcode": "3318"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "San Mateo",
+      "Id": 502,
+      "Zipcode": "1850"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "San Miguel",
+      "Id": 1430,
+      "Zipcode": "8301"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "San Miguel",
+      "Id": 864,
+      "Zipcode": "6323"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Miguel",
+      "Id": 130,
+      "Zipcode": "2438"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "San Miguel",
+      "Id": 1023,
+      "Zipcode": "6518"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "San Miguel",
+      "Id": 787,
+      "Zipcode": "5025"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "San Miguel",
+      "Id": 1147,
+      "Zipcode": "7029"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "San Miguel",
+      "Id": 654,
+      "Zipcode": "4802"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "San Miguel",
+      "Id": 277,
+      "Zipcode": "3011"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "San Narciso",
+      "Id": 486,
+      "Zipcode": "4313"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "San Narciso",
+      "Id": 362,
+      "Zipcode": "2205"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "San Nicolas",
+      "Id": 37,
+      "Zipcode": "2901"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "San Nicolas",
+      "Id": 389,
+      "Zipcode": "4207"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Nicolas",
+      "Id": 131,
+      "Zipcode": "2447"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "San Pablo",
+      "Id": 210,
+      "Zipcode": "3329"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "San Pablo",
+      "Id": 1148,
+      "Zipcode": "7031"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "San Pablo City",
+      "Id": 444,
+      "Zipcode": "4000"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "San Pascual",
+      "Id": 676,
+      "Zipcode": "5420"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "San Pascual",
+      "Id": 390,
+      "Zipcode": "4204"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "San Pedro City",
+      "Id": 445,
+      "Zipcode": "4023"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "San Policarpio",
+      "Id": 986,
+      "Zipcode": "6821"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "San Quintin",
+      "Id": 132,
+      "Zipcode": "2444"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "San Quintin",
+      "Id": 1575,
+      "Zipcode": "2808"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "San Rafael",
+      "Id": 278,
+      "Zipcode": "3008"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "San Rafael",
+      "Id": 788,
+      "Zipcode": "5039"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "San Remigio",
+      "Id": 722,
+      "Zipcode": "5714"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "San Remigio",
+      "Id": 916,
+      "Zipcode": "6011"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "San Ricardo",
+      "Id": 1097,
+      "Zipcode": "6617"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "San Roque",
+      "Id": 1052,
+      "Zipcode": "6415"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "San Sebastian",
+      "Id": 1073,
+      "Zipcode": "6714"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "San Simon",
+      "Id": 329,
+      "Zipcode": "2015"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "San Teodoro",
+      "Id": 535,
+      "Zipcode": "5202"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "San Vicente",
+      "Id": 61,
+      "Zipcode": "2726"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "San Vicente",
+      "Id": 1053,
+      "Zipcode": "6419"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "San Vicente",
+      "Id": 559,
+      "Zipcode": "5309"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "San Vicente",
+      "Id": 605,
+      "Zipcode": "4609"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Sanchez-Mira",
+      "Id": 170,
+      "Zipcode": "3518"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santa",
+      "Id": 62,
+      "Zipcode": "2703"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Santa Ana",
+      "Id": 171,
+      "Zipcode": "3514"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Santa Ana",
+      "Id": 330,
+      "Zipcode": "2022"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Santa Barbara",
+      "Id": 789,
+      "Zipcode": "5002"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Santa Barbara",
+      "Id": 133,
+      "Zipcode": "2419"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santa Catalina",
+      "Id": 63,
+      "Zipcode": "2701"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Santa Catalina",
+      "Id": 944,
+      "Zipcode": "6220"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santa Cruz",
+      "Id": 64,
+      "Zipcode": "2713"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Santa Cruz",
+      "Id": 446,
+      "Zipcode": "4009"
+    },
+    {
+      "Provinceid": 24,
+      "Cityname": "Santa Cruz",
+      "Id": 522,
+      "Zipcode": "5105"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Santa Cruz",
+      "Id": 510,
+      "Zipcode": "4902"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Santa Cruz",
+      "Id": 1294,
+      "Zipcode": "8001"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Santa Cruz",
+      "Id": 363,
+      "Zipcode": "2213"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Santa Elena",
+      "Id": 606,
+      "Zipcode": "4611"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Santa Fe",
+      "Id": 577,
+      "Zipcode": "5508"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Santa Fe",
+      "Id": 227,
+      "Zipcode": "3705"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Santa Fe",
+      "Id": 917,
+      "Zipcode": "6047"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Santa Fe",
+      "Id": 1024,
+      "Zipcode": "6513"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Santa Ignacia",
+      "Id": 348,
+      "Zipcode": "2303"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Santa Josefa",
+      "Id": 1382,
+      "Zipcode": "8512"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santa Lucia",
+      "Id": 65,
+      "Zipcode": "2712"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Santa Magdalena",
+      "Id": 691,
+      "Zipcode": "4709"
+    },
+    {
+      "Provinceid": 78,
+      "Cityname": "Santa Marcela",
+      "Id": 1586,
+      "Zipcode": "3811"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Santa Margarita",
+      "Id": 1074,
+      "Zipcode": "6709"
+    },
+    {
+      "Provinceid": 61,
+      "Cityname": "Santa Maria",
+      "Id": 1299,
+      "Zipcode": "8011"
+    },
+    {
+      "Provinceid": 27,
+      "Cityname": "Santa Maria",
+      "Id": 578,
+      "Zipcode": "5502"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Santa Maria",
+      "Id": 211,
+      "Zipcode": "3330"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Santa Maria",
+      "Id": 447,
+      "Zipcode": "4022"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santa Maria",
+      "Id": 66,
+      "Zipcode": "2705"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Santa Maria",
+      "Id": 134,
+      "Zipcode": "2440"
+    },
+    {
+      "Provinceid": 13,
+      "Cityname": "Santa Maria",
+      "Id": 279,
+      "Zipcode": "3022"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Santa Monica",
+      "Id": 1409,
+      "Zipcode": "8422"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Santa Praxedes",
+      "Id": 172,
+      "Zipcode": "3521"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Santa Rita",
+      "Id": 331,
+      "Zipcode": "2002"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Santa Rita",
+      "Id": 1075,
+      "Zipcode": "6718"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Santa Rosa",
+      "Id": 307,
+      "Zipcode": "3101"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Santa Rosa City",
+      "Id": 448,
+      "Zipcode": "4026"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Santa Teresita",
+      "Id": 391,
+      "Zipcode": "4206"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Santa Teresita",
+      "Id": 173,
+      "Zipcode": "3512"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Santander",
+      "Id": 918,
+      "Zipcode": "6026"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santiago",
+      "Id": 67,
+      "Zipcode": "2707"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Santiago",
+      "Id": 1372,
+      "Zipcode": "8608"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Santiago City",
+      "Id": 212,
+      "Zipcode": "3311"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Santo Domingo",
+      "Id": 68,
+      "Zipcode": "2729"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Santo Domingo",
+      "Id": 308,
+      "Zipcode": "3133"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Santo Domingo",
+      "Id": 594,
+      "Zipcode": "4508"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Santo Nino",
+      "Id": 1343,
+      "Zipcode": "9509"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Santo Nino",
+      "Id": 1076,
+      "Zipcode": "6711"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Santo Nino",
+      "Id": 174,
+      "Zipcode": "3525"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Santo Tomas",
+      "Id": 135,
+      "Zipcode": "2426"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Santo Tomas",
+      "Id": 1283,
+      "Zipcode": "8112"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Santo Tomas",
+      "Id": 213,
+      "Zipcode": "3327"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Santo Tomas",
+      "Id": 91,
+      "Zipcode": "2505"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Santo Tomas",
+      "Id": 392,
+      "Zipcode": "4234"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Santo Tomas",
+      "Id": 332,
+      "Zipcode": "2020"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Santol",
+      "Id": 92,
+      "Zipcode": "2516"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Sapa-Sapa",
+      "Id": 1547,
+      "Zipcode": "7503"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Sapad",
+      "Id": 1217,
+      "Zipcode": "9213"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Sapang Dalaga",
+      "Id": 1235,
+      "Zipcode": "7212"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Sapian",
+      "Id": 742,
+      "Zipcode": "5806"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Sara",
+      "Id": 790,
+      "Zipcode": "5014"
+    },
+    {
+      "Provinceid": 61,
+      "Cityname": "Sarangani",
+      "Id": 1300,
+      "Zipcode": "8015"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Sariaya",
+      "Id": 487,
+      "Zipcode": "4322"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Sarrat",
+      "Id": 38,
+      "Zipcode": "2914"
+    },
+    {
+      "Provinceid": 15,
+      "Cityname": "Sasmuan",
+      "Id": 333,
+      "Zipcode": "2004"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Sebaste",
+      "Id": 723,
+      "Zipcode": "5709"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Sen. Ninoy Aquino",
+      "Id": 1360,
+      "Zipcode": "9811"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Sergio Osmena Sr.",
+      "Id": 1120,
+      "Zipcode": "7108"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Sevilla",
+      "Id": 865,
+      "Zipcode": "6347"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Shariff Aguak",
+      "Id": 1515,
+      "Zipcode": "9608"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Shariff Saydona Mustapha",
+      "Id": 1516,
+      "Zipcode": "9608"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Siasi",
+      "Id": 1540,
+      "Zipcode": "7412"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Siaton",
+      "Id": 945,
+      "Zipcode": "6219"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Siay",
+      "Id": 1168,
+      "Zipcode": "7006"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Siayan",
+      "Id": 1121,
+      "Zipcode": "7113"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Sibagat",
+      "Id": 1383,
+      "Zipcode": "8503"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Sibalom",
+      "Id": 724,
+      "Zipcode": "5713"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Sibonga",
+      "Id": 919,
+      "Zipcode": "6020"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Sibuco",
+      "Id": 1122,
+      "Zipcode": "7122"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Sibulan",
+      "Id": 946,
+      "Zipcode": "6201"
+    },
+    {
+      "Provinceid": 37,
+      "Cityname": "Sibunag",
+      "Id": 749,
+      "Zipcode": "5048"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Sibutad",
+      "Id": 1123,
+      "Zipcode": "7103"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Sierra Bullones",
+      "Id": 866,
+      "Zipcode": "6320"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Sigay",
+      "Id": 69,
+      "Zipcode": "2719"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Sigma",
+      "Id": 743,
+      "Zipcode": "5816"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Sikatuna",
+      "Id": 867,
+      "Zipcode": "6338"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Silago",
+      "Id": 1098,
+      "Zipcode": "6607"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Silang",
+      "Id": 417,
+      "Zipcode": "4118"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Silay City",
+      "Id": 820,
+      "Zipcode": "6116"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Silvino Lobos",
+      "Id": 1054,
+      "Zipcode": "6414"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Simunul",
+      "Id": 1548,
+      "Zipcode": "7505"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Sinacaban",
+      "Id": 1236,
+      "Zipcode": "7203"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Sinait",
+      "Id": 70,
+      "Zipcode": "2733"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Sindangan",
+      "Id": 1124,
+      "Zipcode": "7112"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Siniloan",
+      "Id": 449,
+      "Zipcode": "4019"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Siocon",
+      "Id": 1125,
+      "Zipcode": "7120"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Sipalay City",
+      "Id": 821,
+      "Zipcode": "6113"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Sipocot",
+      "Id": 642,
+      "Zipcode": "4408"
+    },
+    {
+      "Provinceid": 43,
+      "Cityname": "Siquijor",
+      "Id": 957,
+      "Zipcode": "6225"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Siraway",
+      "Id": 1126,
+      "Zipcode": "7121"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Siruma",
+      "Id": 643,
+      "Zipcode": "4427"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Sison",
+      "Id": 1410,
+      "Zipcode": "8404"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Sison",
+      "Id": 136,
+      "Zipcode": "2434"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Sitangkai",
+      "Id": 1549,
+      "Zipcode": "7506"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Socorro",
+      "Id": 1411,
+      "Zipcode": "8416"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Socorro",
+      "Id": 536,
+      "Zipcode": "5207"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Sofronio Espanola",
+      "Id": 560,
+      "Zipcode": "5301"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Sogod",
+      "Id": 920,
+      "Zipcode": "6007"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Sogod",
+      "Id": 1099,
+      "Zipcode": "6606"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Solana",
+      "Id": 175,
+      "Zipcode": "3503"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Solano",
+      "Id": 228,
+      "Zipcode": "3709"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Solsona",
+      "Id": 39,
+      "Zipcode": "2910"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Sominot",
+      "Id": 1149,
+      "Zipcode": "7022"
+    },
+    {
+      "Provinceid": 33,
+      "Cityname": "Sorsogon City",
+      "Id": 692,
+      "Zipcode": "4700"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "South Ubian",
+      "Id": 1550,
+      "Zipcode": "7504"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "South Upi",
+      "Id": 1517,
+      "Zipcode": "9603"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Sual",
+      "Id": 137,
+      "Zipcode": "2403"
+    },
+    {
+      "Provinceid": 17,
+      "Cityname": "Subic",
+      "Id": 364,
+      "Zipcode": "2209"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Sudipen",
+      "Id": 93,
+      "Zipcode": "2520"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Sugbongcogon",
+      "Id": 1261,
+      "Zipcode": "9009"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Sugpon",
+      "Id": 71,
+      "Zipcode": "2717"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Sulat",
+      "Id": 987,
+      "Zipcode": "6815"
+    },
+    {
+      "Provinceid": 60,
+      "Cityname": "Sulop",
+      "Id": 1295,
+      "Zipcode": "8009"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Sultan Dumalondong",
+      "Id": 1480,
+      "Zipcode": "9706"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Sultan Kudarat",
+      "Id": 1518,
+      "Zipcode": "9605"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Sultan Mastura",
+      "Id": 1519,
+      "Zipcode": "9605"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Sultan Naga Dimaporo",
+      "Id": 1218,
+      "Zipcode": "9215"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Sultan Sa Barongis",
+      "Id": 1520,
+      "Zipcode": "9611"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Sultan Sumagka",
+      "Id": 1521,
+      "Zipcode": "9612"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Sumilao",
+      "Id": 1191,
+      "Zipcode": "8701"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Sumisip",
+      "Id": 1442,
+      "Zipcode": "7305"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Surallah",
+      "Id": 1344,
+      "Zipcode": "9512"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Surigao City",
+      "Id": 1412,
+      "Zipcode": "8400"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Suyo",
+      "Id": 72,
+      "Zipcode": "2715"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "T'boli",
+      "Id": 1347,
+      "Zipcode": "9513"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Taal",
+      "Id": 393,
+      "Zipcode": "4208"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Tabaco City",
+      "Id": 595,
+      "Zipcode": "4511"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tabango",
+      "Id": 1025,
+      "Zipcode": "6536"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Tabina",
+      "Id": 1150,
+      "Zipcode": "7034"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Tabogon",
+      "Id": 921,
+      "Zipcode": "6009"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tabontabon",
+      "Id": 1026,
+      "Zipcode": "6504"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Tabuan-Lasa",
+      "Id": 1443,
+      "Zipcode": "7305"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Tabuelan",
+      "Id": 922,
+      "Zipcode": "6044"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Tabuk City",
+      "Id": 1617,
+      "Zipcode": "3800"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tacloban City",
+      "Id": 1027,
+      "Zipcode": "6500"
+    },
+    {
+      "Provinceid": 66,
+      "Cityname": "Tacurong City",
+      "Id": 1361,
+      "Zipcode": "9800"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "Tadian",
+      "Id": 1629,
+      "Zipcode": "2620"
+    },
+    {
+      "Provinceid": 45,
+      "Cityname": "Taft",
+      "Id": 988,
+      "Zipcode": "6816"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Tagana-an",
+      "Id": 1413,
+      "Zipcode": "8403"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Tagapul-an",
+      "Id": 1077,
+      "Zipcode": "6712"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Tagaytay City",
+      "Id": 418,
+      "Zipcode": "4120"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Tagbilaran City",
+      "Id": 868,
+      "Zipcode": "6300"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Tagbina",
+      "Id": 1431,
+      "Zipcode": "8308"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Tagkawayan",
+      "Id": 488,
+      "Zipcode": "4321"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Tago",
+      "Id": 1432,
+      "Zipcode": "8302"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Tagoloan",
+      "Id": 1262,
+      "Zipcode": "9001"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Tagoloan",
+      "Id": 1219,
+      "Zipcode": "9222"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Tagoloan-II",
+      "Id": 1481,
+      "Zipcode": "9321"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Tagudin",
+      "Id": 73,
+      "Zipcode": "2714"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Taguig City",
+      "Id": 16,
+      "Zipcode": "1630"
+    },
+    {
+      "Provinceid": 59,
+      "Cityname": "Tagum City",
+      "Id": 1284,
+      "Zipcode": "8100"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Talacogon",
+      "Id": 1384,
+      "Zipcode": "8510"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Talakag",
+      "Id": 1192,
+      "Zipcode": "8708"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Talalora",
+      "Id": 1078,
+      "Zipcode": "6719"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Talavera",
+      "Id": 309,
+      "Zipcode": "3114"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Talayan",
+      "Id": 1522,
+      "Zipcode": "9612"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Talibon",
+      "Id": 869,
+      "Zipcode": "6325"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Talipao",
+      "Id": 1541,
+      "Zipcode": "7403"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Talisay",
+      "Id": 394,
+      "Zipcode": "4220"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Talisay",
+      "Id": 607,
+      "Zipcode": "4602"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Talisay City",
+      "Id": 822,
+      "Zipcode": "6115"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Talisay City",
+      "Id": 923,
+      "Zipcode": "6045"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Talisayan",
+      "Id": 1263,
+      "Zipcode": "9012"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Talugtog",
+      "Id": 310,
+      "Zipcode": "3118"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Talusan",
+      "Id": 1169,
+      "Zipcode": "7012"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Tambulig",
+      "Id": 1151,
+      "Zipcode": "7025"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Tampakan",
+      "Id": 1345,
+      "Zipcode": "9507"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Tamparan",
+      "Id": 1482,
+      "Zipcode": "9704"
+    },
+    {
+      "Provinceid": 50,
+      "Cityname": "Tampilisan",
+      "Id": 1127,
+      "Zipcode": "7116"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tanauan",
+      "Id": 1028,
+      "Zipcode": "6502"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Tanauan City",
+      "Id": 395,
+      "Zipcode": "4232"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Tanay",
+      "Id": 503,
+      "Zipcode": "1980"
+    },
+    {
+      "Provinceid": 71,
+      "Cityname": "Tandag City",
+      "Id": 1433,
+      "Zipcode": "8300"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Tandubas",
+      "Id": 1551,
+      "Zipcode": "7502"
+    },
+    {
+      "Provinceid": 34,
+      "Cityname": "Tangalan",
+      "Id": 709,
+      "Zipcode": "5612"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Tangcal",
+      "Id": 1220,
+      "Zipcode": "9220"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Tangub City",
+      "Id": 1237,
+      "Zipcode": "7214"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Tanjay City",
+      "Id": 947,
+      "Zipcode": "6204"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Tantangan",
+      "Id": 1346,
+      "Zipcode": "9510"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Tanudan",
+      "Id": 1618,
+      "Zipcode": "3805"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Tanza",
+      "Id": 419,
+      "Zipcode": "4108"
+    },
+    {
+      "Provinceid": 36,
+      "Cityname": "Tapaz",
+      "Id": 744,
+      "Zipcode": "5814"
+    },
+    {
+      "Provinceid": 75,
+      "Cityname": "Tapul",
+      "Id": 1542,
+      "Zipcode": "7410"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Taraka",
+      "Id": 1483,
+      "Zipcode": "9712"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Tarangnan",
+      "Id": 1079,
+      "Zipcode": "6704"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Tarlac City",
+      "Id": 349,
+      "Zipcode": "2300"
+    },
+    {
+      "Provinceid": 62,
+      "Cityname": "Tarragona",
+      "Id": 1311,
+      "Zipcode": "8201"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Tayabas City",
+      "Id": 489,
+      "Zipcode": "4327"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Tayasan",
+      "Id": 948,
+      "Zipcode": "6211"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Taysan",
+      "Id": 396,
+      "Zipcode": "4228"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Taytay",
+      "Id": 504,
+      "Zipcode": "1920"
+    },
+    {
+      "Provinceid": 26,
+      "Cityname": "Taytay",
+      "Id": 561,
+      "Zipcode": "5312"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Tayug",
+      "Id": 138,
+      "Zipcode": "2445"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Tayum",
+      "Id": 1576,
+      "Zipcode": "2803"
+    },
+    {
+      "Provinceid": 22,
+      "Cityname": "Teresa",
+      "Id": 505,
+      "Zipcode": "1880"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Ternate",
+      "Id": 420,
+      "Zipcode": "4111"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Tiaong",
+      "Id": 490,
+      "Zipcode": "4325"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Tibiao",
+      "Id": 725,
+      "Zipcode": "5707"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Tigaon",
+      "Id": 644,
+      "Zipcode": "4420"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Tigbao",
+      "Id": 1152,
+      "Zipcode": "7043"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Tigbauan",
+      "Id": 791,
+      "Zipcode": "5021"
+    },
+    {
+      "Provinceid": 30,
+      "Cityname": "Tinambac",
+      "Id": 645,
+      "Zipcode": "4426"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Tineg",
+      "Id": 1577,
+      "Zipcode": "2822"
+    },
+    {
+      "Provinceid": 81,
+      "Cityname": "Tinglayan",
+      "Id": 1619,
+      "Zipcode": "3804"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Tingloy",
+      "Id": 397,
+      "Zipcode": "4203"
+    },
+    {
+      "Provinceid": 80,
+      "Cityname": "Tinoc",
+      "Id": 1611,
+      "Zipcode": "3609"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Tipo-Tipo",
+      "Id": 1444,
+      "Zipcode": "7304"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Titay",
+      "Id": 1170,
+      "Zipcode": "7003"
+    },
+    {
+      "Provinceid": 28,
+      "Cityname": "Tiwi",
+      "Id": 596,
+      "Zipcode": "4513"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Tobias Fornier",
+      "Id": 726,
+      "Zipcode": "5716"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Toboso",
+      "Id": 823,
+      "Zipcode": "6125"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Toledo City",
+      "Id": 924,
+      "Zipcode": "6038"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tolosa",
+      "Id": 1029,
+      "Zipcode": "6503"
+    },
+    {
+      "Provinceid": 49,
+      "Cityname": "Tomas Oppus",
+      "Id": 1100,
+      "Zipcode": "6605"
+    },
+    {
+      "Provinceid": 23,
+      "Cityname": "Torrijos",
+      "Id": 511,
+      "Zipcode": "4903"
+    },
+    {
+      "Provinceid": 19,
+      "Cityname": "Trece Martires City",
+      "Id": 421,
+      "Zipcode": "4109"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Trento",
+      "Id": 1385,
+      "Zipcode": "8505"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Trinidad",
+      "Id": 870,
+      "Zipcode": "6324"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Tuao",
+      "Id": 176,
+      "Zipcode": "3528"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Tuba",
+      "Id": 1599,
+      "Zipcode": "2603"
+    },
+    {
+      "Provinceid": 69,
+      "Cityname": "Tubajon",
+      "Id": 1393,
+      "Zipcode": "8426"
+    },
+    {
+      "Provinceid": 4,
+      "Cityname": "Tubao",
+      "Id": 94,
+      "Zipcode": "2509"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Tubaran",
+      "Id": 1484,
+      "Zipcode": "9304"
+    },
+    {
+      "Provinceid": 67,
+      "Cityname": "Tubay",
+      "Id": 1373,
+      "Zipcode": "8606"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Tubigon",
+      "Id": 871,
+      "Zipcode": "6329"
+    },
+    {
+      "Provinceid": 79,
+      "Cityname": "Tublay",
+      "Id": 1600,
+      "Zipcode": "2615"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Tubo",
+      "Id": 1578,
+      "Zipcode": "2814"
+    },
+    {
+      "Provinceid": 55,
+      "Cityname": "Tubod",
+      "Id": 1221,
+      "Zipcode": "9209"
+    },
+    {
+      "Provinceid": 70,
+      "Cityname": "Tubod",
+      "Id": 1414,
+      "Zipcode": "8406"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Tubungan",
+      "Id": 792,
+      "Zipcode": "5027"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Tuburan",
+      "Id": 925,
+      "Zipcode": "6043"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Tuburan",
+      "Id": 1445,
+      "Zipcode": "7306"
+    },
+    {
+      "Provinceid": 41,
+      "Cityname": "Tudela",
+      "Id": 926,
+      "Zipcode": "6051"
+    },
+    {
+      "Provinceid": 56,
+      "Cityname": "Tudela",
+      "Id": 1238,
+      "Zipcode": "7202"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Tugaya",
+      "Id": 1485,
+      "Zipcode": "9317"
+    },
+    {
+      "Provinceid": 7,
+      "Cityname": "Tuguegarao City",
+      "Id": 177,
+      "Zipcode": "3500"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Tukuran",
+      "Id": 1153,
+      "Zipcode": "7019"
+    },
+    {
+      "Provinceid": 63,
+      "Cityname": "Tulunan",
+      "Id": 1329,
+      "Zipcode": "9403"
+    },
+    {
+      "Provinceid": 8,
+      "Cityname": "Tumauini",
+      "Id": 214,
+      "Zipcode": "3325"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Tunga",
+      "Id": 1030,
+      "Zipcode": "6528"
+    },
+    {
+      "Provinceid": 52,
+      "Cityname": "Tungawan",
+      "Id": 1171,
+      "Zipcode": "7018"
+    },
+    {
+      "Provinceid": 65,
+      "Cityname": "Tupi",
+      "Id": 1348,
+      "Zipcode": "9505"
+    },
+    {
+      "Provinceid": 76,
+      "Cityname": "Turtle Island",
+      "Id": 1552,
+      "Zipcode": "7507"
+    },
+    {
+      "Provinceid": 18,
+      "Cityname": "Tuy",
+      "Id": 398,
+      "Zipcode": "4214"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Ubay",
+      "Id": 872,
+      "Zipcode": "6315"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Umingan",
+      "Id": 139,
+      "Zipcode": "2443"
+    },
+    {
+      "Provinceid": 72,
+      "Cityname": "Ungkay Pukan",
+      "Id": 1446,
+      "Zipcode": "7304"
+    },
+    {
+      "Provinceid": 21,
+      "Cityname": "Unisan",
+      "Id": 491,
+      "Zipcode": "4305"
+    },
+    {
+      "Provinceid": 74,
+      "Cityname": "Upi",
+      "Id": 1523,
+      "Zipcode": "9602"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Urbiztondo",
+      "Id": 140,
+      "Zipcode": "2414"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Urdaneta City",
+      "Id": 141,
+      "Zipcode": "2428"
+    },
+    {
+      "Provinceid": 32,
+      "Cityname": "Uson",
+      "Id": 677,
+      "Zipcode": "5402"
+    },
+    {
+      "Provinceid": 6,
+      "Cityname": "Uyugan",
+      "Id": 148,
+      "Zipcode": "3903"
+    },
+    {
+      "Provinceid": 35,
+      "Cityname": "Valderama",
+      "Id": 727,
+      "Zipcode": "5703"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Valencia",
+      "Id": 949,
+      "Zipcode": "6215"
+    },
+    {
+      "Provinceid": 40,
+      "Cityname": "Valencia",
+      "Id": 873,
+      "Zipcode": "6306"
+    },
+    {
+      "Provinceid": 53,
+      "Cityname": "Valencia City",
+      "Id": 1193,
+      "Zipcode": "8709"
+    },
+    {
+      "Provinceid": 1,
+      "Cityname": "Valenzuela City",
+      "Id": 17,
+      "Zipcode": "1440"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Valladolid",
+      "Id": 824,
+      "Zipcode": "6103"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Vallehermoso",
+      "Id": 950,
+      "Zipcode": "6224"
+    },
+    {
+      "Provinceid": 68,
+      "Cityname": "Veruela",
+      "Id": 1386,
+      "Zipcode": "8509"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Vicencio A. Sagun",
+      "Id": 1154,
+      "Zipcode": "7036"
+    },
+    {
+      "Provinceid": 25,
+      "Cityname": "Victoria",
+      "Id": 537,
+      "Zipcode": "5205"
+    },
+    {
+      "Provinceid": 20,
+      "Cityname": "Victoria",
+      "Id": 450,
+      "Zipcode": "4011"
+    },
+    {
+      "Provinceid": 16,
+      "Cityname": "Victoria",
+      "Id": 350,
+      "Zipcode": "2313"
+    },
+    {
+      "Provinceid": 47,
+      "Cityname": "Victoria",
+      "Id": 1055,
+      "Zipcode": "6406"
+    },
+    {
+      "Provinceid": 39,
+      "Cityname": "Victorias City",
+      "Id": 825,
+      "Zipcode": "6119"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Viga",
+      "Id": 655,
+      "Zipcode": "4805"
+    },
+    {
+      "Provinceid": 3,
+      "Cityname": "Vigan City",
+      "Id": 74,
+      "Zipcode": "2700"
+    },
+    {
+      "Provinceid": 9,
+      "Cityname": "Villa Verde",
+      "Id": 229,
+      "Zipcode": "3710"
+    },
+    {
+      "Provinceid": 46,
+      "Cityname": "Villaba",
+      "Id": 1031,
+      "Zipcode": "6537"
+    },
+    {
+      "Provinceid": 57,
+      "Cityname": "Villanueva",
+      "Id": 1264,
+      "Zipcode": "9002"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Villareal",
+      "Id": 1080,
+      "Zipcode": "6717"
+    },
+    {
+      "Provinceid": 5,
+      "Cityname": "Villasis",
+      "Id": 142,
+      "Zipcode": "2427"
+    },
+    {
+      "Provinceid": 77,
+      "Cityname": "Villaviciosa",
+      "Id": 1579,
+      "Zipcode": "2811"
+    },
+    {
+      "Provinceid": 2,
+      "Cityname": "Vintar",
+      "Id": 40,
+      "Zipcode": "2915"
+    },
+    {
+      "Provinceid": 29,
+      "Cityname": "Vinzons",
+      "Id": 608,
+      "Zipcode": "4603"
+    },
+    {
+      "Provinceid": 31,
+      "Cityname": "Virac",
+      "Id": 656,
+      "Zipcode": "4800"
+    },
+    {
+      "Provinceid": 73,
+      "Cityname": "Wao",
+      "Id": 1486,
+      "Zipcode": "9716"
+    },
+    {
+      "Provinceid": 51,
+      "Cityname": "Zamboanga City",
+      "Id": 1155,
+      "Zipcode": "7000"
+    },
+    {
+      "Provinceid": 42,
+      "Cityname": "Zamboanguita",
+      "Id": 951,
+      "Zipcode": "6218"
+    },
+    {
+      "Provinceid": 14,
+      "Cityname": "Zaragosa",
+      "Id": 311,
+      "Zipcode": "3110"
+    },
+    {
+      "Provinceid": 38,
+      "Cityname": "Zarraga",
+      "Id": 793,
+      "Zipcode": "5004"
+    },
+    {
+      "Provinceid": 48,
+      "Cityname": "Zumarraga",
+      "Id": 1081,
+      "Zipcode": "6725"
+    },
+    {
+      "Provinceid": 82,
+      "Cityname": "atonin",
+      "Id": 1624,
+      "Zipcode": "2624"
+    }
+  ]

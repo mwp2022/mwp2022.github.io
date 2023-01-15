@@ -1,0 +1,266 @@
+[
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "001",
+      "Id": "e81c9589-5ef1-8749-aa67-941225a32df4",
+      "Name": "BANGKAL"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "002",
+      "Id": "1bfcfd01-a52e-5f4d-95c9-95bc266e8d2a",
+      "Name": "BEL-AIR"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "003",
+      "Id": "9b110321-9993-604c-8278-1ca391978ddf",
+      "Name": "CARMONA"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "006",
+      "Id": "cdb2ef17-7c9c-404e-a3fe-2c70f674a7d4",
+      "Name": "CEMBO"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "008",
+      "Id": "a3f6dca2-f29e-034a-9d18-4c1d0b8c23ae",
+      "Name": "COMEMBO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "004",
+      "Id": "527668f9-fbd9-b14c-99b4-031eeeaca299",
+      "Name": "DASMARINAS"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "011",
+      "Id": "acc6921d-39e3-d740-8742-c85c3e5b1399",
+      "Name": "EAST REMBO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "005",
+      "Id": "4ed0c4c2-9e2d-ab4e-9861-6b40e08c6300",
+      "Name": "FORBES PARK"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "015",
+      "Id": "df7bcc38-10ec-1748-8e0a-26243ab15729",
+      "Name": "GUAD. NUEVO"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "016",
+      "Id": "755ed230-b2b5-0046-88ca-cb993f664860",
+      "Name": "GUAD. VIEJO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "017",
+      "Id": "19561237-80b0-e840-a05e-ab8cace4a106",
+      "Name": "KASILAWAN"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "018",
+      "Id": "85399d57-6797-c646-afed-795ce77d444f",
+      "Name": "LA PAZ"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "019",
+      "Id": "bbe8dbc0-0eca-1b40-a0c2-2e1078eac3ce",
+      "Name": "MAGALLANES"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "020",
+      "Id": "46ecb7cc-b62d-1840-a001-58b94386791a",
+      "Name": "OLYMPIA"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "013",
+      "Id": "d0cf3ed5-3a59-994f-b35c-354442f26711",
+      "Name": "P. P. NORTHSIDE"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "014",
+      "Id": "5d9d54b9-8899-a94a-b842-35ec54b63c4a",
+      "Name": "P. P. SOUTHSIDE"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "021",
+      "Id": "57fa8312-0027-784f-a73f-e8f815e878d1",
+      "Name": "PALANAN"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "009",
+      "Id": "75555dc9-219a-e341-ae7a-84621fd6ab7f",
+      "Name": "PEMBO"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "022",
+      "Id": "76346f4e-e7bc-e04a-b06e-a8f10a17c5dc",
+      "Name": "PINAGKAISAHAN"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "023",
+      "Id": "f21bf590-3b23-b741-8b80-55f31e66c829",
+      "Name": "PIO DEL PILAR"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "010",
+      "Id": "1a9a876b-3eed-c24b-95a3-8cf88a75bffa",
+      "Name": "PITOGO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "024",
+      "Id": "ac7820b1-f85f-c943-9d93-18721a33b69e",
+      "Name": "POBLACION"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "033",
+      "Id": "9174f280-e7a9-514c-b565-ea2fd9588321",
+      "Name": "RIZAL"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "025",
+      "Id": "8655650e-b972-9c43-8431-6fca932eab69",
+      "Name": "SAN ANTONIO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "026",
+      "Id": "10326f5c-55a8-244a-bf5e-a5d185f534f4",
+      "Name": "SAN ISIDRO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "027",
+      "Id": "5111483a-5120-b145-bf21-6ead0b6a21bb",
+      "Name": "SAN LORENZO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "028",
+      "Id": "17ebe1fb-532b-3e47-8799-7fab961a3498",
+      "Name": "SINGKAMAS"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "007",
+      "Id": "bc045b95-5844-4d4a-857f-2f88adad3625",
+      "Name": "SOUTH CEMBO"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "029",
+      "Id": "111575ba-a769-5f45-a90a-61a37e6b3611",
+      "Name": "STA. CRUZ"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "030",
+      "Id": "87f8268a-8650-4241-a735-d79436464114",
+      "Name": "TEJEROS"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "031",
+      "Id": "31f46b2c-e91b-bc4b-99f0-510e95d07e41",
+      "Name": "URDANETA"
+    },
+    {
+      "District": "I",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "032",
+      "Id": "54a8e21c-030e-b040-ad99-c4a3230fb047",
+      "Name": "VALENZUELA"
+    },
+    {
+      "District": "II",
+      "Zipcode": null,
+      "Isdeleted": false,
+      "Code": "012",
+      "Id": "37738673-bdb9-ef41-aa23-ad1954bb9bb3",
+      "Name": "WEST REMBO"
+    }
+  ]

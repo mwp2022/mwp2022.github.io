@@ -1,0 +1,412 @@
+[
+    {
+      "Regionid": 17,
+      "Provincename": "Abra",
+      "Id": 77
+    },
+    {
+      "Regionid": 15,
+      "Provincename": "Agusan Del Norte",
+      "Id": 67
+    },
+    {
+      "Regionid": 15,
+      "Provincename": "Agusan Del Sur",
+      "Id": 68
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Aklan",
+      "Id": 34
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Albay",
+      "Id": 28
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Antique",
+      "Id": 35
+    },
+    {
+      "Regionid": 17,
+      "Provincename": "Apayao",
+      "Id": 78
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Aurora",
+      "Id": 11
+    },
+    {
+      "Regionid": 16,
+      "Provincename": "Basilan",
+      "Id": 72
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Bataan",
+      "Id": 12
+    },
+    {
+      "Regionid": 3,
+      "Provincename": "Batanes",
+      "Id": 6
+    },
+    {
+      "Regionid": 5,
+      "Provincename": "Batangas",
+      "Id": 18
+    },
+    {
+      "Regionid": 17,
+      "Provincename": "Benguet",
+      "Id": 79
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Biliran",
+      "Id": 44
+    },
+    {
+      "Regionid": 9,
+      "Provincename": "Bohol",
+      "Id": 40
+    },
+    {
+      "Regionid": 12,
+      "Provincename": "Bukidnon",
+      "Id": 53
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Bulacan",
+      "Id": 13
+    },
+    {
+      "Regionid": 3,
+      "Provincename": "Cagayan",
+      "Id": 7
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Camarines Norte",
+      "Id": 29
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Camarines Sur",
+      "Id": 30
+    },
+    {
+      "Regionid": 12,
+      "Provincename": "Camiguin",
+      "Id": 54
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Capiz",
+      "Id": 36
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Catanduanes",
+      "Id": 31
+    },
+    {
+      "Regionid": 5,
+      "Provincename": "Cavite",
+      "Id": 19
+    },
+    {
+      "Regionid": 9,
+      "Provincename": "Cebu",
+      "Id": 41
+    },
+    {
+      "Regionid": 13,
+      "Provincename": "Compostela Valley",
+      "Id": 58
+    },
+    {
+      "Regionid": 13,
+      "Provincename": "Davao Del Norte",
+      "Id": 59
+    },
+    {
+      "Regionid": 13,
+      "Provincename": "Davao Del Sur",
+      "Id": 60
+    },
+    {
+      "Regionid": 13,
+      "Provincename": "Davao Occidental",
+      "Id": 61
+    },
+    {
+      "Regionid": 13,
+      "Provincename": "Davao Oriental",
+      "Id": 62
+    },
+    {
+      "Regionid": 15,
+      "Provincename": "Dinagat Island",
+      "Id": 69
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Eastern Samar",
+      "Id": 45
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Guimaras",
+      "Id": 37
+    },
+    {
+      "Regionid": 17,
+      "Provincename": "Ifugao",
+      "Id": 80
+    },
+    {
+      "Regionid": 2,
+      "Provincename": "Ilocos Norte",
+      "Id": 2
+    },
+    {
+      "Regionid": 2,
+      "Provincename": "Ilocos Sur",
+      "Id": 3
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Iloilo",
+      "Id": 38
+    },
+    {
+      "Regionid": 3,
+      "Provincename": "Isabela",
+      "Id": 8
+    },
+    {
+      "Regionid": 17,
+      "Provincename": "Kalinga",
+      "Id": 81
+    },
+    {
+      "Regionid": 2,
+      "Provincename": "La Union",
+      "Id": 4
+    },
+    {
+      "Regionid": 5,
+      "Provincename": "Laguna",
+      "Id": 20
+    },
+    {
+      "Regionid": 12,
+      "Provincename": "Lanao Del Norte",
+      "Id": 55
+    },
+    {
+      "Regionid": 16,
+      "Provincename": "Lanao Del Sur",
+      "Id": 73
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Leyte",
+      "Id": 46
+    },
+    {
+      "Regionid": 16,
+      "Provincename": "Maguindanao",
+      "Id": 74
+    },
+    {
+      "Regionid": 6,
+      "Provincename": "Marinduque",
+      "Id": 23
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Masbate",
+      "Id": 32
+    },
+    {
+      "Regionid": 1,
+      "Provincename": "Metro Manila",
+      "Id": 1
+    },
+    {
+      "Regionid": 12,
+      "Provincename": "Misamis Occidental",
+      "Id": 56
+    },
+    {
+      "Regionid": 12,
+      "Provincename": "Misamis Oriental",
+      "Id": 57
+    },
+    {
+      "Regionid": 17,
+      "Provincename": "Mountain Province",
+      "Id": 82
+    },
+    {
+      "Regionid": 8,
+      "Provincename": "Negros Occidental",
+      "Id": 39
+    },
+    {
+      "Regionid": 9,
+      "Provincename": "Negros Oriental",
+      "Id": 42
+    },
+    {
+      "Regionid": 14,
+      "Provincename": "North Cotabato",
+      "Id": 63
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Northern Samar",
+      "Id": 47
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Nueva Ecija",
+      "Id": 14
+    },
+    {
+      "Regionid": 3,
+      "Provincename": "Nueva Vizcaya",
+      "Id": 9
+    },
+    {
+      "Regionid": 6,
+      "Provincename": "Occidental Mindoro",
+      "Id": 24
+    },
+    {
+      "Regionid": 6,
+      "Provincename": "Oriental Mindoro",
+      "Id": 25
+    },
+    {
+      "Regionid": 6,
+      "Provincename": "Palawan",
+      "Id": 26
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Pampanga",
+      "Id": 15
+    },
+    {
+      "Regionid": 2,
+      "Provincename": "Pangasinan",
+      "Id": 5
+    },
+    {
+      "Regionid": 5,
+      "Provincename": "Quezon",
+      "Id": 21
+    },
+    {
+      "Regionid": 3,
+      "Provincename": "Quirino",
+      "Id": 10
+    },
+    {
+      "Regionid": 5,
+      "Provincename": "Rizal",
+      "Id": 22
+    },
+    {
+      "Regionid": 6,
+      "Provincename": "Romblon",
+      "Id": 27
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Samar",
+      "Id": 48
+    },
+    {
+      "Regionid": 14,
+      "Provincename": "Sarangani",
+      "Id": 64
+    },
+    {
+      "Regionid": 9,
+      "Provincename": "Siquijor",
+      "Id": 43
+    },
+    {
+      "Regionid": 7,
+      "Provincename": "Sorsogon",
+      "Id": 33
+    },
+    {
+      "Regionid": 14,
+      "Provincename": "South Cotabato",
+      "Id": 65
+    },
+    {
+      "Regionid": 10,
+      "Provincename": "Southern Leyte",
+      "Id": 49
+    },
+    {
+      "Regionid": 14,
+      "Provincename": "Sultan Kudarat",
+      "Id": 66
+    },
+    {
+      "Regionid": 16,
+      "Provincename": "Sulu",
+      "Id": 75
+    },
+    {
+      "Regionid": 15,
+      "Provincename": "Surigao Del Norte",
+      "Id": 70
+    },
+    {
+      "Regionid": 15,
+      "Provincename": "Surigao Del Sur",
+      "Id": 71
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Tarlac",
+      "Id": 16
+    },
+    {
+      "Regionid": 16,
+      "Provincename": "Tawi-Tawi",
+      "Id": 76
+    },
+    {
+      "Regionid": 4,
+      "Provincename": "Zambales",
+      "Id": 17
+    },
+    {
+      "Regionid": 11,
+      "Provincename": "Zamboanga Del Norte",
+      "Id": 50
+    },
+    {
+      "Regionid": 11,
+      "Provincename": "Zamboanga Del Sur",
+      "Id": 51
+    },
+    {
+      "Regionid": 11,
+      "Provincename": "Zamboanga Sibugay",
+      "Id": 52
+    }
+  ]
